@@ -1,5 +1,5 @@
 {
-  "content_hash": "d1acd39d6cce9ff53738a9bddfd5c84251bd1c08a22af28e891897c700c33ace",
+  "content_hash": "f64f49a905d240db5e665b5a0080083e2f3f9be836d6507b5db363342511337e",
   "drafts": [
     {
       "draft": {
@@ -4237,7 +4237,7 @@
       "traded_picks": []
     }
   ],
-  "generated_at": "2026-09-01T17:51:52.003Z",
+  "generated_at": "2026-09-01T20:12:06.532Z",
   "league": {
     "avatar": null,
     "bracket_id": null,
@@ -18804,7 +18804,7 @@
       ],
       "first_name": "Carnell",
       "full_name": "Carnell Tate",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "Tate",
       "number": 14,
       "player_id": "13279",
