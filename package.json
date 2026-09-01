@@ -1,0 +1,14 @@
+{
+  "name": "sleeper-league-bridge",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Public, auto-refreshed JSON snapshot of a Sleeper fantasy football league.",
+  "scripts": {
+    "refresh": "node scripts/refresh.mjs",
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
