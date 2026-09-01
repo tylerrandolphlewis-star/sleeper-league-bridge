@@ -1,0 +1,56 @@
+name: Refresh Sleeper snapshot
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/refresh.yml"
+      - "package.json"
+      - "scripts/**"
+      - "test/**"
+  schedule:
+    - cron: "3,18,33,48 * * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sleeper-snapshot-refresh
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    env:
+      LEAGUE_ID: "1389357903374188544"
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Test bridge
+        run: npm test
+
+      - name: Refresh snapshot
+        run: npm run refresh
+
+      - name: Commit changed data
+        run: |
+          if [ -z "$(git status --porcelain -- snapshot.json)" ]; then
+            echo "Sleeper data is unchanged."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add snapshot.json
+          git commit -m "data: refresh Sleeper snapshot"
+          git push
