@@ -1,5 +1,5 @@
 {
-  "content_hash": "fcaa2118d3ded7bb7484d3d8d8ed803199cad4ed3d147b83f4bd71ca23c7c68a",
+  "content_hash": "12961a173b0b65d77b670b599476582e49f8cb6465ea930de0ddb12fbbf45610",
   "drafts": [
     {
       "draft": {
@@ -4237,7 +4237,7 @@
       "traded_picks": []
     }
   ],
-  "generated_at": "2026-09-02T15:17:05.319Z",
+  "generated_at": "2026-09-02T15:54:54.107Z",
   "league": {
     "avatar": null,
     "bracket_id": null,
@@ -4250,9 +4250,9 @@
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
-    "last_message_id": "1400885957770653696",
+    "last_message_id": "1400905815115726848",
     "last_message_text_map": null,
-    "last_message_time": 1788359748836,
+    "last_message_time": 1788364483196,
     "last_pinned_message_id": null,
     "last_read_id": null,
     "league_id": "1389357903374188544",
@@ -19857,7 +19857,7 @@
         "MIN"
       ],
       "taxi_ids": [],
-      "team_name": "Snake Eyes Over and Out"
+      "team_name": "Designer Don"
     },
     {
       "owner_display_name": "isourk11",
@@ -20793,7 +20793,7 @@
       "metadata": {
         "allow_pn": "on",
         "mention_pn": "on",
-        "team_name": "Snake Eyes Over and Out"
+        "team_name": "Designer Don"
       },
       "settings": null,
       "user_id": "1263208624084226048"
