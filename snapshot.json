@@ -1,5 +1,5 @@
 {
-  "content_hash": "12961a173b0b65d77b670b599476582e49f8cb6465ea930de0ddb12fbbf45610",
+  "content_hash": "3b63f6a2037d1b20a2acf943ae77afdc772fcc472bda0974d188c4bcd98154b4",
   "drafts": [
     {
       "draft": {
@@ -4237,7 +4237,7 @@
       "traded_picks": []
     }
   ],
-  "generated_at": "2026-09-02T15:54:54.107Z",
+  "generated_at": "2026-09-02T17:11:11.873Z",
   "league": {
     "avatar": null,
     "bracket_id": null,
@@ -17679,7 +17679,7 @@
       ],
       "first_name": "Kenneth",
       "full_name": "Kenneth Walker",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Walker",
       "number": 9,
       "player_id": "8151",
