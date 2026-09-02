@@ -1,5 +1,5 @@
 {
-  "content_hash": "2294006e9830899e3fa40122c55aea86c505f5ab871c47eba34860ab79b7aff0",
+  "content_hash": "3c1778ef0cdf21cb0ee76c9abf7aadd8407c0368f76c82c8812dce966d414731",
   "drafts": [
     {
       "draft": {
@@ -4237,7 +4237,7 @@
       "traded_picks": []
     }
   ],
-  "generated_at": "2026-09-02T00:44:07.998Z",
+  "generated_at": "2026-09-02T04:13:49.185Z",
   "league": {
     "avatar": null,
     "bracket_id": null,
@@ -4250,9 +4250,9 @@
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
-    "last_message_id": "1400671793869500416",
+    "last_message_id": "1400724488663863296",
     "last_message_text_map": null,
-    "last_message_time": 1788308688183,
+    "last_message_time": 1788321251602,
     "last_pinned_message_id": null,
     "last_read_id": null,
     "league_id": "1389357903374188544",
@@ -19845,7 +19845,7 @@
         "MIN"
       ],
       "taxi_ids": [],
-      "team_name": null
+      "team_name": "Snake Eyes Over and Out"
     },
     {
       "owner_display_name": "isourk11",
@@ -20576,7 +20576,8 @@
       "league_id": "1389357903374188544",
       "metadata": {
         "allow_pn": "on",
-        "mention_pn": "on"
+        "mention_pn": "on",
+        "team_name": "Snake Eyes Over and Out"
       },
       "settings": null,
       "user_id": "1263208624084226048"
