@@ -1,5 +1,5 @@
 {
-  "content_hash": "ff965b1c8778167aa5451ff5cf433882cd1ca538d8b55eb0ad68fb23ea5711b1",
+  "content_hash": "f88db6da741fe2a0a97c75b31d7973e2fd2ffb040f25307da7b0a781975e40f0",
   "drafts": [
     {
       "draft": {
@@ -4237,7 +4237,7 @@
       "traded_picks": []
     }
   ],
-  "generated_at": "2026-09-02T11:11:28.041Z",
+  "generated_at": "2026-09-02T14:12:27.541Z",
   "league": {
     "avatar": null,
     "bracket_id": null,
@@ -18335,7 +18335,7 @@
       ],
       "first_name": "Brian",
       "full_name": "Brian Thomas",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Thomas",
       "number": 7,
       "player_id": "11631",
