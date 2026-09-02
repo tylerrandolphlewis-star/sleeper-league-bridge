@@ -1,5 +1,5 @@
 {
-  "content_hash": "a991662242e72ba7b3a6ede170c0bb5759f7d0404ddfceb1ead70235778a6de8",
+  "content_hash": "fcaa2118d3ded7bb7484d3d8d8ed803199cad4ed3d147b83f4bd71ca23c7c68a",
   "drafts": [
     {
       "draft": {
@@ -4237,7 +4237,7 @@
       "traded_picks": []
     }
   ],
-  "generated_at": "2026-09-02T14:42:06.316Z",
+  "generated_at": "2026-09-02T15:17:05.319Z",
   "league": {
     "avatar": null,
     "bracket_id": null,
@@ -18543,7 +18543,7 @@
       ],
       "first_name": "Bhayshul",
       "full_name": "Bhayshul Tuten",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "Tuten",
       "number": 33,
       "player_id": "12490",
