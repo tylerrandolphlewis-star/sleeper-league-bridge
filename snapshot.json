@@ -1,5 +1,5 @@
 {
-  "content_hash": "a1e585917f914d528b98833810e32b2114cb4a4501c88033871751b4b766591a",
+  "content_hash": "35abddded52bd0012bb4f5859f1c28f451bf50218a54048964babf3bd8e7b6be",
   "drafts": [
     {
       "draft": {
@@ -4237,7 +4237,7 @@
       "traded_picks": []
     }
   ],
-  "generated_at": "2026-09-03T19:23:33.953Z",
+  "generated_at": "2026-09-03T21:25:52.576Z",
   "league": {
     "avatar": null,
     "bracket_id": null,
@@ -17055,7 +17055,7 @@
       ],
       "first_name": "D'Andre",
       "full_name": "D'Andre Swift",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "Swift",
       "number": 4,
       "player_id": "6790",
@@ -18335,7 +18335,7 @@
       ],
       "first_name": "Rome",
       "full_name": "Rome Odunze",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "Odunze",
       "number": 15,
       "player_id": "11620",
