@@ -1,5 +1,5 @@
 {
-  "content_hash": "afed7ecff6547eeee3fba48426482fa1d32f61a9f7215cf0ed9d39bf939d52f7",
+  "content_hash": "e920a564d46622db7336419b2359f144578527b7fcafbc16fe0f56d289468329",
   "drafts": [
     {
       "draft": {
@@ -4237,7 +4237,7 @@
       "traded_picks": []
     }
   ],
-  "generated_at": "2026-09-03T18:56:41.677Z",
+  "generated_at": "2026-09-03T19:09:57.545Z",
   "league": {
     "avatar": null,
     "bracket_id": null,
@@ -4250,9 +4250,9 @@
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
-    "last_message_id": "1400905815115726848",
+    "last_message_id": "1401313880495386642",
     "last_message_text_map": null,
-    "last_message_time": 1788364483196,
+    "last_message_time": 1788461773564,
     "last_pinned_message_id": null,
     "last_read_id": null,
     "league_id": "1389357903374188544",
@@ -19302,7 +19302,6 @@
         "11581",
         "11604",
         "12517",
-        "13298",
         "13305",
         "13417",
         "3198",
@@ -19311,6 +19310,7 @@
         "5850",
         "6801",
         "6813",
+        "7528",
         "8148",
         "9502",
         "MIN"
@@ -19833,7 +19833,6 @@
         "11581",
         "11604",
         "12517",
-        "13298",
         "13305",
         "13417",
         "3198",
@@ -19842,6 +19841,7 @@
         "5850",
         "6801",
         "6813",
+        "7528",
         "8148",
         "9502",
         "MIN"
@@ -20216,6 +20216,31 @@
   "transactions": [
     {
       "adds": {
+        "7528": 4
+      },
+      "consenter_ids": [
+        4
+      ],
+      "created": 1788461773535,
+      "creator": "1263208624084226048",
+      "draft_picks": [],
+      "drops": {
+        "13298": 4
+      },
+      "leg": 1,
+      "metadata": null,
+      "roster_ids": [
+        4
+      ],
+      "settings": null,
+      "status": "complete",
+      "status_updated": 1788461773535,
+      "transaction_id": "1401313880373792768",
+      "type": "free_agent",
+      "waiver_budget": []
+    },
+    {
+      "adds": {
         "7839": 7
       },
       "consenter_ids": [
@@ -20426,6 +20451,31 @@
   "transactions_by_week": {
     "0": [],
     "1": [
+      {
+        "adds": {
+          "7528": 4
+        },
+        "consenter_ids": [
+          4
+        ],
+        "created": 1788461773535,
+        "creator": "1263208624084226048",
+        "draft_picks": [],
+        "drops": {
+          "13298": 4
+        },
+        "leg": 1,
+        "metadata": null,
+        "roster_ids": [
+          4
+        ],
+        "settings": null,
+        "status": "complete",
+        "status_updated": 1788461773535,
+        "transaction_id": "1401313880373792768",
+        "type": "free_agent",
+        "waiver_budget": []
+      },
       {
         "adds": {
           "7839": 7
