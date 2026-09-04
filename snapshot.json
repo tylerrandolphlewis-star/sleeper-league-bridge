@@ -1,5 +1,5 @@
 {
-  "content_hash": "db9aae9ecebb4e82b59bb75026b597ff8216623e75f9a410bc83bd0fd0176008",
+  "content_hash": "4a2bc5b98e0bef48498702fa32e3ffd482425c9013b4bb8d79b3a673b1992f02",
   "drafts": [
     {
       "draft": {
@@ -4237,7 +4237,7 @@
       "traded_picks": []
     }
   ],
-  "generated_at": "2026-09-04T00:54:46.922Z",
+  "generated_at": "2026-09-04T22:11:34.707Z",
   "league": {
     "avatar": null,
     "bracket_id": null,
@@ -18804,7 +18804,7 @@
       "last_name": "Hunter",
       "number": 12,
       "player_id": "12530",
-      "position": "WR",
+      "position": "DB",
       "status": "Active",
       "team": "JAX",
       "years_exp": 1
