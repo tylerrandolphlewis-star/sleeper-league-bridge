@@ -1,5 +1,5 @@
 {
-  "content_hash": "64740216997294004b156a242346c50c84c4427248a82de6d1e4243da7a851d4",
+  "content_hash": "50899058187fb0a79b267fdc57c3f68dfc1d2c6495ccc6ad1e048d16f352a40b",
   "drafts": [
     {
       "draft": {
@@ -4237,7 +4237,7 @@
       "traded_picks": []
     }
   ],
-  "generated_at": "2026-09-07T19:39:35.561Z",
+  "generated_at": "2026-09-07T21:11:40.842Z",
   "league": {
     "avatar": null,
     "bracket_id": null,
@@ -18036,7 +18036,7 @@
       ],
       "first_name": "Zach",
       "full_name": "Zach Charbonnet",
-      "injury_status": "PUP",
+      "injury_status": "Out",
       "last_name": "Charbonnet",
       "number": 26,
       "player_id": "9753",
