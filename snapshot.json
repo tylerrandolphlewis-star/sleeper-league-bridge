@@ -1,5 +1,5 @@
 {
-  "content_hash": "dcf8349f73e50d6221dce76bba0157014f1b1ced7c80126acc92f2515c8835c9",
+  "content_hash": "0770fac0a70b29b3aff4ec43736e652451378606c4c54e542ca700fe20acaf71",
   "drafts": [
     {
       "draft": {
@@ -4237,7 +4237,7 @@
       "traded_picks": []
     }
   ],
-  "generated_at": "2026-09-08T17:12:29.152Z",
+  "generated_at": "2026-09-08T20:41:21.133Z",
   "league": {
     "avatar": null,
     "bracket_id": null,
@@ -17302,7 +17302,7 @@
       "full_name": "Najee Harris",
       "injury_status": null,
       "last_name": "Harris",
-      "number": 22,
+      "number": 23,
       "player_id": "7528",
       "position": "RB",
       "status": "Active",
