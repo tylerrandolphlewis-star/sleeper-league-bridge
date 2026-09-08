@@ -1,5 +1,5 @@
 {
-  "content_hash": "800c26216ad1a481460638d909598f66fa4b678c66b2415faa83797b1997a679",
+  "content_hash": "f9227cc429a15273a681f33a6c8e2f1aa2068c0d840472fce39f09863011e65b",
   "drafts": [
     {
       "draft": {
@@ -4237,7 +4237,7 @@
       "traded_picks": []
     }
   ],
-  "generated_at": "2026-09-08T21:10:44.724Z",
+  "generated_at": "2026-09-08T22:39:59.939Z",
   "league": {
     "avatar": null,
     "bracket_id": null,
@@ -16580,7 +16580,7 @@
       ],
       "first_name": "Mike",
       "full_name": "Mike Evans",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Evans",
       "number": 5,
       "player_id": "2216",
@@ -16692,7 +16692,7 @@
       ],
       "first_name": "Christian",
       "full_name": "Christian McCaffrey",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "McCaffrey",
       "number": 23,
       "player_id": "4034",
@@ -17972,7 +17972,7 @@
       ],
       "first_name": "Puka",
       "full_name": "Puka Nacua",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Nacua",
       "number": 12,
       "player_id": "9493",
@@ -19045,7 +19045,7 @@
       ],
       "first_name": "De'Zhaun",
       "full_name": "De'Zhaun Stribling",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Stribling",
       "number": 7,
       "player_id": "13417",
