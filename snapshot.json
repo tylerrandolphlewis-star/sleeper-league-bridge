@@ -1,5 +1,5 @@
 {
-  "content_hash": "84f3791802ec936eb86141502bd96e044a9dac1c23e112bd306134818a863d22",
+  "content_hash": "2af29e0aa26479e3077840b555dc04fa16de7e235e95c2962b83956335934d82",
   "drafts": [
     {
       "draft": {
@@ -4237,7 +4237,7 @@
       "traded_picks": []
     }
   ],
-  "generated_at": "2026-09-09T20:51:38.856Z",
+  "generated_at": "2026-09-09T21:11:02.234Z",
   "league": {
     "avatar": null,
     "bracket_id": null,
@@ -17140,7 +17140,7 @@
       ],
       "first_name": "Tee",
       "full_name": "Tee Higgins",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Higgins",
       "number": 5,
       "player_id": "6801",
@@ -17364,7 +17364,7 @@
       ],
       "first_name": "Ja'Marr",
       "full_name": "Ja'Marr Chase",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Chase",
       "number": 1,
       "player_id": "7564",
@@ -17652,7 +17652,7 @@
       ],
       "first_name": "Alec",
       "full_name": "Alec Pierce",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "Pierce",
       "number": 14,
       "player_id": "8142",
@@ -17988,7 +17988,7 @@
       ],
       "first_name": "Josh",
       "full_name": "Josh Downs",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Downs",
       "number": 2,
       "player_id": "9500",
