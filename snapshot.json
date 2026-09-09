@@ -1,5 +1,5 @@
 {
-  "content_hash": "08d4906d482b0e298012c097eedfbb046f713054863a0011f85ef6b603506aeb",
+  "content_hash": "62d7acf81e12ed98de5c0d7636e23da92b657d0cdcbd988e33eb08d71785a2ef",
   "drafts": [
     {
       "draft": {
@@ -4237,7 +4237,7 @@
       "traded_picks": []
     }
   ],
-  "generated_at": "2026-09-09T23:25:18.009Z",
+  "generated_at": "2026-09-09T23:39:24.932Z",
   "league": {
     "avatar": null,
     "bracket_id": null,
@@ -17828,7 +17828,7 @@
       ],
       "first_name": "Cameron",
       "full_name": "Cameron Dicker",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Dicker",
       "number": 11,
       "player_id": "8259",
