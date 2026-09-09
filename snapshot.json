@@ -1,5 +1,5 @@
 {
-  "content_hash": "a7dd448b33700974148ec69c00e9fae98b31aabdf81533404abde64f4efd652c",
+  "content_hash": "f57392b254e372d9f929b24f5061fa411212a7c6f7d14c0497f7311b1e6cd83d",
   "drafts": [
     {
       "draft": {
@@ -4237,7 +4237,7 @@
       "traded_picks": []
     }
   ],
-  "generated_at": "2026-09-09T04:54:04.249Z",
+  "generated_at": "2026-09-09T20:12:36.050Z",
   "league": {
     "avatar": null,
     "bracket_id": null,
@@ -17428,7 +17428,7 @@
       ],
       "first_name": "Chuba",
       "full_name": "Chuba Hubbard",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Hubbard",
       "number": 30,
       "player_id": "7594",
