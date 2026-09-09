@@ -1,5 +1,5 @@
 {
-  "content_hash": "f57392b254e372d9f929b24f5061fa411212a7c6f7d14c0497f7311b1e6cd83d",
+  "content_hash": "c39d857601ad717b327276d803e284e6f93b4e110db43d11bdac03611323ee85",
   "drafts": [
     {
       "draft": {
@@ -4237,7 +4237,7 @@
       "traded_picks": []
     }
   ],
-  "generated_at": "2026-09-09T20:12:36.050Z",
+  "generated_at": "2026-09-09T20:28:10.883Z",
   "league": {
     "avatar": null,
     "bracket_id": null,
@@ -17092,7 +17092,7 @@
       ],
       "first_name": "D'Andre",
       "full_name": "D'Andre Swift",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Swift",
       "number": 4,
       "player_id": "6790",
@@ -17748,7 +17748,7 @@
       ],
       "first_name": "Breece",
       "full_name": "Breece Hall",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Hall",
       "number": 20,
       "player_id": "8155",
@@ -18196,7 +18196,7 @@
       ],
       "first_name": "Sam",
       "full_name": "Sam LaPorta",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "LaPorta",
       "number": 87,
       "player_id": "10859",
@@ -18388,7 +18388,7 @@
       ],
       "first_name": "Brock",
       "full_name": "Brock Bowers",
-      "injury_status": null,
+      "injury_status": "Doubtful",
       "last_name": "Bowers",
       "number": 89,
       "player_id": "11604",
@@ -18804,7 +18804,7 @@
       ],
       "first_name": "Luther",
       "full_name": "Luther Burden",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Burden",
       "number": 10,
       "player_id": "12519",
@@ -18901,7 +18901,7 @@
       ],
       "first_name": "Kyle",
       "full_name": "Kyle Monangai",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Monangai",
       "number": 25,
       "player_id": "12534",
