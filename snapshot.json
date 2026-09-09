@@ -1,5 +1,5 @@
 {
-  "content_hash": "46f6f53ac2ff50ac39ff9050733c3a1f89dea3145c126eb1b738e3e2c5f4ce30",
+  "content_hash": "f6fc352b9110ec402bfd39cb6dce5a3d84745fab501c7185c46a89ac9d06b52d",
   "drafts": [
     {
       "draft": {
@@ -4237,7 +4237,7 @@
       "traded_picks": []
     }
   ],
-  "generated_at": "2026-09-09T21:26:04.414Z",
+  "generated_at": "2026-09-09T21:52:21.661Z",
   "league": {
     "avatar": null,
     "bracket_id": null,
@@ -17588,7 +17588,7 @@
       ],
       "first_name": "Khalil",
       "full_name": "Khalil Shakir",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Shakir",
       "number": 10,
       "player_id": "8134",
