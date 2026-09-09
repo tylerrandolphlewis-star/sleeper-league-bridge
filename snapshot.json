@@ -1,5 +1,5 @@
 {
-  "content_hash": "f6fc352b9110ec402bfd39cb6dce5a3d84745fab501c7185c46a89ac9d06b52d",
+  "content_hash": "e323274046290d660f5f86cf9be5a4563b441658f85130430487b150e8372307",
   "drafts": [
     {
       "draft": {
@@ -4237,7 +4237,7 @@
       "traded_picks": []
     }
   ],
-  "generated_at": "2026-09-09T21:52:21.661Z",
+  "generated_at": "2026-09-09T22:11:17.400Z",
   "league": {
     "avatar": null,
     "bracket_id": null,
@@ -17604,7 +17604,7 @@
       ],
       "first_name": "Rachaad",
       "full_name": "Rachaad White",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "White",
       "number": 1,
       "player_id": "8136",
@@ -17924,7 +17924,7 @@
       ],
       "first_name": "Tucker",
       "full_name": "Tucker Kraft",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Kraft",
       "number": 85,
       "player_id": "9484",
