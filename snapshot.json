@@ -1,5 +1,5 @@
 {
-  "content_hash": "e323274046290d660f5f86cf9be5a4563b441658f85130430487b150e8372307",
+  "content_hash": "d331f3e84f11c5e57f60e98a6fac22fa45b2e8f6737db802be888e9d9ff5dbcf",
   "drafts": [
     {
       "draft": {
@@ -4237,7 +4237,7 @@
       "traded_picks": []
     }
   ],
-  "generated_at": "2026-09-09T22:11:17.400Z",
+  "generated_at": "2026-09-09T22:26:17.665Z",
   "league": {
     "avatar": null,
     "bracket_id": null,
@@ -18836,7 +18836,7 @@
       ],
       "first_name": "Ashton",
       "full_name": "Ashton Jeanty",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Jeanty",
       "number": 2,
       "player_id": "12527",
