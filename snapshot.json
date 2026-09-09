@@ -1,5 +1,5 @@
 {
-  "content_hash": "2af29e0aa26479e3077840b555dc04fa16de7e235e95c2962b83956335934d82",
+  "content_hash": "46f6f53ac2ff50ac39ff9050733c3a1f89dea3145c126eb1b738e3e2c5f4ce30",
   "drafts": [
     {
       "draft": {
@@ -4237,7 +4237,7 @@
       "traded_picks": []
     }
   ],
-  "generated_at": "2026-09-09T21:11:02.234Z",
+  "generated_at": "2026-09-09T21:26:04.414Z",
   "league": {
     "avatar": null,
     "bracket_id": null,
@@ -18756,7 +18756,7 @@
       ],
       "first_name": "Emeka",
       "full_name": "Emeka Egbuka",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Egbuka",
       "number": 2,
       "player_id": "12514",
