@@ -1,5 +1,5 @@
 {
-  "content_hash": "8b3bb2a70f1e4851fbaf3b51b7c0b0e309de5bfb59b87b5b10eff8196e01948b",
+  "content_hash": "84f3791802ec936eb86141502bd96e044a9dac1c23e112bd306134818a863d22",
   "drafts": [
     {
       "draft": {
@@ -4237,7 +4237,7 @@
       "traded_picks": []
     }
   ],
-  "generated_at": "2026-09-09T20:41:17.728Z",
+  "generated_at": "2026-09-09T20:51:38.856Z",
   "league": {
     "avatar": null,
     "bracket_id": null,
@@ -16932,7 +16932,7 @@
       ],
       "first_name": "DK",
       "full_name": "DK Metcalf",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Metcalf",
       "number": 4,
       "player_id": "5846",
@@ -17188,7 +17188,7 @@
       ],
       "first_name": "Michael",
       "full_name": "Michael Pittman",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Pittman",
       "number": 11,
       "player_id": "6819",
@@ -17524,7 +17524,7 @@
       ],
       "first_name": "Wan'Dale",
       "full_name": "Wan'Dale Robinson",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Robinson",
       "number": 4,
       "player_id": "8126",
@@ -18628,7 +18628,7 @@
       ],
       "first_name": "Bhayshul",
       "full_name": "Bhayshul Tuten",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Tuten",
       "number": 33,
       "player_id": "12490",
@@ -18917,7 +18917,7 @@
       ],
       "first_name": "Carnell",
       "full_name": "Carnell Tate",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Tate",
       "number": 14,
       "player_id": "13279",
