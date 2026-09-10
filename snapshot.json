@@ -1,5 +1,5 @@
 {
-  "content_hash": "48fd8094e6c08901d3fc38a69472277d1096a2ca6bf64737d3d0b1d54d8aba81",
+  "content_hash": "8c741ae019dc748280eadab9350f492280ec3012931561eba5c3d6244362ed0c",
   "drafts": [
     {
       "draft": {
@@ -4237,7 +4237,7 @@
       "traded_picks": []
     }
   ],
-  "generated_at": "2026-09-10T16:27:17.703Z",
+  "generated_at": "2026-09-10T17:52:42.278Z",
   "league": {
     "avatar": null,
     "bracket_id": null,
@@ -16948,7 +16948,7 @@
       ],
       "first_name": "Josh",
       "full_name": "Josh Jacobs",
-      "injury_status": "Out",
+      "injury_status": "NA",
       "last_name": "Jacobs",
       "number": 8,
       "player_id": "5850",
