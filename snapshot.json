@@ -1,5 +1,5 @@
 {
-  "content_hash": "e9e2fe6064d67e140e6772a753639b2e58e73b4c8db65bc58cba27d7c7eed8ce",
+  "content_hash": "48fd8094e6c08901d3fc38a69472277d1096a2ca6bf64737d3d0b1d54d8aba81",
   "drafts": [
     {
       "draft": {
@@ -4237,7 +4237,7 @@
       "traded_picks": []
     }
   ],
-  "generated_at": "2026-09-10T04:53:48.577Z",
+  "generated_at": "2026-09-10T16:27:17.703Z",
   "league": {
     "avatar": null,
     "bracket_id": null,
@@ -16948,7 +16948,7 @@
       ],
       "first_name": "Josh",
       "full_name": "Josh Jacobs",
-      "injury_status": "NA",
+      "injury_status": "Out",
       "last_name": "Jacobs",
       "number": 8,
       "player_id": "5850",
@@ -19031,7 +19031,7 @@
       "full_name": "Mike Washington",
       "injury_status": null,
       "last_name": "Washington",
-      "number": 30,
+      "number": 4,
       "player_id": "13305",
       "position": "RB",
       "status": "Active",
