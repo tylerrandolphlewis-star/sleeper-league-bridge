@@ -1,5 +1,5 @@
 {
-  "content_hash": "e374c890c3ed4256cfdad638661e542464087d28c95cadff09345e87a86ca916",
+  "content_hash": "467bae6b0425bfe8f784a300e0f5f3a01fe2b18f38f7997d92c91d3855c95884",
   "drafts": [
     {
       "draft": {
@@ -4237,7 +4237,7 @@
       "traded_picks": []
     }
   ],
-  "generated_at": "2026-09-10T20:40:33.755Z",
+  "generated_at": "2026-09-10T21:24:58.861Z",
   "league": {
     "avatar": null,
     "bracket_id": null,
@@ -16740,7 +16740,7 @@
       ],
       "first_name": "Patrick",
       "full_name": "Patrick Mahomes",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Mahomes",
       "number": 15,
       "player_id": "4046",
