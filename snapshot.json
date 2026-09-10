@@ -1,5 +1,5 @@
 {
-  "content_hash": "8c741ae019dc748280eadab9350f492280ec3012931561eba5c3d6244362ed0c",
+  "content_hash": "3996f0a57eb1b485349add460d140f22f4a3367566e1ed9b54ef9ddc29372ea9",
   "drafts": [
     {
       "draft": {
@@ -4237,7 +4237,7 @@
       "traded_picks": []
     }
   ],
-  "generated_at": "2026-09-10T17:52:42.278Z",
+  "generated_at": "2026-09-10T20:26:00.657Z",
   "league": {
     "avatar": null,
     "bracket_id": null,
@@ -18084,7 +18084,7 @@
       ],
       "first_name": "Zay",
       "full_name": "Zay Flowers",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Flowers",
       "number": 4,
       "player_id": "9997",
