@@ -1,5 +1,5 @@
 {
-  "content_hash": "fe9ce22d4293226af39464d284a636f1f7952a354ed74a59cc3de5fd9ebf572e",
+  "content_hash": "ee3282b8878b4571541f8837dcb980bfe19befc7ac32d577d03ff248ccb75e05",
   "drafts": [
     {
       "draft": {
@@ -4237,7 +4237,7 @@
       "traded_picks": []
     }
   ],
-  "generated_at": "2026-09-11T03:27:42.644Z",
+  "generated_at": "2026-09-11T17:10:35.886Z",
   "league": {
     "avatar": null,
     "bracket_id": null,
@@ -16964,7 +16964,7 @@
       ],
       "first_name": "A.J.",
       "full_name": "A.J. Brown",
-      "injury_status": "Out",
+      "injury_status": "IR",
       "last_name": "Brown",
       "number": 1,
       "player_id": "5859",
