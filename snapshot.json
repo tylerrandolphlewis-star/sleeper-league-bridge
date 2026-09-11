@@ -1,5 +1,5 @@
 {
-  "content_hash": "1366d4540bbfff4612458a5e4cecd49ed423e1fa62e021da7306f39f12e9ed67",
+  "content_hash": "1c9a83867fabeded6953808268e437be79d67882f4919b76429981d67f59f269",
   "drafts": [
     {
       "draft": {
@@ -4237,7 +4237,7 @@
       "traded_picks": []
     }
   ],
-  "generated_at": "2026-09-11T01:53:21.059Z",
+  "generated_at": "2026-09-11T02:12:07.203Z",
   "league": {
     "avatar": null,
     "bracket_id": null,
@@ -4560,7 +4560,7 @@
           "HOU"
         ],
         "players_points": {
-          "421": 0.6,
+          "421": 0.5,
           "2216": 9.7,
           "4881": 0,
           "5022": 0,
@@ -4968,7 +4968,7 @@
           "7021": 0,
           "7553": 0,
           "7588": 0,
-          "8183": 7.56,
+          "8183": 7.84,
           "9226": 0,
           "10222": 0,
           "12489": 0,
@@ -19045,7 +19045,7 @@
       ],
       "first_name": "De'Zhaun",
       "full_name": "De'Zhaun Stribling",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "last_name": "Stribling",
       "number": 7,
       "player_id": "13417",
