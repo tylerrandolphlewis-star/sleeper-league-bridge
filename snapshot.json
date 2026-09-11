@@ -1,5 +1,5 @@
 {
-  "content_hash": "ee3282b8878b4571541f8837dcb980bfe19befc7ac32d577d03ff248ccb75e05",
+  "content_hash": "d3a797f530d171c9eab9475bfdf373487dc893f417ead053a1092ef5b235e27c",
   "drafts": [
     {
       "draft": {
@@ -4237,7 +4237,7 @@
       "traded_picks": []
     }
   ],
-  "generated_at": "2026-09-11T17:10:35.886Z",
+  "generated_at": "2026-09-11T17:39:49.741Z",
   "league": {
     "avatar": null,
     "bracket_id": null,
@@ -18340,7 +18340,7 @@
       ],
       "first_name": "Jonathon",
       "full_name": "Jonathon Brooks",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Brooks",
       "number": 25,
       "player_id": "11583",
@@ -18885,7 +18885,7 @@
       ],
       "first_name": "Jacory",
       "full_name": "Jacory Croskey-Merritt",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Croskey-Merritt",
       "number": 22,
       "player_id": "12533",
