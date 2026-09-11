@@ -1,5 +1,5 @@
 {
-  "content_hash": "d3a797f530d171c9eab9475bfdf373487dc893f417ead053a1092ef5b235e27c",
+  "content_hash": "e554b9552a72043ef367580c93f25db716acfd4ec0faa576b6a411943710fb1d",
   "drafts": [
     {
       "draft": {
@@ -4237,7 +4237,7 @@
       "traded_picks": []
     }
   ],
-  "generated_at": "2026-09-11T17:39:49.741Z",
+  "generated_at": "2026-09-11T17:51:16.555Z",
   "league": {
     "avatar": null,
     "bracket_id": null,
@@ -16969,7 +16969,7 @@
       "number": 1,
       "player_id": "5859",
       "position": "WR",
-      "status": "Active",
+      "status": "Inactive",
       "team": "NE",
       "years_exp": 7
     },
