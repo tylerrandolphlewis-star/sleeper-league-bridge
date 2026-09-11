@@ -1,5 +1,5 @@
 {
-  "content_hash": "e554b9552a72043ef367580c93f25db716acfd4ec0faa576b6a411943710fb1d",
+  "content_hash": "d8514d785e45887b16c7e612e4d3e649aa2c71dd8564d91e0897ea70a86ee195",
   "drafts": [
     {
       "draft": {
@@ -4237,7 +4237,7 @@
       "traded_picks": []
     }
   ],
-  "generated_at": "2026-09-11T17:51:16.555Z",
+  "generated_at": "2026-09-11T20:40:39.223Z",
   "league": {
     "avatar": null,
     "bracket_id": null,
@@ -17028,7 +17028,7 @@
       ],
       "first_name": "Jakobi",
       "full_name": "Jakobi Meyers",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Meyers",
       "number": 3,
       "player_id": "5947",
@@ -17652,7 +17652,7 @@
       ],
       "first_name": "Alec",
       "full_name": "Alec Pierce",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Pierce",
       "number": 14,
       "player_id": "8142",
