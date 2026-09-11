@@ -1,5 +1,5 @@
 {
-  "content_hash": "26d08f46c6644c4bee6ab32f677755db7f89633fad751643e6f39d92e1970df0",
+  "content_hash": "2917819de593a822ddd0c9dac0d6697dfc7c0e1a57aace61f6fa294d9e8dcbfc",
   "drafts": [
     {
       "draft": {
@@ -4237,7 +4237,7 @@
       "traded_picks": []
     }
   ],
-  "generated_at": "2026-09-10T22:24:53.130Z",
+  "generated_at": "2026-09-11T00:38:09.184Z",
   "league": {
     "avatar": null,
     "bracket_id": null,
@@ -5043,9 +5043,9 @@
           "11564": 9.82,
           "12481": 0,
           "12533": 0,
-          "LAR": 0
+          "LAR": 10
         },
-        "points": 50.52,
+        "points": 60.52,
         "roster_id": 9,
         "starters": [
           "11564",
@@ -5069,7 +5069,7 @@
           14.5,
           0,
           0,
-          0
+          10
         ]
       },
       {
@@ -18078,7 +18078,7 @@
       "years_exp": 3
     },
     "9997": {
-      "age": 25,
+      "age": 26,
       "fantasy_positions": [
         "WR"
       ],
