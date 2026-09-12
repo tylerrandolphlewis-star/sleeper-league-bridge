@@ -1,5 +1,5 @@
 {
-  "content_hash": "d8514d785e45887b16c7e612e4d3e649aa2c71dd8564d91e0897ea70a86ee195",
+  "content_hash": "470c443187009391a2198f192695568976d1a1c518fff8f37d05f5fd2faa4812",
   "drafts": [
     {
       "draft": {
@@ -4237,7 +4237,7 @@
       "traded_picks": []
     }
   ],
-  "generated_at": "2026-09-11T20:40:39.223Z",
+  "generated_at": "2026-09-12T17:10:35.095Z",
   "league": {
     "avatar": null,
     "bracket_id": null,
@@ -4250,9 +4250,9 @@
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
-    "last_message_id": "1403875417852510208",
+    "last_message_id": "1404544340700700672",
     "last_message_text_map": null,
-    "last_message_time": 1789072491662,
+    "last_message_time": 1789231975297,
     "last_pinned_message_id": null,
     "last_read_id": null,
     "league_id": "1389357903374188544",
@@ -4891,7 +4891,7 @@
           "9484",
           "9754",
           "9756",
-          "BAL"
+          "PIT"
         ],
         "players_points": {
           "1466": 0,
@@ -4909,7 +4909,7 @@
           "12474": 0,
           "12492": 0,
           "13286": 7.8,
-          "BAL": 0
+          "PIT": 0
         },
         "points": 13.8,
         "roster_id": 7,
@@ -4923,7 +4923,7 @@
           "11632",
           "7526",
           "7839",
-          "BAL"
+          "PIT"
         ],
         "starters_points": [
           0,
@@ -5559,7 +5559,7 @@
           "9484",
           "9754",
           "9756",
-          "BAL"
+          "PIT"
         ],
         "players_points": {
           "1466": 0,
@@ -5577,7 +5577,7 @@
           "12474": 0,
           "12492": 0,
           "13286": 0,
-          "BAL": 0
+          "PIT": 0
         },
         "points": 0,
         "roster_id": 7,
@@ -5591,7 +5591,7 @@
           "11632",
           "7526",
           "7839",
-          "BAL"
+          "PIT"
         ],
         "starters_points": [
           0,
@@ -6227,7 +6227,7 @@
           "9484",
           "9754",
           "9756",
-          "BAL"
+          "PIT"
         ],
         "players_points": {
           "1466": 0,
@@ -6245,7 +6245,7 @@
           "12474": 0,
           "12492": 0,
           "13286": 0,
-          "BAL": 0
+          "PIT": 0
         },
         "points": 0,
         "roster_id": 7,
@@ -6259,7 +6259,7 @@
           "11632",
           "7526",
           "7839",
-          "BAL"
+          "PIT"
         ],
         "starters_points": [
           0,
@@ -6895,7 +6895,7 @@
           "9484",
           "9754",
           "9756",
-          "BAL"
+          "PIT"
         ],
         "players_points": {
           "1466": 0,
@@ -6913,7 +6913,7 @@
           "12474": 0,
           "12492": 0,
           "13286": 0,
-          "BAL": 0
+          "PIT": 0
         },
         "points": 0,
         "roster_id": 7,
@@ -6927,7 +6927,7 @@
           "11632",
           "7526",
           "7839",
-          "BAL"
+          "PIT"
         ],
         "starters_points": [
           0,
@@ -7563,7 +7563,7 @@
           "9484",
           "9754",
           "9756",
-          "BAL"
+          "PIT"
         ],
         "players_points": {
           "1466": 0,
@@ -7581,7 +7581,7 @@
           "12474": 0,
           "12492": 0,
           "13286": 0,
-          "BAL": 0
+          "PIT": 0
         },
         "points": 0,
         "roster_id": 7,
@@ -7595,7 +7595,7 @@
           "11632",
           "7526",
           "7839",
-          "BAL"
+          "PIT"
         ],
         "starters_points": [
           0,
@@ -8231,7 +8231,7 @@
           "9484",
           "9754",
           "9756",
-          "BAL"
+          "PIT"
         ],
         "players_points": {
           "1466": 0,
@@ -8249,7 +8249,7 @@
           "12474": 0,
           "12492": 0,
           "13286": 0,
-          "BAL": 0
+          "PIT": 0
         },
         "points": 0,
         "roster_id": 7,
@@ -8263,7 +8263,7 @@
           "11632",
           "7526",
           "7839",
-          "BAL"
+          "PIT"
         ],
         "starters_points": [
           0,
@@ -8899,7 +8899,7 @@
           "9484",
           "9754",
           "9756",
-          "BAL"
+          "PIT"
         ],
         "players_points": {
           "1466": 0,
@@ -8917,7 +8917,7 @@
           "12474": 0,
           "12492": 0,
           "13286": 0,
-          "BAL": 0
+          "PIT": 0
         },
         "points": 0,
         "roster_id": 7,
@@ -8931,7 +8931,7 @@
           "11632",
           "7526",
           "7839",
-          "BAL"
+          "PIT"
         ],
         "starters_points": [
           0,
@@ -9567,7 +9567,7 @@
           "9484",
           "9754",
           "9756",
-          "BAL"
+          "PIT"
         ],
         "players_points": {
           "1466": 0,
@@ -9585,7 +9585,7 @@
           "12474": 0,
           "12492": 0,
           "13286": 0,
-          "BAL": 0
+          "PIT": 0
         },
         "points": 0,
         "roster_id": 7,
@@ -9599,7 +9599,7 @@
           "11632",
           "7526",
           "7839",
-          "BAL"
+          "PIT"
         ],
         "starters_points": [
           0,
@@ -10235,7 +10235,7 @@
           "9484",
           "9754",
           "9756",
-          "BAL"
+          "PIT"
         ],
         "players_points": {
           "1466": 0,
@@ -10253,7 +10253,7 @@
           "12474": 0,
           "12492": 0,
           "13286": 0,
-          "BAL": 0
+          "PIT": 0
         },
         "points": 0,
         "roster_id": 7,
@@ -10267,7 +10267,7 @@
           "11632",
           "7526",
           "7839",
-          "BAL"
+          "PIT"
         ],
         "starters_points": [
           0,
@@ -10903,7 +10903,7 @@
           "9484",
           "9754",
           "9756",
-          "BAL"
+          "PIT"
         ],
         "players_points": {
           "1466": 0,
@@ -10921,7 +10921,7 @@
           "12474": 0,
           "12492": 0,
           "13286": 0,
-          "BAL": 0
+          "PIT": 0
         },
         "points": 0,
         "roster_id": 7,
@@ -10935,7 +10935,7 @@
           "11632",
           "7526",
           "7839",
-          "BAL"
+          "PIT"
         ],
         "starters_points": [
           0,
@@ -11571,7 +11571,7 @@
           "9484",
           "9754",
           "9756",
-          "BAL"
+          "PIT"
         ],
         "players_points": {
           "1466": 0,
@@ -11589,7 +11589,7 @@
           "12474": 0,
           "12492": 0,
           "13286": 0,
-          "BAL": 0
+          "PIT": 0
         },
         "points": 0,
         "roster_id": 7,
@@ -11603,7 +11603,7 @@
           "11632",
           "7526",
           "7839",
-          "BAL"
+          "PIT"
         ],
         "starters_points": [
           0,
@@ -12239,7 +12239,7 @@
           "9484",
           "9754",
           "9756",
-          "BAL"
+          "PIT"
         ],
         "players_points": {
           "1466": 0,
@@ -12257,7 +12257,7 @@
           "12474": 0,
           "12492": 0,
           "13286": 0,
-          "BAL": 0
+          "PIT": 0
         },
         "points": 0,
         "roster_id": 7,
@@ -12271,7 +12271,7 @@
           "11632",
           "7526",
           "7839",
-          "BAL"
+          "PIT"
         ],
         "starters_points": [
           0,
@@ -12907,7 +12907,7 @@
           "9484",
           "9754",
           "9756",
-          "BAL"
+          "PIT"
         ],
         "players_points": {
           "1466": 0,
@@ -12925,7 +12925,7 @@
           "12474": 0,
           "12492": 0,
           "13286": 0,
-          "BAL": 0
+          "PIT": 0
         },
         "points": 0,
         "roster_id": 7,
@@ -12939,7 +12939,7 @@
           "11632",
           "7526",
           "7839",
-          "BAL"
+          "PIT"
         ],
         "starters_points": [
           0,
@@ -13575,7 +13575,7 @@
           "9484",
           "9754",
           "9756",
-          "BAL"
+          "PIT"
         ],
         "players_points": {
           "1466": 0,
@@ -13593,7 +13593,7 @@
           "12474": 0,
           "12492": 0,
           "13286": 0,
-          "BAL": 0
+          "PIT": 0
         },
         "points": 0,
         "roster_id": 7,
@@ -13607,7 +13607,7 @@
           "11632",
           "7526",
           "7839",
-          "BAL"
+          "PIT"
         ],
         "starters_points": [
           0,
@@ -14243,7 +14243,7 @@
           "9484",
           "9754",
           "9756",
-          "BAL"
+          "PIT"
         ],
         "players_points": {
           "1466": 0,
@@ -14261,7 +14261,7 @@
           "12474": 0,
           "12492": 0,
           "13286": 0,
-          "BAL": 0
+          "PIT": 0
         },
         "points": 0,
         "roster_id": 7,
@@ -14275,7 +14275,7 @@
           "11632",
           "7526",
           "7839",
-          "BAL"
+          "PIT"
         ],
         "starters_points": [
           0,
@@ -14911,7 +14911,7 @@
           "9484",
           "9754",
           "9756",
-          "BAL"
+          "PIT"
         ],
         "players_points": {
           "1466": 0,
@@ -14929,7 +14929,7 @@
           "12474": 0,
           "12492": 0,
           "13286": 0,
-          "BAL": 0
+          "PIT": 0
         },
         "points": 0,
         "roster_id": 7,
@@ -14943,7 +14943,7 @@
           "11632",
           "7526",
           "7839",
-          "BAL"
+          "PIT"
         ],
         "starters_points": [
           0,
@@ -15579,7 +15579,7 @@
           "9484",
           "9754",
           "9756",
-          "BAL"
+          "PIT"
         ],
         "players_points": {
           "1466": 0,
@@ -15597,7 +15597,7 @@
           "12474": 0,
           "12492": 0,
           "13286": 0,
-          "BAL": 0
+          "PIT": 0
         },
         "points": 0,
         "roster_id": 7,
@@ -15611,7 +15611,7 @@
           "11632",
           "7526",
           "7839",
-          "BAL"
+          "PIT"
         ],
         "starters_points": [
           0,
@@ -16247,7 +16247,7 @@
           "9484",
           "9754",
           "9756",
-          "BAL"
+          "PIT"
         ],
         "players_points": {
           "1466": 0,
@@ -16265,7 +16265,7 @@
           "12474": 0,
           "12492": 0,
           "13286": 0,
-          "BAL": 0
+          "PIT": 0
         },
         "points": 0,
         "roster_id": 7,
@@ -16279,7 +16279,7 @@
           "11632",
           "7526",
           "7839",
-          "BAL"
+          "PIT"
         ],
         "starters_points": [
           0,
@@ -19214,6 +19214,22 @@
       "team": "PHI",
       "years_exp": null
     },
+    "PIT": {
+      "age": null,
+      "fantasy_positions": [
+        "DEF"
+      ],
+      "first_name": "Pittsburgh",
+      "full_name": "Pittsburgh Steelers",
+      "injury_status": null,
+      "last_name": "Steelers",
+      "number": null,
+      "player_id": "PIT",
+      "position": "DEF",
+      "status": null,
+      "team": "PIT",
+      "years_exp": null
+    },
     "SEA": {
       "age": null,
       "fantasy_positions": [
@@ -19572,7 +19588,7 @@
         "9484",
         "9754",
         "9756",
-        "BAL"
+        "PIT"
       ],
       "reserve": null,
       "roster_id": 7,
@@ -19596,7 +19612,7 @@
         "11632",
         "7526",
         "7839",
-        "BAL"
+        "PIT"
       ],
       "taxi": null
     },
@@ -20100,7 +20116,7 @@
         "9484",
         "9754",
         "9756",
-        "BAL"
+        "PIT"
       ],
       "reserve_ids": [],
       "roster_id": 7,
@@ -20124,7 +20140,7 @@
         "11632",
         "7526",
         "7839",
-        "BAL"
+        "PIT"
       ],
       "taxi_ids": [],
       "team_name": "Furious George "
@@ -20321,6 +20337,31 @@
     }
   ],
   "transactions": [
+    {
+      "adds": {
+        "PIT": 7
+      },
+      "consenter_ids": [
+        7
+      ],
+      "created": 1789231975276,
+      "creator": "473622808883097600",
+      "draft_picks": [],
+      "drops": {
+        "BAL": 7
+      },
+      "leg": 1,
+      "metadata": null,
+      "roster_ids": [
+        7
+      ],
+      "settings": null,
+      "status": "complete",
+      "status_updated": 1789231975276,
+      "transaction_id": "1404544340616818688",
+      "type": "free_agent",
+      "waiver_budget": []
+    },
     {
       "adds": {
         "4035": 4
@@ -20706,6 +20747,31 @@
   "transactions_by_week": {
     "0": [],
     "1": [
+      {
+        "adds": {
+          "PIT": 7
+        },
+        "consenter_ids": [
+          7
+        ],
+        "created": 1789231975276,
+        "creator": "473622808883097600",
+        "draft_picks": [],
+        "drops": {
+          "BAL": 7
+        },
+        "leg": 1,
+        "metadata": null,
+        "roster_ids": [
+          7
+        ],
+        "settings": null,
+        "status": "complete",
+        "status_updated": 1789231975276,
+        "transaction_id": "1404544340616818688",
+        "type": "free_agent",
+        "waiver_budget": []
+      },
       {
         "adds": {
           "4035": 4
