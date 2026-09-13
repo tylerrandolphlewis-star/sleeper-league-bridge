@@ -1,5 +1,5 @@
 {
-  "content_hash": "c2b942fe72641ec7ba357f21821398c5cb0edba1bf59ccc1226e99c3b90105d1",
+  "content_hash": "49addd9044dba823fabd653c7096dcc63f3d3982a74373dc3c2db6f9bee06c1f",
   "drafts": [
     {
       "draft": {
@@ -4237,7 +4237,7 @@
       "traded_picks": []
     }
   ],
-  "generated_at": "2026-09-13T23:38:38.635Z",
+  "generated_at": "2026-09-13T23:51:02.162Z",
   "league": {
     "avatar": null,
     "bracket_id": null,
@@ -4640,7 +4640,7 @@
           "11635": 19.2,
           "11792": 7,
           "12490": 9.8,
-          "12501": 13.7,
+          "12501": 15.5,
           "SEA": 14
         },
         "points": 210.46,
@@ -4766,7 +4766,7 @@
           "5947": 12.2,
           "7594": 23.7,
           "8137": 0,
-          "8408": 11.6,
+          "8408": 11.9,
           "9221": 33.6,
           "11566": 17.66,
           "11584": 20.3,
@@ -17668,7 +17668,7 @@
       ],
       "first_name": "Alec",
       "full_name": "Alec Pierce",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "Pierce",
       "number": 14,
       "player_id": "8142",
