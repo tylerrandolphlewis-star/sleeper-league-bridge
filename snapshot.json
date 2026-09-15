@@ -1,5 +1,5 @@
 {
-  "content_hash": "f4bbb3845c9a2081bc51152adfc1ce1cb965a75793dde3f3ea881e6999494386",
+  "content_hash": "b6077dad5f8bb53fbf64cc0bf0be6e01952f84bb28d6a8f13b15af8a6e0b6403",
   "drafts": [
     {
       "draft": {
@@ -4237,7 +4237,7 @@
       "traded_picks": []
     }
   ],
-  "generated_at": "2026-09-15T03:29:45.502Z",
+  "generated_at": "2026-09-15T04:13:10.123Z",
   "league": {
     "avatar": null,
     "bracket_id": null,
@@ -5447,30 +5447,8 @@
         },
         "points": 0,
         "roster_id": 5,
-        "starters": [
-          "11566",
-          "9221",
-          "13287",
-          "8137",
-          "12514",
-          "12506",
-          "11584",
-          "7594",
-          "3451",
-          "DEN"
-        ],
-        "starters_points": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ]
+        "starters": null,
+        "starters_points": []
       },
       {
         "custom_points": null,
@@ -6115,30 +6093,8 @@
         },
         "points": 0,
         "roster_id": 5,
-        "starters": [
-          "11566",
-          "9221",
-          "13287",
-          "8137",
-          "12514",
-          "12506",
-          "11584",
-          "7594",
-          "3451",
-          "DEN"
-        ],
-        "starters_points": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ]
+        "starters": null,
+        "starters_points": []
       },
       {
         "custom_points": null,
@@ -6783,30 +6739,8 @@
         },
         "points": 0,
         "roster_id": 5,
-        "starters": [
-          "11566",
-          "9221",
-          "13287",
-          "8137",
-          "12514",
-          "12506",
-          "11584",
-          "7594",
-          "3451",
-          "DEN"
-        ],
-        "starters_points": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ]
+        "starters": null,
+        "starters_points": []
       },
       {
         "custom_points": null,
@@ -7451,30 +7385,8 @@
         },
         "points": 0,
         "roster_id": 5,
-        "starters": [
-          "11566",
-          "9221",
-          "13287",
-          "8137",
-          "12514",
-          "12506",
-          "11584",
-          "7594",
-          "3451",
-          "DEN"
-        ],
-        "starters_points": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ]
+        "starters": null,
+        "starters_points": []
       },
       {
         "custom_points": null,
@@ -8119,30 +8031,8 @@
         },
         "points": 0,
         "roster_id": 5,
-        "starters": [
-          "11566",
-          "9221",
-          "13287",
-          "8137",
-          "12514",
-          "12506",
-          "11584",
-          "7594",
-          "3451",
-          "DEN"
-        ],
-        "starters_points": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ]
+        "starters": null,
+        "starters_points": []
       },
       {
         "custom_points": null,
@@ -8787,30 +8677,8 @@
         },
         "points": 0,
         "roster_id": 5,
-        "starters": [
-          "11566",
-          "9221",
-          "13287",
-          "8137",
-          "12514",
-          "12506",
-          "11584",
-          "7594",
-          "3451",
-          "DEN"
-        ],
-        "starters_points": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ]
+        "starters": null,
+        "starters_points": []
       },
       {
         "custom_points": null,
@@ -9455,30 +9323,8 @@
         },
         "points": 0,
         "roster_id": 5,
-        "starters": [
-          "11566",
-          "9221",
-          "13287",
-          "8137",
-          "12514",
-          "12506",
-          "11584",
-          "7594",
-          "3451",
-          "DEN"
-        ],
-        "starters_points": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ]
+        "starters": null,
+        "starters_points": []
       },
       {
         "custom_points": null,
@@ -10123,30 +9969,8 @@
         },
         "points": 0,
         "roster_id": 5,
-        "starters": [
-          "11566",
-          "9221",
-          "13287",
-          "8137",
-          "12514",
-          "12506",
-          "11584",
-          "7594",
-          "3451",
-          "DEN"
-        ],
-        "starters_points": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ]
+        "starters": null,
+        "starters_points": []
       },
       {
         "custom_points": null,
@@ -10791,30 +10615,8 @@
         },
         "points": 0,
         "roster_id": 5,
-        "starters": [
-          "11566",
-          "9221",
-          "13287",
-          "8137",
-          "12514",
-          "12506",
-          "11584",
-          "7594",
-          "3451",
-          "DEN"
-        ],
-        "starters_points": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ]
+        "starters": null,
+        "starters_points": []
       },
       {
         "custom_points": null,
@@ -11459,30 +11261,8 @@
         },
         "points": 0,
         "roster_id": 5,
-        "starters": [
-          "11566",
-          "9221",
-          "13287",
-          "8137",
-          "12514",
-          "12506",
-          "11584",
-          "7594",
-          "3451",
-          "DEN"
-        ],
-        "starters_points": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ]
+        "starters": null,
+        "starters_points": []
       },
       {
         "custom_points": null,
@@ -12127,30 +11907,8 @@
         },
         "points": 0,
         "roster_id": 5,
-        "starters": [
-          "11566",
-          "9221",
-          "13287",
-          "8137",
-          "12514",
-          "12506",
-          "11584",
-          "7594",
-          "3451",
-          "DEN"
-        ],
-        "starters_points": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ]
+        "starters": null,
+        "starters_points": []
       },
       {
         "custom_points": null,
@@ -12795,30 +12553,8 @@
         },
         "points": 0,
         "roster_id": 5,
-        "starters": [
-          "11566",
-          "9221",
-          "13287",
-          "8137",
-          "12514",
-          "12506",
-          "11584",
-          "7594",
-          "3451",
-          "DEN"
-        ],
-        "starters_points": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ]
+        "starters": null,
+        "starters_points": []
       },
       {
         "custom_points": null,
@@ -13463,30 +13199,8 @@
         },
         "points": 0,
         "roster_id": 5,
-        "starters": [
-          "11566",
-          "9221",
-          "13287",
-          "8137",
-          "12514",
-          "12506",
-          "11584",
-          "7594",
-          "3451",
-          "DEN"
-        ],
-        "starters_points": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ]
+        "starters": null,
+        "starters_points": []
       },
       {
         "custom_points": null,
@@ -14131,30 +13845,8 @@
         },
         "points": 0,
         "roster_id": 5,
-        "starters": [
-          "11566",
-          "9221",
-          "13287",
-          "8137",
-          "12514",
-          "12506",
-          "11584",
-          "7594",
-          "3451",
-          "DEN"
-        ],
-        "starters_points": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ]
+        "starters": null,
+        "starters_points": []
       },
       {
         "custom_points": null,
@@ -14799,30 +14491,8 @@
         },
         "points": 0,
         "roster_id": 5,
-        "starters": [
-          "11566",
-          "9221",
-          "13287",
-          "8137",
-          "12514",
-          "12506",
-          "11584",
-          "7594",
-          "3451",
-          "DEN"
-        ],
-        "starters_points": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ]
+        "starters": null,
+        "starters_points": []
       },
       {
         "custom_points": null,
@@ -15467,30 +15137,8 @@
         },
         "points": 0,
         "roster_id": 5,
-        "starters": [
-          "11566",
-          "9221",
-          "13287",
-          "8137",
-          "12514",
-          "12506",
-          "11584",
-          "7594",
-          "3451",
-          "DEN"
-        ],
-        "starters_points": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ]
+        "starters": null,
+        "starters_points": []
       },
       {
         "custom_points": null,
@@ -16135,30 +15783,8 @@
         },
         "points": 0,
         "roster_id": 5,
-        "starters": [
-          "11566",
-          "9221",
-          "13287",
-          "8137",
-          "12514",
-          "12506",
-          "11584",
-          "7594",
-          "3451",
-          "DEN"
-        ],
-        "starters_points": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ]
+        "starters": null,
+        "starters_points": []
       },
       {
         "custom_points": null,
@@ -16500,13 +16126,13 @@
     "display_week": 1,
     "league_create_season": "2026",
     "league_season": "2026",
-    "leg": 1,
+    "leg": 2,
     "previous_season": "2025",
     "season": "2026",
     "season_has_scores": true,
     "season_start_date": "2026-09-09",
     "season_type": "regular",
-    "week": 1
+    "week": 2
   },
   "players": {
     "421": {
