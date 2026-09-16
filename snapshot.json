@@ -1,5 +1,5 @@
 {
-  "content_hash": "db7460b69298f3ccc184e5f6b33f759d674429843a00429ecae98dba0fbc1ac8",
+  "content_hash": "e2f7016f7f2d5d3e059cad1d5c11c22cb21d7514a93487439c9a38418f7d3670",
   "drafts": [
     {
       "draft": {
@@ -4237,7 +4237,7 @@
       "traded_picks": []
     }
   ],
-  "generated_at": "2026-09-16T13:43:58.608Z",
+  "generated_at": "2026-09-16T19:11:38.974Z",
   "league": {
     "avatar": null,
     "bracket_id": null,
@@ -17882,7 +17882,7 @@
       ],
       "first_name": "Jordan",
       "full_name": "Jordan Mason",
-      "injury_status": "Questionable",
+      "injury_status": "IR",
       "last_name": "Mason",
       "number": 27,
       "player_id": "8408",
