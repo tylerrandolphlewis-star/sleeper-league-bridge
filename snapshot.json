@@ -1,5 +1,5 @@
 {
-  "content_hash": "f85432d2f989777fa967f5c211593cc4d4bdd5187698450bc2d61ecbf47bb8fc",
+  "content_hash": "b0210c095f638fc9b7373170614d4273ff7b657193c369cdb558e275666bce83",
   "drafts": [
     {
       "draft": {
@@ -4237,7 +4237,7 @@
       "traded_picks": []
     }
   ],
-  "generated_at": "2026-09-16T21:12:37.831Z",
+  "generated_at": "2026-09-16T21:52:34.111Z",
   "league": {
     "avatar": null,
     "bracket_id": null,
@@ -17258,7 +17258,7 @@
       ],
       "first_name": "Juwan",
       "full_name": "Juwan Johnson",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "Johnson",
       "number": 83,
       "player_id": "7002",
