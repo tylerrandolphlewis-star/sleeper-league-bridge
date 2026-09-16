@@ -1,5 +1,5 @@
 {
-  "content_hash": "73f4c3137fd1db282b0fb1389aa4f38926f194bfc7c16c4586e10c587bf8fb41",
+  "content_hash": "50325cd59eea64774e7088ad21c01169b7050c962769d358e547ac8636eed562",
   "drafts": [
     {
       "draft": {
@@ -4237,7 +4237,7 @@
       "traded_picks": []
     }
   ],
-  "generated_at": "2026-09-16T22:25:57.917Z",
+  "generated_at": "2026-09-16T23:11:18.507Z",
   "league": {
     "avatar": null,
     "bracket_id": null,
@@ -16794,7 +16794,7 @@
       ],
       "first_name": "George",
       "full_name": "George Kittle",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "Kittle",
       "number": 85,
       "player_id": "4217",
