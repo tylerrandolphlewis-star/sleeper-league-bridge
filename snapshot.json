@@ -1,5 +1,5 @@
 {
-  "content_hash": "314b3a8b66e8f93df3fc30e732f24c2904961bb705adc5893596446a4550d640",
+  "content_hash": "7164e32843dbd19d658c010e6cf5c7fc34ef35907980d1149d2a8710dd849853",
   "drafts": [
     {
       "draft": {
@@ -4237,7 +4237,7 @@
       "traded_picks": []
     }
   ],
-  "generated_at": "2026-09-16T20:12:57.128Z",
+  "generated_at": "2026-09-16T20:27:54.697Z",
   "league": {
     "avatar": null,
     "bracket_id": null,
@@ -17130,7 +17130,7 @@
       ],
       "first_name": "D'Andre",
       "full_name": "D'Andre Swift",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "Swift",
       "number": 4,
       "player_id": "6790",
