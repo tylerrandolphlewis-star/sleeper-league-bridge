@@ -1,5 +1,5 @@
 {
-  "content_hash": "e2f7016f7f2d5d3e059cad1d5c11c22cb21d7514a93487439c9a38418f7d3670",
+  "content_hash": "73930f89ad31864bc0e5dad7701eaa24002ab30156d7c6fa05ba16ae459981f6",
   "drafts": [
     {
       "draft": {
@@ -4237,7 +4237,7 @@
       "traded_picks": []
     }
   ],
-  "generated_at": "2026-09-16T19:11:38.974Z",
+  "generated_at": "2026-09-16T19:26:08.847Z",
   "league": {
     "avatar": null,
     "bracket_id": null,
@@ -19019,7 +19019,7 @@
       ],
       "first_name": "Ja'Kobi",
       "full_name": "Ja'Kobi Lane",
-      "injury_status": "Doubtful",
+      "injury_status": "IR",
       "last_name": "Lane",
       "number": 6,
       "player_id": "13293",
@@ -19088,7 +19088,7 @@
       "number": 7,
       "player_id": "13417",
       "position": "WR",
-      "status": "Active",
+      "status": "Inactive",
       "team": "SF",
       "years_exp": 0
     },
