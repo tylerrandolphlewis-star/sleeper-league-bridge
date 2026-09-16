@@ -1,5 +1,5 @@
 {
-  "content_hash": "24525ca611bb078eb3667224edaa79582919db284f7bff48b746a5c8c0a52b64",
+  "content_hash": "314b3a8b66e8f93df3fc30e732f24c2904961bb705adc5893596446a4550d640",
   "drafts": [
     {
       "draft": {
@@ -4237,7 +4237,7 @@
       "traded_picks": []
     }
   ],
-  "generated_at": "2026-09-16T19:51:28.047Z",
+  "generated_at": "2026-09-16T20:12:57.128Z",
   "league": {
     "avatar": null,
     "bracket_id": null,
@@ -17098,7 +17098,7 @@
       ],
       "first_name": "Joe",
       "full_name": "Joe Burrow",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "Burrow",
       "number": 9,
       "player_id": "6770",
@@ -19083,7 +19083,7 @@
       ],
       "first_name": "De'Zhaun",
       "full_name": "De'Zhaun Stribling",
-      "injury_status": "Doubtful",
+      "injury_status": "Out",
       "last_name": "Stribling",
       "number": 7,
       "player_id": "13417",
