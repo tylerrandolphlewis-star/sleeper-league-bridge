@@ -1,5 +1,5 @@
 {
-  "content_hash": "50325cd59eea64774e7088ad21c01169b7050c962769d358e547ac8636eed562",
+  "content_hash": "39f4cad913a3b7c3ff040b0ca9699af472c6877169ce21d8944429d20fb197ed",
   "drafts": [
     {
       "draft": {
@@ -4237,7 +4237,7 @@
       "traded_picks": []
     }
   ],
-  "generated_at": "2026-09-16T23:11:18.507Z",
+  "generated_at": "2026-09-16T23:26:03.577Z",
   "league": {
     "avatar": null,
     "bracket_id": null,
@@ -17887,7 +17887,7 @@
       "number": 27,
       "player_id": "8408",
       "position": "RB",
-      "status": "Active",
+      "status": "Inactive",
       "team": "MIN",
       "years_exp": 4
     },
