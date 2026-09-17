@@ -1,5 +1,5 @@
 {
-  "content_hash": "a9a27bc8956480bb477c057d85932a20912c859b0dc6e540bd8940a41da89ca6",
+  "content_hash": "22e5148b2619426f01d2fb7bde07800e3c6c9ab1b5134b3358fbb4049b3a13ce",
   "drafts": [
     {
       "draft": {
@@ -4237,7 +4237,7 @@
       "traded_picks": []
     }
   ],
-  "generated_at": "2026-09-17T20:12:57.918Z",
+  "generated_at": "2026-09-17T20:39:48.342Z",
   "league": {
     "avatar": null,
     "bracket_id": null,
@@ -17706,7 +17706,7 @@
       ],
       "first_name": "Chris",
       "full_name": "Chris Olave",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "Olave",
       "number": 12,
       "player_id": "8144",
