@@ -1,5 +1,5 @@
 {
-  "content_hash": "f3452cff0eb0e8a678356157e8b97c7e3e784c1d7d740aeac95e484d19119bbf",
+  "content_hash": "bd317a7439a21d416eaad8dcc7bec9b8ffea688e248b78b023e7657ecbf4b972",
   "drafts": [
     {
       "draft": {
@@ -4237,7 +4237,7 @@
       "traded_picks": []
     }
   ],
-  "generated_at": "2026-09-18T20:39:36.428Z",
+  "generated_at": "2026-09-18T21:39:05.415Z",
   "league": {
     "avatar": null,
     "bracket_id": null,
@@ -17066,7 +17066,7 @@
       ],
       "first_name": "Jakobi",
       "full_name": "Jakobi Meyers",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Meyers",
       "number": 3,
       "player_id": "5947",
@@ -18506,7 +18506,7 @@
       ],
       "first_name": "Brian",
       "full_name": "Brian Thomas",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Thomas",
       "number": 7,
       "player_id": "11631",
