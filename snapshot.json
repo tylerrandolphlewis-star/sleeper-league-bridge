@@ -1,5 +1,5 @@
 {
-  "content_hash": "04eb32244820e272dfbd699e25a21f2b3e535abf2f34bae58fcad62c35dad110",
+  "content_hash": "867179b5e7029fc1b7c3e764608747917ca5fe144eb991ffda09ff4638d92b88",
   "drafts": [
     {
       "draft": {
@@ -4237,7 +4237,7 @@
       "traded_picks": []
     }
   ],
-  "generated_at": "2026-09-18T18:41:45.151Z",
+  "generated_at": "2026-09-18T19:37:23.889Z",
   "league": {
     "avatar": null,
     "bracket_id": null,
@@ -17130,7 +17130,7 @@
       ],
       "first_name": "D'Andre",
       "full_name": "D'Andre Swift",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Swift",
       "number": 4,
       "player_id": "6790",
@@ -18122,7 +18122,7 @@
       ],
       "first_name": "Zay",
       "full_name": "Zay Flowers",
-      "injury_status": "Questionable",
+      "injury_status": "Doubtful",
       "last_name": "Flowers",
       "number": 4,
       "player_id": "9997",
@@ -18939,7 +18939,7 @@
       ],
       "first_name": "Kyle",
       "full_name": "Kyle Monangai",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Monangai",
       "number": 25,
       "player_id": "12534",
