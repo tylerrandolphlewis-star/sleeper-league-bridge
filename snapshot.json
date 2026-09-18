@@ -1,5 +1,5 @@
 {
-  "content_hash": "c85449ce5eff5bf16e65ea5451b67846edca05d4629cfb7518eedadfd35fe0f9",
+  "content_hash": "f3452cff0eb0e8a678356157e8b97c7e3e784c1d7d740aeac95e484d19119bbf",
   "drafts": [
     {
       "draft": {
@@ -4237,7 +4237,7 @@
       "traded_picks": []
     }
   ],
-  "generated_at": "2026-09-18T20:26:04.420Z",
+  "generated_at": "2026-09-18T20:39:36.428Z",
   "league": {
     "avatar": null,
     "bracket_id": null,
@@ -18426,7 +18426,7 @@
       ],
       "first_name": "Brock",
       "full_name": "Brock Bowers",
-      "injury_status": "Questionable",
+      "injury_status": "Doubtful",
       "last_name": "Bowers",
       "number": 89,
       "player_id": "11604",
