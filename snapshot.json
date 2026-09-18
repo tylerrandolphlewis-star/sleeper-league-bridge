@@ -1,5 +1,5 @@
 {
-  "content_hash": "80ffa9a69ee7242e8558244e567e9bfa36430b6860df157200993c60638103ea",
+  "content_hash": "a97afedeff5517842d3f52de4b39190ee921d3f38bdb041b918a9aac0399ed84",
   "drafts": [
     {
       "draft": {
@@ -4237,7 +4237,7 @@
       "traded_picks": []
     }
   ],
-  "generated_at": "2026-09-18T16:26:00.487Z",
+  "generated_at": "2026-09-18T17:10:43.971Z",
   "league": {
     "avatar": null,
     "bracket_id": null,
@@ -18554,7 +18554,7 @@
       ],
       "first_name": "Jalen",
       "full_name": "Jalen Coker",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Coker",
       "number": 18,
       "player_id": "11646",
