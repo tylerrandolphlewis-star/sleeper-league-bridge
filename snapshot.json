@@ -1,5 +1,5 @@
 {
-  "content_hash": "2a15c09b82b6d2bd4860b4e9e81d53139b47cd82793c2282965a7e89467f15b6",
+  "content_hash": "f96dbf4707e9490866543f3496975aa73b8e17d5f9311dba01b7e09d9c41ab4b",
   "drafts": [
     {
       "draft": {
@@ -4237,7 +4237,7 @@
       "traded_picks": []
     }
   ],
-  "generated_at": "2026-09-19T20:25:38.748Z",
+  "generated_at": "2026-09-19T21:24:50.697Z",
   "league": {
     "avatar": null,
     "bracket_id": null,
@@ -19079,7 +19079,7 @@
       ],
       "first_name": "De'Zhaun",
       "full_name": "De'Zhaun Stribling",
-      "injury_status": "Out",
+      "injury_status": "IR",
       "last_name": "Stribling",
       "number": 7,
       "player_id": "13417",
