@@ -1,5 +1,5 @@
 {
-  "content_hash": "a8467095216466bbe288d0f555bb6e45aa64378c72aacbc399518142e28e65b2",
+  "content_hash": "b528de640a585727e694bb8961dfbd2e3be935d5b044c352bf5dbc6d966bac22",
   "drafts": [
     {
       "draft": {
@@ -4237,7 +4237,7 @@
       "traded_picks": []
     }
   ],
-  "generated_at": "2026-09-20T15:39:25.267Z",
+  "generated_at": "2026-09-20T15:51:44.547Z",
   "league": {
     "avatar": null,
     "bracket_id": null,
@@ -17094,7 +17094,7 @@
       ],
       "first_name": "Joe",
       "full_name": "Joe Burrow",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Burrow",
       "number": 9,
       "player_id": "6770",
@@ -17702,7 +17702,7 @@
       ],
       "first_name": "Chris",
       "full_name": "Chris Olave",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Olave",
       "number": 12,
       "player_id": "8144",
