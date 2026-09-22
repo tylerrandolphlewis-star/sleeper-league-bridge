@@ -1,5 +1,5 @@
 {
-  "content_hash": "3cd82fa9d48cf88ba5d3cbe3ce69d7f92961232cb06209df2c2a56ac512a4586",
+  "content_hash": "4f1abb5f988dbf52519e1e4092c3ced9af9e9d0ec201bcee9113bde8fc875f86",
   "drafts": [
     {
       "draft": {
@@ -4237,7 +4237,7 @@
       "traded_picks": []
     }
   ],
-  "generated_at": "2026-09-22T15:40:03.391Z",
+  "generated_at": "2026-09-22T20:40:45.804Z",
   "league": {
     "avatar": null,
     "bracket_id": null,
@@ -17270,7 +17270,7 @@
       ],
       "first_name": "Rico",
       "full_name": "Rico Dowdle",
-      "injury_status": "Out",
+      "injury_status": "Questionable",
       "last_name": "Dowdle",
       "number": 13,
       "player_id": "7021",
