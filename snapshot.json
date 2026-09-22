@@ -1,5 +1,5 @@
 {
-  "content_hash": "e7190b53387ed67770da6a00cc045b549beddc3d4307ef879c9f223caa257d0c",
+  "content_hash": "da0496372341884fac70cc0825b35428e02635b2d9f68440d640baaeb26c5476",
   "drafts": [
     {
       "draft": {
@@ -4237,7 +4237,7 @@
       "traded_picks": []
     }
   ],
-  "generated_at": "2026-09-22T03:27:42.206Z",
+  "generated_at": "2026-09-22T04:11:56.328Z",
   "league": {
     "avatar": null,
     "bracket_id": null,
@@ -16502,13 +16502,13 @@
     "display_week": 2,
     "league_create_season": "2026",
     "league_season": "2026",
-    "leg": 2,
+    "leg": 3,
     "previous_season": "2025",
     "season": "2026",
     "season_has_scores": true,
     "season_start_date": "2026-09-09",
     "season_type": "regular",
-    "week": 2
+    "week": 3
   },
   "players": {
     "421": {
