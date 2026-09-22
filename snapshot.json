@@ -1,5 +1,5 @@
 {
-  "content_hash": "742d0213f14d3b5d00af3fd3b2c6729819dce2ef6ea15058ff7edc876c04c95d",
+  "content_hash": "e7190b53387ed67770da6a00cc045b549beddc3d4307ef879c9f223caa257d0c",
   "drafts": [
     {
       "draft": {
@@ -4237,7 +4237,7 @@
       "traded_picks": []
     }
   ],
-  "generated_at": "2026-09-22T03:12:09.123Z",
+  "generated_at": "2026-09-22T03:27:42.206Z",
   "league": {
     "avatar": null,
     "bracket_id": null,
@@ -5230,7 +5230,7 @@
           "HOU"
         ],
         "players_points": {
-          "421": 27.08,
+          "421": 26.98,
           "2216": 8.4,
           "4881": 14.8,
           "5022": 1.4,
