@@ -1,5 +1,5 @@
 {
-  "content_hash": "0b2fcb793604e59dc5829a3392f9ea88bb867a60c9fa7c3a47c0ed3067119e9f",
+  "content_hash": "89b3cb00aba910d4584725430584825989c26f0c58f30c52ea5139946103be9a",
   "drafts": [
     {
       "draft": {
@@ -4237,7 +4237,7 @@
       "traded_picks": []
     }
   ],
-  "generated_at": "2026-09-23T17:39:38.572Z",
+  "generated_at": "2026-09-23T18:32:29.795Z",
   "league": {
     "avatar": null,
     "bracket_id": null,
@@ -17707,7 +17707,7 @@
       "number": 14,
       "player_id": "8142",
       "position": "WR",
-      "status": "Active",
+      "status": "Inactive",
       "team": "IND",
       "years_exp": 4
     },
