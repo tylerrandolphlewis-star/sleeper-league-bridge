@@ -1,5 +1,5 @@
 {
-  "content_hash": "475a5e1e05b37e0a1bbd7d7587455952d891b40bb036fb067724684d7ae163d6",
+  "content_hash": "7172920255de780b2613c5f200d0b0155fc0e07401964d80e858e61cf8d44bd0",
   "drafts": [
     {
       "draft": {
@@ -4237,7 +4237,7 @@
       "traded_picks": []
     }
   ],
-  "generated_at": "2026-09-23T16:43:15.160Z",
+  "generated_at": "2026-09-23T17:11:55.373Z",
   "league": {
     "avatar": null,
     "bracket_id": null,
@@ -17862,7 +17862,7 @@
       ],
       "first_name": "Jaylen",
       "full_name": "Jaylen Warren",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "Warren",
       "number": 30,
       "player_id": "8228",
@@ -18374,7 +18374,7 @@
       ],
       "first_name": "Jayden",
       "full_name": "Jayden Daniels",
-      "injury_status": "Doubtful",
+      "injury_status": "Out",
       "last_name": "Daniels",
       "number": 5,
       "player_id": "11566",
