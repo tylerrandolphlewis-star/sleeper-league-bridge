@@ -1,5 +1,5 @@
 {
-  "content_hash": "29ee2b0bda6aa43df6ccc4cd567c185b250739116b179329db7abb61df7d9c9b",
+  "content_hash": "c474db9d1505ff1e7373a9582d0816332c83a5e52ae76277390bc7a293bbb435",
   "drafts": [
     {
       "draft": {
@@ -4237,7 +4237,7 @@
       "traded_picks": []
     }
   ],
-  "generated_at": "2026-09-23T16:13:11.071Z",
+  "generated_at": "2026-09-23T16:29:15.938Z",
   "league": {
     "avatar": null,
     "bracket_id": null,
@@ -16678,7 +16678,7 @@
       ],
       "first_name": "Tyreek",
       "full_name": "Tyreek Hill",
-      "injury_status": "Out",
+      "injury_status": "",
       "last_name": "Hill",
       "number": 10,
       "player_id": "3321",
