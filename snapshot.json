@@ -1,5 +1,5 @@
 {
-  "content_hash": "076d844d8ef6672a42dfd72eb72d35a5bbe022cc71aafa679afffb17e259e750",
+  "content_hash": "738ce8720e13e8587ae16833a9066f4c0574a38e7f358f67a37c4c9122e0da6e",
   "drafts": [
     {
       "draft": {
@@ -4237,7 +4237,7 @@
       "traded_picks": []
     }
   ],
-  "generated_at": "2026-09-23T13:53:12.634Z",
+  "generated_at": "2026-09-23T15:28:14.429Z",
   "league": {
     "avatar": null,
     "bracket_id": null,
@@ -18427,7 +18427,7 @@
       "number": 25,
       "player_id": "11583",
       "position": "RB",
-      "status": "Active",
+      "status": "Inactive",
       "team": "CAR",
       "years_exp": 2
     },
