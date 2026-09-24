@@ -1,5 +1,5 @@
 {
-  "content_hash": "c1b3610f88ce6d1ef522b61f85960f6599360a3d6aba7439ecb0cd150dcd2ed9",
+  "content_hash": "e9b617b2bb5eb9c025def9c871f841bd890a95e13903cc20b7aa29b8cde4b613",
   "drafts": [
     {
       "draft": {
@@ -4237,7 +4237,7 @@
       "traded_picks": []
     }
   ],
-  "generated_at": "2026-09-24T20:54:13.247Z",
+  "generated_at": "2026-09-24T21:11:52.661Z",
   "league": {
     "avatar": null,
     "bracket_id": null,
@@ -18891,7 +18891,7 @@
       "number": 6,
       "player_id": "12508",
       "position": "QB",
-      "status": "Active",
+      "status": "Inactive",
       "team": "NYG",
       "years_exp": 1
     },
