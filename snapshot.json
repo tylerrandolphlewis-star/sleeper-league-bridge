@@ -1,5 +1,5 @@
 {
-  "content_hash": "e592a18b2d133222d1c43906ef2369739569f8262b54d2232bf3a6b44a845531",
+  "content_hash": "c1b3610f88ce6d1ef522b61f85960f6599360a3d6aba7439ecb0cd150dcd2ed9",
   "drafts": [
     {
       "draft": {
@@ -4237,7 +4237,7 @@
       "traded_picks": []
     }
   ],
-  "generated_at": "2026-09-24T20:29:00.789Z",
+  "generated_at": "2026-09-24T20:54:13.247Z",
   "league": {
     "avatar": null,
     "bracket_id": null,
@@ -18614,7 +18614,7 @@
       ],
       "first_name": "Malik",
       "full_name": "Malik Nabers",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Nabers",
       "number": 1,
       "player_id": "11632",
@@ -18886,7 +18886,7 @@
       ],
       "first_name": "Jaxson",
       "full_name": "Jaxson Dart",
-      "injury_status": "Out",
+      "injury_status": "IR",
       "last_name": "Dart",
       "number": 6,
       "player_id": "12508",
