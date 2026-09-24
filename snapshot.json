@@ -1,5 +1,5 @@
 {
-  "content_hash": "4f9c6809d46116fa318d2fef81b921f52807b4fcfeef52455eaec0d1ae6f5900",
+  "content_hash": "e592a18b2d133222d1c43906ef2369739569f8262b54d2232bf3a6b44a845531",
   "drafts": [
     {
       "draft": {
@@ -4237,7 +4237,7 @@
       "traded_picks": []
     }
   ],
-  "generated_at": "2026-09-24T18:32:28.475Z",
+  "generated_at": "2026-09-24T20:29:00.789Z",
   "league": {
     "avatar": null,
     "bracket_id": null,
@@ -18566,7 +18566,7 @@
       ],
       "first_name": "Adonai",
       "full_name": "Adonai Mitchell",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "Mitchell",
       "number": 15,
       "player_id": "11625",
