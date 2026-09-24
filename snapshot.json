@@ -1,5 +1,5 @@
 {
-  "content_hash": "e9b617b2bb5eb9c025def9c871f841bd890a95e13903cc20b7aa29b8cde4b613",
+  "content_hash": "42301ec8122cc6ceade56430b465a6366247d8c3ddafe74481168c9d9edaed77",
   "drafts": [
     {
       "draft": {
@@ -4237,7 +4237,7 @@
       "traded_picks": []
     }
   ],
-  "generated_at": "2026-09-24T21:11:52.661Z",
+  "generated_at": "2026-09-24T23:11:17.094Z",
   "league": {
     "avatar": null,
     "bracket_id": null,
@@ -17222,7 +17222,7 @@
       ],
       "first_name": "J.K.",
       "full_name": "J.K. Dobbins",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Dobbins",
       "number": 27,
       "player_id": "6806",
@@ -17334,7 +17334,7 @@
       ],
       "first_name": "DeVonta",
       "full_name": "DeVonta Smith",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "Smith",
       "number": 6,
       "player_id": "7525",
@@ -17974,7 +17974,7 @@
       ],
       "first_name": "Tank",
       "full_name": "Tank Bigsby",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "Bigsby",
       "number": 8,
       "player_id": "9225",
@@ -18774,7 +18774,7 @@
       ],
       "first_name": "RJ",
       "full_name": "RJ Harvey",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Harvey",
       "number": 12,
       "player_id": "12489",
