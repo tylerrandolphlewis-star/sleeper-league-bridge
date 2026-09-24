@@ -1,5 +1,5 @@
 {
-  "content_hash": "1e6e4df22920c1439232c2c2d95b2243657c7ae1416dff68405a41dbd20cbee4",
+  "content_hash": "4c7713c1ead533c119df1f679a10013eef20c903196ea0464bcb7629ec82a7e4",
   "drafts": [
     {
       "draft": {
@@ -4237,7 +4237,7 @@
       "traded_picks": []
     }
   ],
-  "generated_at": "2026-09-23T22:52:13.844Z",
+  "generated_at": "2026-09-24T01:26:34.015Z",
   "league": {
     "avatar": null,
     "bracket_id": null,
@@ -4245,14 +4245,14 @@
     "company_id": null,
     "draft_id": "1389357903374188545",
     "group_id": null,
-    "last_author_avatar": null,
-    "last_author_display_name": "sys",
-    "last_author_id": "166666666666666666",
-    "last_author_is_bot": true,
+    "last_author_avatar": "b3338675f635c2c1f42b469621d38ec6",
+    "last_author_display_name": "tylerlewis1",
+    "last_author_id": "871212502590074880",
+    "last_author_is_bot": false,
     "last_message_attachment": null,
-    "last_message_id": "1408576462096756736",
+    "last_message_id": "1408658517631438848",
     "last_message_text_map": null,
-    "last_message_time": 1790193307951,
+    "last_message_time": 1790212871514,
     "last_pinned_message_id": null,
     "last_read_id": null,
     "league_id": "1389357903374188544",
