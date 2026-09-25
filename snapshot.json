@@ -1,5 +1,5 @@
 {
-  "content_hash": "d503076fdbd6a9dca6b33873b839ab78c548772d3ac3065cc01c4be7aaa3d99f",
+  "content_hash": "1c647e2c773f350a2642a2008c0738f235d89abb82ec2cf43728b67ac7cf0212",
   "drafts": [
     {
       "draft": {
@@ -4237,7 +4237,7 @@
       "traded_picks": []
     }
   ],
-  "generated_at": "2026-09-24T23:25:14.765Z",
+  "generated_at": "2026-09-25T00:17:45.552Z",
   "league": {
     "avatar": null,
     "bracket_id": null,
@@ -6172,7 +6172,7 @@
           "7543": 0,
           "8146": 0,
           "8155": 0,
-          "9509": 0,
+          "9509": 0.3,
           "10859": 0,
           "11583": 0,
           "11625": 0,
@@ -6183,7 +6183,7 @@
           "13281": 0,
           "SF": 0
         },
-        "points": 0,
+        "points": 0.3,
         "roster_id": 6,
         "starters": [
           "4046",
@@ -6199,7 +6199,7 @@
         ],
         "starters_points": [
           0,
-          0,
+          0.3,
           0,
           0,
           0,
