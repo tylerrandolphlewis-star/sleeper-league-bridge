@@ -1,5 +1,5 @@
 {
-  "content_hash": "24151d0685b472037b2ad45fb581c403daa1ca03968b6e8bb74299441a653ee6",
+  "content_hash": "42ba2d01e3d342a3e414a45d7b6d0cedf2814a354273f79e776ba328275dc5a1",
   "drafts": [
     {
       "draft": {
@@ -4237,7 +4237,7 @@
       "traded_picks": []
     }
   ],
-  "generated_at": "2026-09-25T20:26:44.711Z",
+  "generated_at": "2026-09-25T20:53:47.885Z",
   "league": {
     "avatar": null,
     "bracket_id": null,
@@ -19239,7 +19239,7 @@
       ],
       "first_name": "Jonah",
       "full_name": "Jonah Coleman",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "last_name": "Coleman",
       "number": 20,
       "player_id": "13345",
