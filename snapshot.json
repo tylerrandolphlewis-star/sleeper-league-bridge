@@ -1,5 +1,5 @@
 {
-  "content_hash": "c8184da9bb8eb47c03f9beed3c4bbed6b4cf2c1a5cd2124b4656b70fb1bf3b43",
+  "content_hash": "2c8040937a289ad9739cab573f4ceec527318aaea33289c50606f82d3dc56216",
   "drafts": [
     {
       "draft": {
@@ -4237,7 +4237,7 @@
       "traded_picks": []
     }
   ],
-  "generated_at": "2026-09-25T16:13:57.169Z",
+  "generated_at": "2026-09-25T18:29:44.067Z",
   "league": {
     "avatar": null,
     "bracket_id": null,
@@ -18086,7 +18086,7 @@
       ],
       "first_name": "Puka",
       "full_name": "Puka Nacua",
-      "injury_status": "Questionable",
+      "injury_status": "Doubtful",
       "last_name": "Nacua",
       "number": 12,
       "player_id": "9493",
