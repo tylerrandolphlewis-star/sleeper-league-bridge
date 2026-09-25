@@ -1,5 +1,5 @@
 {
-  "content_hash": "0643e43b6c244429c9c9d5342b0df7189b96c059a8f884fcd59a041044200227",
+  "content_hash": "c8184da9bb8eb47c03f9beed3c4bbed6b4cf2c1a5cd2124b4656b70fb1bf3b43",
   "drafts": [
     {
       "draft": {
@@ -4237,7 +4237,7 @@
       "traded_picks": []
     }
   ],
-  "generated_at": "2026-09-25T03:26:39.442Z",
+  "generated_at": "2026-09-25T16:13:57.169Z",
   "league": {
     "avatar": null,
     "bracket_id": null,
@@ -17462,7 +17462,7 @@
       ],
       "first_name": "Nico",
       "full_name": "Nico Collins",
-      "injury_status": "Questionable",
+      "injury_status": "Doubtful",
       "last_name": "Collins",
       "number": 12,
       "player_id": "7569",
