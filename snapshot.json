@@ -1,5 +1,5 @@
 {
-  "content_hash": "aa5c122f61c1ad411f78b04048709f5a4e8e36887ea3d28d83d98a75cf6e99db",
+  "content_hash": "5044cb53a5ef0bd8cd85a61a948feaac7d051bfa2ed85154046cff63720a562e",
   "drafts": [
     {
       "draft": {
@@ -4237,7 +4237,7 @@
       "traded_picks": []
     }
   ],
-  "generated_at": "2026-09-25T18:55:36.043Z",
+  "generated_at": "2026-09-25T19:10:13.600Z",
   "league": {
     "avatar": null,
     "bracket_id": null,
@@ -16774,7 +16774,7 @@
       ],
       "first_name": "Aaron",
       "full_name": "Aaron Jones",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Jones",
       "number": 33,
       "player_id": "4199",
