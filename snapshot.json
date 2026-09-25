@@ -1,5 +1,5 @@
 {
-  "content_hash": "a9b3f4509292ea60c04e340e9a225be326f44ad8ee6dfbe335f4e177718e777d",
+  "content_hash": "24151d0685b472037b2ad45fb581c403daa1ca03968b6e8bb74299441a653ee6",
   "drafts": [
     {
       "draft": {
@@ -4237,7 +4237,7 @@
       "traded_picks": []
     }
   ],
-  "generated_at": "2026-09-25T20:11:20.664Z",
+  "generated_at": "2026-09-25T20:26:44.711Z",
   "league": {
     "avatar": null,
     "bracket_id": null,
@@ -17078,7 +17078,7 @@
       ],
       "first_name": "Jakobi",
       "full_name": "Jakobi Meyers",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Meyers",
       "number": 3,
       "player_id": "5947",
@@ -17462,7 +17462,7 @@
       ],
       "first_name": "Nico",
       "full_name": "Nico Collins",
-      "injury_status": "Doubtful",
+      "injury_status": "Out",
       "last_name": "Collins",
       "number": 12,
       "player_id": "7569",
