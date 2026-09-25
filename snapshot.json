@@ -1,5 +1,5 @@
 {
-  "content_hash": "776040be254d3653f476e73db434083475b7bd1bd3d9821feefa7e8b52c86d6d",
+  "content_hash": "73d1bc2e6d0e10cf2187b0d391eaac641773e92d2d11801535b5572c81bb20f3",
   "drafts": [
     {
       "draft": {
@@ -4237,7 +4237,7 @@
       "traded_picks": []
     }
   ],
-  "generated_at": "2026-09-25T21:41:09.969Z",
+  "generated_at": "2026-09-25T22:40:27.046Z",
   "league": {
     "avatar": null,
     "bracket_id": null,
@@ -16822,7 +16822,7 @@
       ],
       "first_name": "Saquon",
       "full_name": "Saquon Barkley",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Barkley",
       "number": 26,
       "player_id": "4866",
