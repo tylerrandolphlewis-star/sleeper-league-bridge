@@ -1,5 +1,5 @@
 {
-  "content_hash": "5044cb53a5ef0bd8cd85a61a948feaac7d051bfa2ed85154046cff63720a562e",
+  "content_hash": "6b769504d711bdaf443aa82702d270da6cf6d70fb43826d3f0eccda9fd3bb134",
   "drafts": [
     {
       "draft": {
@@ -4237,7 +4237,7 @@
       "traded_picks": []
     }
   ],
-  "generated_at": "2026-09-25T19:10:13.600Z",
+  "generated_at": "2026-09-25T19:53:04.698Z",
   "league": {
     "avatar": null,
     "bracket_id": null,
@@ -19063,7 +19063,7 @@
       ],
       "first_name": "Kyle",
       "full_name": "Kyle Monangai",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Monangai",
       "number": 25,
       "player_id": "12534",
