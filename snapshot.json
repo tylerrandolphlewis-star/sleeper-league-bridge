@@ -1,5 +1,5 @@
 {
-  "content_hash": "1d92265720420a77bb79071e581d8f0f9f5653fab8c6b70c6d16091035434401",
+  "content_hash": "651eef6d29d769390977e3f5e65e9f85bec6bc2d8fa8869bca605c2655cdc22b",
   "drafts": [
     {
       "draft": {
@@ -4237,7 +4237,7 @@
       "traded_picks": []
     }
   ],
-  "generated_at": "2026-09-26T19:10:13.294Z",
+  "generated_at": "2026-09-26T20:10:55.291Z",
   "league": {
     "avatar": null,
     "bracket_id": null,
@@ -16934,7 +16934,7 @@
       ],
       "first_name": "Dallas",
       "full_name": "Dallas Goedert",
-      "injury_status": "Doubtful",
+      "injury_status": "Out",
       "last_name": "Goedert",
       "number": 88,
       "player_id": "5022",
@@ -17334,7 +17334,7 @@
       ],
       "first_name": "DeVonta",
       "full_name": "DeVonta Smith",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Smith",
       "number": 6,
       "player_id": "7525",
@@ -17974,7 +17974,7 @@
       ],
       "first_name": "Tank",
       "full_name": "Tank Bigsby",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Bigsby",
       "number": 8,
       "player_id": "9225",
