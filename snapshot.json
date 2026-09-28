@@ -1,5 +1,5 @@
 {
-  "content_hash": "577eb32beb4b661742fff893c6aac4f18252652162c7cd0b6d28b84efecabf47",
+  "content_hash": "69a84328b6ada3926baa8ac675a461f9bb33d0e5ff09a42e2adab9b910635db4",
   "drafts": [
     {
       "draft": {
@@ -4237,7 +4237,7 @@
       "traded_picks": []
     }
   ],
-  "generated_at": "2026-09-28T17:12:22.391Z",
+  "generated_at": "2026-09-28T19:28:04.796Z",
   "league": {
     "avatar": null,
     "bracket_id": null,
@@ -17398,7 +17398,7 @@
       ],
       "first_name": "Travis",
       "full_name": "Travis Etienne",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "last_name": "Etienne",
       "number": 3,
       "player_id": "7543",
