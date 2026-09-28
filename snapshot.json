@@ -1,5 +1,5 @@
 {
-  "content_hash": "d94e04c01af5cb7feaa49a1b65b93fb25e04000d8ef1f79e518dc447ddc2a146",
+  "content_hash": "577eb32beb4b661742fff893c6aac4f18252652162c7cd0b6d28b84efecabf47",
   "drafts": [
     {
       "draft": {
@@ -4237,7 +4237,7 @@
       "traded_picks": []
     }
   ],
-  "generated_at": "2026-09-28T03:58:00.802Z",
+  "generated_at": "2026-09-28T17:12:22.391Z",
   "league": {
     "avatar": null,
     "bracket_id": null,
@@ -16854,7 +16854,7 @@
       ],
       "first_name": "Baker",
       "full_name": "Baker Mayfield",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "last_name": "Mayfield",
       "number": 6,
       "player_id": "4892",
