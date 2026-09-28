@@ -1,5 +1,5 @@
 {
-  "content_hash": "69a84328b6ada3926baa8ac675a461f9bb33d0e5ff09a42e2adab9b910635db4",
+  "content_hash": "ffcf136fb8b355744ebd3544949a693572ee214e3e2346a55a936f8508ad7e18",
   "drafts": [
     {
       "draft": {
@@ -4237,7 +4237,7 @@
       "traded_picks": []
     }
   ],
-  "generated_at": "2026-09-28T19:28:04.796Z",
+  "generated_at": "2026-09-28T20:27:58.259Z",
   "league": {
     "avatar": null,
     "bracket_id": null,
@@ -18006,12 +18006,12 @@
       ],
       "first_name": "De'Von",
       "full_name": "De'Von Achane",
-      "injury_status": "Out",
+      "injury_status": "IR",
       "last_name": "Achane",
       "number": 28,
       "player_id": "9226",
       "position": "RB",
-      "status": "Active",
+      "status": "Inactive",
       "team": "MIA",
       "years_exp": 3
     },
