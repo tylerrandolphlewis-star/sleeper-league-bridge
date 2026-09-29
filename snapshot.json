@@ -1,5 +1,5 @@
 {
-  "content_hash": "d9e365182fd3609cf59cdca3cd801b3ad8bda57390eee730c400dc956bcd2174",
+  "content_hash": "ce9c77ff75d84d37d2a95d7db6d5ffd3b1b78954bc20c540a945922e122ff1e7",
   "drafts": [
     {
       "draft": {
@@ -4237,7 +4237,7 @@
       "traded_picks": []
     }
   ],
-  "generated_at": "2026-09-29T13:20:24.638Z",
+  "generated_at": "2026-09-29T15:33:43.965Z",
   "league": {
     "avatar": null,
     "bracket_id": null,
@@ -4250,9 +4250,9 @@
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
-    "last_message_id": "1409942263986995200",
+    "last_message_id": "1410684400441585664",
     "last_message_text_map": null,
-    "last_message_time": 1790518940497,
+    "last_message_time": 1790695879616,
     "last_pinned_message_id": null,
     "last_read_id": null,
     "league_id": "1389357903374188544",
@@ -4428,7 +4428,7 @@
       "disable_adds": 0,
       "disable_trades": 0,
       "draft_rounds": 3,
-      "last_report": 2,
+      "last_report": 3,
       "last_scored_leg": 3,
       "league_average_match": 0,
       "leg": 3,
