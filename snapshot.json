@@ -1,5 +1,5 @@
 {
-  "content_hash": "5390e397e338823905a090fda253cd6d6e4208520e0238fc3d7ddd9af04d1214",
+  "content_hash": "d9b32f4f3dd037edf60752a92d0cb6393a6184306f4572a71f1626c22e3ae12a",
   "drafts": [
     {
       "draft": {
@@ -4237,7 +4237,7 @@
       "traded_picks": []
     }
   ],
-  "generated_at": "2026-09-30T21:12:46.656Z",
+  "generated_at": "2026-09-30T21:29:46.127Z",
   "league": {
     "avatar": null,
     "bracket_id": null,
@@ -16872,7 +16872,7 @@
       ],
       "first_name": "Josh",
       "full_name": "Josh Allen",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Allen",
       "number": 17,
       "player_id": "4984",
