@@ -1,5 +1,5 @@
 {
-  "content_hash": "142a0699c0969baf61618d0d8a5d1a4c8cb2b488bcc5691b96277b11aa94ccb0",
+  "content_hash": "9cd3d5a4a4e338a21ec410d1975140b24aeadafcdf2e0c31a30eed3115052516",
   "drafts": [
     {
       "draft": {
@@ -4237,7 +4237,7 @@
       "traded_picks": []
     }
   ],
-  "generated_at": "2026-09-30T19:32:27.402Z",
+  "generated_at": "2026-09-30T19:56:38.223Z",
   "league": {
     "avatar": null,
     "bracket_id": null,
@@ -16824,7 +16824,7 @@
       ],
       "first_name": "Lamar",
       "full_name": "Lamar Jackson",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "Jackson",
       "number": 8,
       "player_id": "4881",
