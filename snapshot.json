@@ -1,5 +1,5 @@
 {
-  "content_hash": "a13f765afa34cef3dc6807bb171539cf4e70fbe09315ddba8eb76e0de2803cfb",
+  "content_hash": "19287ff460bb1de5975b6cc921af90081527db7d9ff2e77b7ecb63cc447050a1",
   "drafts": [
     {
       "draft": {
@@ -4237,7 +4237,7 @@
       "traded_picks": []
     }
   ],
-  "generated_at": "2026-09-30T23:27:03.380Z",
+  "generated_at": "2026-09-30T23:41:01.810Z",
   "league": {
     "avatar": null,
     "bracket_id": null,
@@ -19177,7 +19177,7 @@
       ],
       "first_name": "Jadarian",
       "full_name": "Jadarian Price",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "Price",
       "number": 8,
       "player_id": "13286",
