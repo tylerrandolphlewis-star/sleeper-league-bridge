@@ -1,5 +1,5 @@
 {
-  "content_hash": "3dbfc6c671e99bc05c0461225be496092b2572601c8cd0d9adb6199806494dd8",
+  "content_hash": "5390e397e338823905a090fda253cd6d6e4208520e0238fc3d7ddd9af04d1214",
   "drafts": [
     {
       "draft": {
@@ -4237,7 +4237,7 @@
       "traded_picks": []
     }
   ],
-  "generated_at": "2026-09-30T20:55:43.224Z",
+  "generated_at": "2026-09-30T21:12:46.656Z",
   "league": {
     "avatar": null,
     "bracket_id": null,
@@ -17352,7 +17352,7 @@
       ],
       "first_name": "Jaylen",
       "full_name": "Jaylen Waddle",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Waddle",
       "number": 17,
       "player_id": "7526",
