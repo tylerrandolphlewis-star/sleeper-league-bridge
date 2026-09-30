@@ -1,5 +1,5 @@
 {
-  "content_hash": "d9b32f4f3dd037edf60752a92d0cb6393a6184306f4572a71f1626c22e3ae12a",
+  "content_hash": "1ee9be7185f38d1db94ffc97bf1f78561b73ad05a4cf560c7afcfe5426ed8ee3",
   "drafts": [
     {
       "draft": {
@@ -4237,7 +4237,7 @@
       "traded_picks": []
     }
   ],
-  "generated_at": "2026-09-30T21:29:46.127Z",
+  "generated_at": "2026-09-30T21:45:49.546Z",
   "league": {
     "avatar": null,
     "bracket_id": null,
@@ -16856,7 +16856,7 @@
       ],
       "first_name": "DJ",
       "full_name": "DJ Moore",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "Moore",
       "number": 2,
       "player_id": "4983",
@@ -18248,7 +18248,7 @@
       ],
       "first_name": "Jayden",
       "full_name": "Jayden Reed",
-      "injury_status": "Out",
+      "injury_status": "IR",
       "last_name": "Reed",
       "number": 11,
       "player_id": "10222",
