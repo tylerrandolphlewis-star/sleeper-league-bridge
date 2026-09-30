@@ -1,5 +1,5 @@
 {
-  "content_hash": "ff72d95ba2002a14fe17c049409f9ec77bbf52d4b313c6759ffb59f1c572b9b8",
+  "content_hash": "3dbfc6c671e99bc05c0461225be496092b2572601c8cd0d9adb6199806494dd8",
   "drafts": [
     {
       "draft": {
@@ -4237,7 +4237,7 @@
       "traded_picks": []
     }
   ],
-  "generated_at": "2026-09-30T20:44:54.778Z",
+  "generated_at": "2026-09-30T20:55:43.224Z",
   "league": {
     "avatar": null,
     "bracket_id": null,
@@ -16728,7 +16728,7 @@
       ],
       "first_name": "Chris",
       "full_name": "Chris Godwin",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "Godwin",
       "number": 14,
       "player_id": "4037",
@@ -18504,7 +18504,7 @@
       ],
       "first_name": "Bucky",
       "full_name": "Bucky Irving",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "Irving",
       "number": 7,
       "player_id": "11584",
