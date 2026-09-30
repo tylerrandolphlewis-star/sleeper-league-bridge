@@ -1,5 +1,5 @@
 {
-  "content_hash": "9cd3d5a4a4e338a21ec410d1975140b24aeadafcdf2e0c31a30eed3115052516",
+  "content_hash": "50acaca6668df7ca9809cbe3c970c7a21702ba0d6e58ae373a5bcee6cf3525ad",
   "drafts": [
     {
       "draft": {
@@ -4237,7 +4237,7 @@
       "traded_picks": []
     }
   ],
-  "generated_at": "2026-09-30T19:56:38.223Z",
+  "generated_at": "2026-09-30T20:30:08.964Z",
   "league": {
     "avatar": null,
     "bracket_id": null,
@@ -17080,7 +17080,7 @@
       ],
       "first_name": "Jakobi",
       "full_name": "Jakobi Meyers",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "Meyers",
       "number": 3,
       "player_id": "5947",
