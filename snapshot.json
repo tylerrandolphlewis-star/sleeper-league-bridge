@@ -1,5 +1,5 @@
 {
-  "content_hash": "3abde9bb6e7483b1c15da76a0a992ef13dc9996e61787a20885dc9c1256cf712",
+  "content_hash": "1721b445606d861104fa8b55cf73c172470e81f0b98e9765b6eb1d6d918150f8",
   "drafts": [
     {
       "draft": {
@@ -4237,7 +4237,7 @@
       "traded_picks": []
     }
   ],
-  "generated_at": "2026-09-30T16:43:46.436Z",
+  "generated_at": "2026-09-30T16:57:01.907Z",
   "league": {
     "avatar": null,
     "bracket_id": null,
@@ -19289,7 +19289,7 @@
       ],
       "first_name": "Kenyon",
       "full_name": "Kenyon Sadiq",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "Sadiq",
       "number": 16,
       "player_id": "13330",
