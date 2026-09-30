@@ -1,5 +1,5 @@
 {
-  "content_hash": "8440d53bf0db4470512220d99aa179a1467656bfc8d390da300747f13ee460dc",
+  "content_hash": "2662a92ae6bcea1281e2beacfaab9e79cc880e8a85ae0e3f7ca3fb3601bf65c1",
   "drafts": [
     {
       "draft": {
@@ -4237,7 +4237,7 @@
       "traded_picks": []
     }
   ],
-  "generated_at": "2026-09-30T13:57:57.993Z",
+  "generated_at": "2026-09-30T14:15:55.994Z",
   "league": {
     "avatar": null,
     "bracket_id": null,
@@ -17686,7 +17686,7 @@
       ],
       "first_name": "Rachaad",
       "full_name": "Rachaad White",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "White",
       "number": 1,
       "player_id": "8136",
