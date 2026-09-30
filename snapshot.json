@@ -1,5 +1,5 @@
 {
-  "content_hash": "73d7ab0acafed4d14378f891fa8ec6128033094a3f696d4cca8a8bd082c70ffc",
+  "content_hash": "a13f765afa34cef3dc6807bb171539cf4e70fbe09315ddba8eb76e0de2803cfb",
   "drafts": [
     {
       "draft": {
@@ -4237,7 +4237,7 @@
       "traded_picks": []
     }
   ],
-  "generated_at": "2026-09-30T22:44:54.305Z",
+  "generated_at": "2026-09-30T23:27:03.380Z",
   "league": {
     "avatar": null,
     "bracket_id": null,
@@ -17336,7 +17336,7 @@
       ],
       "first_name": "DeVonta",
       "full_name": "DeVonta Smith",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "Smith",
       "number": 6,
       "player_id": "7525",
