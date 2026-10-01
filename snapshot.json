@@ -1,5 +1,5 @@
 {
-  "content_hash": "dd8f45064210d977744cee4108a6f7e17854ec5dc3587125c36ffda33e3372b0",
+  "content_hash": "4adddc1b47fa7e31a6ebf850e8cc0c295b202c289f4bdc3e116780db223eefd0",
   "drafts": [
     {
       "draft": {
@@ -4237,7 +4237,7 @@
       "traded_picks": []
     }
   ],
-  "generated_at": "2026-10-01T15:13:31.169Z",
+  "generated_at": "2026-10-01T17:47:03.722Z",
   "league": {
     "avatar": null,
     "bracket_id": null,
@@ -18189,7 +18189,7 @@
       "number": 26,
       "player_id": "9753",
       "position": "RB",
-      "status": "Active",
+      "status": "Inactive",
       "team": "SEA",
       "years_exp": 3
     },
