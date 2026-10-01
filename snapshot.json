@@ -1,5 +1,5 @@
 {
-  "content_hash": "4adddc1b47fa7e31a6ebf850e8cc0c295b202c289f4bdc3e116780db223eefd0",
+  "content_hash": "eeb1209f0e4e9d5f3215e1c9825f7dcc9bdd2dfc4c83020e6a2aba0cb61ff58d",
   "drafts": [
     {
       "draft": {
@@ -4237,7 +4237,7 @@
       "traded_picks": []
     }
   ],
-  "generated_at": "2026-10-01T17:47:03.722Z",
+  "generated_at": "2026-10-01T22:50:11.648Z",
   "league": {
     "avatar": null,
     "bracket_id": null,
@@ -16760,7 +16760,7 @@
       ],
       "first_name": "Chris",
       "full_name": "Chris Godwin",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Godwin",
       "number": 14,
       "player_id": "4037",
@@ -16856,7 +16856,7 @@
       ],
       "first_name": "Lamar",
       "full_name": "Lamar Jackson",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Jackson",
       "number": 8,
       "player_id": "4881",
@@ -17128,7 +17128,7 @@
       ],
       "first_name": "Tony",
       "full_name": "Tony Pollard",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Pollard",
       "number": 20,
       "player_id": "5967",
@@ -17192,7 +17192,7 @@
       ],
       "first_name": "D'Andre",
       "full_name": "D'Andre Swift",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "Swift",
       "number": 4,
       "player_id": "6790",
@@ -17416,12 +17416,12 @@
       ],
       "first_name": "Travis",
       "full_name": "Travis Etienne",
-      "injury_status": "Out",
+      "injury_status": "IR",
       "last_name": "Etienne",
       "number": 3,
       "player_id": "7543",
       "position": "RB",
-      "status": "Active",
+      "status": "Inactive",
       "team": "NO",
       "years_exp": 5
     },
@@ -18232,7 +18232,7 @@
       ],
       "first_name": "Zay",
       "full_name": "Zay Flowers",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Flowers",
       "number": 4,
       "player_id": "9997",
@@ -18696,7 +18696,7 @@
       ],
       "first_name": "Jaylen",
       "full_name": "Jaylen Wright",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Wright",
       "number": 5,
       "player_id": "11643",
