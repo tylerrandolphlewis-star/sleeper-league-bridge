@@ -1,5 +1,5 @@
 {
-  "content_hash": "02ca5ecba3e72715aebc10a8b860f317b0038d1bf0a12f9c753b43b8780a4064",
+  "content_hash": "cd54745e6f68836f1aa8e5290da9a9200335b0ff2d55d62f62c6583609729baa",
   "drafts": [
     {
       "draft": {
@@ -4237,7 +4237,7 @@
       "traded_picks": []
     }
   ],
-  "generated_at": "2026-10-02T19:47:18.433Z",
+  "generated_at": "2026-10-02T23:17:43.860Z",
   "league": {
     "avatar": null,
     "bracket_id": null,
@@ -16952,7 +16952,7 @@
       ],
       "first_name": "Dallas",
       "full_name": "Dallas Goedert",
-      "injury_status": "Doubtful",
+      "injury_status": "Out",
       "last_name": "Goedert",
       "number": 88,
       "player_id": "5022",
@@ -17112,7 +17112,7 @@
       ],
       "first_name": "Jakobi",
       "full_name": "Jakobi Meyers",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Meyers",
       "number": 3,
       "player_id": "5947",
@@ -17368,7 +17368,7 @@
       ],
       "first_name": "DeVonta",
       "full_name": "DeVonta Smith",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "last_name": "Smith",
       "number": 6,
       "player_id": "7525",
@@ -17496,7 +17496,7 @@
       ],
       "first_name": "Nico",
       "full_name": "Nico Collins",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Collins",
       "number": 12,
       "player_id": "7569",
@@ -18232,7 +18232,7 @@
       ],
       "first_name": "Zay",
       "full_name": "Zay Flowers",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "Flowers",
       "number": 4,
       "player_id": "9997",
@@ -18536,7 +18536,7 @@
       ],
       "first_name": "Bucky",
       "full_name": "Bucky Irving",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Irving",
       "number": 7,
       "player_id": "11584",
@@ -19209,7 +19209,7 @@
       ],
       "first_name": "Jadarian",
       "full_name": "Jadarian Price",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "last_name": "Price",
       "number": 8,
       "player_id": "13286",
