@@ -1,5 +1,5 @@
 {
-  "content_hash": "d70dff2968dad69c958e88a8116e2e94aded0094f95daae556c59b5a09aed79d",
+  "content_hash": "02ca5ecba3e72715aebc10a8b860f317b0038d1bf0a12f9c753b43b8780a4064",
   "drafts": [
     {
       "draft": {
@@ -4237,7 +4237,7 @@
       "traded_picks": []
     }
   ],
-  "generated_at": "2026-10-02T14:54:03.336Z",
+  "generated_at": "2026-10-02T19:47:18.433Z",
   "league": {
     "avatar": null,
     "bracket_id": null,
@@ -16888,7 +16888,7 @@
       ],
       "first_name": "DJ",
       "full_name": "DJ Moore",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Moore",
       "number": 2,
       "player_id": "4983",
@@ -17096,7 +17096,7 @@
       ],
       "first_name": "Terry",
       "full_name": "Terry McLaurin",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "McLaurin",
       "number": 17,
       "player_id": "5927",
@@ -17192,7 +17192,7 @@
       ],
       "first_name": "D'Andre",
       "full_name": "D'Andre Swift",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Swift",
       "number": 4,
       "player_id": "6790",
@@ -17208,7 +17208,7 @@
       ],
       "first_name": "Justin",
       "full_name": "Justin Jefferson",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "last_name": "Jefferson",
       "number": 18,
       "player_id": "6794",
@@ -17704,7 +17704,7 @@
       ],
       "first_name": "Rachaad",
       "full_name": "Rachaad White",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "last_name": "White",
       "number": 1,
       "player_id": "8136",
@@ -17848,7 +17848,7 @@
       ],
       "first_name": "Breece",
       "full_name": "Breece Hall",
-      "injury_status": "Doubtful",
+      "injury_status": "Out",
       "last_name": "Hall",
       "number": 20,
       "player_id": "8155",
@@ -18120,7 +18120,7 @@
       ],
       "first_name": "Puka",
       "full_name": "Puka Nacua",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Nacua",
       "number": 12,
       "player_id": "9493",
@@ -18408,7 +18408,7 @@
       ],
       "first_name": "Caleb",
       "full_name": "Caleb Williams",
-      "injury_status": "Doubtful",
+      "injury_status": "Out",
       "last_name": "Williams",
       "number": 18,
       "player_id": "11560",
@@ -18472,7 +18472,7 @@
       ],
       "first_name": "Ray",
       "full_name": "Ray Davis",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "Davis",
       "number": 7,
       "player_id": "11575",
@@ -18616,7 +18616,7 @@
       ],
       "first_name": "Adonai",
       "full_name": "Adonai Mitchell",
-      "injury_status": "Doubtful",
+      "injury_status": "Out",
       "last_name": "Mitchell",
       "number": 15,
       "player_id": "11625",
@@ -19696,7 +19696,9 @@
         "9500",
         "BUF"
       ],
-      "reserve": null,
+      "reserve": [
+        "8136"
+      ],
       "roster_id": 1,
       "settings": {
         "fpts": 404,
@@ -20304,7 +20306,9 @@
         "9500",
         "BUF"
       ],
-      "reserve_ids": [],
+      "reserve_ids": [
+        "8136"
+      ],
       "roster_id": 1,
       "settings": {
         "fpts": 404,
