@@ -1,5 +1,5 @@
 {
-  "content_hash": "cd54745e6f68836f1aa8e5290da9a9200335b0ff2d55d62f62c6583609729baa",
+  "content_hash": "4cdeac2892a3ee69844e89b74c4891e51e8c7cc0c33fa5191cdc54f4eeb2de7f",
   "drafts": [
     {
       "draft": {
@@ -4237,7 +4237,7 @@
       "traded_picks": []
     }
   ],
-  "generated_at": "2026-10-02T23:17:43.860Z",
+  "generated_at": "2026-10-03T17:30:37.146Z",
   "league": {
     "avatar": null,
     "bracket_id": null,
@@ -17096,7 +17096,7 @@
       ],
       "first_name": "Terry",
       "full_name": "Terry McLaurin",
-      "injury_status": "Questionable",
+      "injury_status": "Doubtful",
       "last_name": "McLaurin",
       "number": 17,
       "player_id": "5927",
