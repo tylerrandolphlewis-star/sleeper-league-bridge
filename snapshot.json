@@ -1,5 +1,5 @@
 {
-  "content_hash": "93d03f6654b6b84aa7da64144a453ffbcab9b7be6cc40dea248ab55f82d224e1",
+  "content_hash": "2f6d1c2501dd0637f3412747d175e38c38e1d290170c5d000cd39fd86bb58d41",
   "drafts": [
     {
       "draft": {
@@ -4237,7 +4237,7 @@
       "traded_picks": []
     }
   ],
-  "generated_at": "2026-10-08T02:34:50.037Z",
+  "generated_at": "2026-10-08T16:48:47.926Z",
   "league": {
     "avatar": null,
     "bracket_id": null,
@@ -17366,7 +17366,7 @@
       ],
       "first_name": "Michael",
       "full_name": "Michael Pittman",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "last_name": "Pittman",
       "number": 11,
       "player_id": "6819",
