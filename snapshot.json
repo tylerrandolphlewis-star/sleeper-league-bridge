@@ -1,5 +1,5 @@
 {
-  "content_hash": "189fb3dbf9a69b44d4b292d0938fb7eba221a603bcec22f8c047df0832582df0",
+  "content_hash": "e1e031745444af1158b8550af0f63e055c370bcedc956d66227884b45e9c66b2",
   "drafts": [
     {
       "draft": {
@@ -4237,7 +4237,7 @@
       "traded_picks": []
     }
   ],
-  "generated_at": "2026-10-09T15:13:06.827Z",
+  "generated_at": "2026-10-09T20:06:44.453Z",
   "league": {
     "avatar": null,
     "bracket_id": null,
@@ -16690,7 +16690,7 @@
       ],
       "first_name": "Stefon",
       "full_name": "Stefon Diggs",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "last_name": "Diggs",
       "number": 3,
       "player_id": "2449",
@@ -16962,7 +16962,7 @@
       ],
       "first_name": "Lamar",
       "full_name": "Lamar Jackson",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "last_name": "Jackson",
       "number": 8,
       "player_id": "4881",
@@ -17314,7 +17314,7 @@
       ],
       "first_name": "D'Andre",
       "full_name": "D'Andre Swift",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Swift",
       "number": 4,
       "player_id": "6790",
@@ -17906,7 +17906,7 @@
       ],
       "first_name": "Chris",
       "full_name": "Chris Olave",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Olave",
       "number": 12,
       "player_id": "8144",
@@ -18018,7 +18018,7 @@
       ],
       "first_name": "Jalen",
       "full_name": "Jalen Nailor",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "last_name": "Nailor",
       "number": 9,
       "player_id": "8180",
@@ -18562,7 +18562,7 @@
       ],
       "first_name": "Caleb",
       "full_name": "Caleb Williams",
-      "injury_status": "Out",
+      "injury_status": "Questionable",
       "last_name": "Williams",
       "number": 18,
       "player_id": "11560",
@@ -19074,7 +19074,7 @@
       ],
       "first_name": "Pat",
       "full_name": "Pat Bryant",
-      "injury_status": "Doubtful",
+      "injury_status": "Out",
       "last_name": "Bryant",
       "number": 13,
       "player_id": "12492",
@@ -19347,7 +19347,7 @@
       ],
       "first_name": "Kyle",
       "full_name": "Kyle Monangai",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "last_name": "Monangai",
       "number": 25,
       "player_id": "12534",
