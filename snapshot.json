@@ -1,5 +1,5 @@
 {
-  "content_hash": "d8beb212d67f6d9973534fcb81b56cedee1755d6170535b4d9d86e9dddcfc901",
+  "content_hash": "189fb3dbf9a69b44d4b292d0938fb7eba221a603bcec22f8c047df0832582df0",
   "drafts": [
     {
       "draft": {
@@ -4237,7 +4237,7 @@
       "traded_picks": []
     }
   ],
-  "generated_at": "2026-10-09T08:02:07.415Z",
+  "generated_at": "2026-10-09T15:13:06.827Z",
   "league": {
     "avatar": null,
     "bracket_id": null,
@@ -17986,7 +17986,7 @@
       ],
       "first_name": "Breece",
       "full_name": "Breece Hall",
-      "injury_status": "Doubtful",
+      "injury_status": "Out",
       "last_name": "Hall",
       "number": 20,
       "player_id": "8155",
@@ -18786,7 +18786,7 @@
       ],
       "first_name": "Adonai",
       "full_name": "Adonai Mitchell",
-      "injury_status": "Doubtful",
+      "injury_status": "Out",
       "last_name": "Mitchell",
       "number": 15,
       "player_id": "11625",
