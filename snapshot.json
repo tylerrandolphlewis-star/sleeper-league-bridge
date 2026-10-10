@@ -1,5 +1,5 @@
 {
-  "content_hash": "f24a43e724a8a6f4a2e0680a8932fcc4a178b7729facef191eb143c2adf39e8e",
+  "content_hash": "bb5aef9f47ada4ad1b147d0f53388ce36de42d48cbfde84a3b163f997081c03f",
   "drafts": [
     {
       "draft": {
@@ -4237,7 +4237,7 @@
       "traded_picks": []
     }
   ],
-  "generated_at": "2026-10-10T16:19:13.151Z",
+  "generated_at": "2026-10-10T20:13:40.781Z",
   "league": {
     "avatar": null,
     "bracket_id": null,
@@ -17406,12 +17406,12 @@
       ],
       "first_name": "Michael",
       "full_name": "Michael Pittman",
-      "injury_status": "Out",
+      "injury_status": "IR",
       "last_name": "Pittman",
       "number": 11,
       "player_id": "6819",
       "position": "WR",
-      "status": "Active",
+      "status": "Inactive",
       "team": "PIT",
       "years_exp": 6
     },
