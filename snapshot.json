@@ -1,5 +1,5 @@
 {
-  "content_hash": "73ef939949038d4cd6904f9101e4f63d1b459c261a1464afc53b75ec738bc18e",
+  "content_hash": "90a050877d2782a9b953c243263d376f08af8e9404a5274019c4dc2fca35ca55",
   "drafts": [
     {
       "draft": {
@@ -4237,7 +4237,7 @@
       "traded_picks": []
     }
   ],
-  "generated_at": "2026-10-12T09:36:08.499Z",
+  "generated_at": "2026-10-12T19:20:39.868Z",
   "league": {
     "avatar": null,
     "bracket_id": null,
@@ -8262,14 +8262,14 @@
         "points": 0,
         "roster_id": 7,
         "starters": [
-          "3163",
+          "6797",
           "4034",
-          "4866",
-          "11620",
-          "5846",
-          "9484",
-          "11632",
+          "12474",
           "7526",
+          "5846",
+          "1466",
+          "11632",
+          "9484",
           "7839",
           "PIT"
         ],
@@ -18862,7 +18862,7 @@
       ],
       "first_name": "Ladd",
       "full_name": "Ladd McConkey",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "McConkey",
       "number": 15,
       "player_id": "11635",
