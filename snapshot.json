@@ -1,5 +1,5 @@
 {
-  "content_hash": "5d632d4ce3411fa13a04093927d93a3d8786d299df26ef12031b78c8a15de0d8",
+  "content_hash": "89700b08923b4291c4e6b83cf2943747d3012541d4ea44ad35727ba08c68369c",
   "drafts": [
     {
       "draft": {
@@ -4237,7 +4237,7 @@
       "traded_picks": []
     }
   ],
-  "generated_at": "2026-10-15T18:54:47.711Z",
+  "generated_at": "2026-10-15T21:58:39.285Z",
   "league": {
     "avatar": null,
     "bracket_id": null,
@@ -16658,7 +16658,7 @@
       ],
       "first_name": "Mike",
       "full_name": "Mike Evans",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "Evans",
       "number": 5,
       "player_id": "2216",
@@ -17186,7 +17186,7 @@
       ],
       "first_name": "David",
       "full_name": "David Montgomery",
-      "injury_status": "Doubtful",
+      "injury_status": "Out",
       "last_name": "Montgomery",
       "number": 32,
       "player_id": "5892",
@@ -17458,7 +17458,7 @@
       ],
       "first_name": "Rico",
       "full_name": "Rico Dowdle",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Dowdle",
       "number": 13,
       "player_id": "7021",
@@ -18322,7 +18322,7 @@
       ],
       "first_name": "Josh",
       "full_name": "Josh Downs",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Downs",
       "number": 2,
       "player_id": "9500",
@@ -18434,7 +18434,7 @@
       ],
       "first_name": "Zay",
       "full_name": "Zay Flowers",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "Flowers",
       "number": 4,
       "player_id": "9997",
