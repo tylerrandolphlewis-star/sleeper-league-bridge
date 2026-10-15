@@ -1,5 +1,5 @@
 {
-  "content_hash": "2e710e25ff75d801da5aa4265f53ec47ca83391e02fdecb6d933b462ea47ba1c",
+  "content_hash": "20d9ad24b530c71dcd26fb87fec11dfa1a1048f023ddb8792c079bc5c4000046",
   "drafts": [
     {
       "draft": {
@@ -4237,7 +4237,7 @@
       "traded_picks": []
     }
   ],
-  "generated_at": "2026-10-14T22:30:13.449Z",
+  "generated_at": "2026-10-15T00:45:52.302Z",
   "league": {
     "avatar": null,
     "bracket_id": null,
@@ -18232,7 +18232,7 @@
       ],
       "first_name": "Dontayvion",
       "full_name": "Dontayvion Wicks",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "Wicks",
       "number": 13,
       "player_id": "9486",
@@ -18264,7 +18264,7 @@
       ],
       "first_name": "Jaxon",
       "full_name": "Jaxon Smith-Njigba",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Smith-Njigba",
       "number": 11,
       "player_id": "9488",
@@ -18760,7 +18760,7 @@
       ],
       "first_name": "Brock",
       "full_name": "Brock Bowers",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "Bowers",
       "number": 89,
       "player_id": "11604",
