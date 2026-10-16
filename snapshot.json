@@ -1,5 +1,5 @@
 {
-  "content_hash": "7fcd1126f47fbaf9d810ea2425b90a8179bfff604d220e1f0d25c51cbdc6c13c",
+  "content_hash": "38ad4bc8e2eb2679a55740bfab830d91d14afc9d2d21b31a6ae29eaf4f29c1b6",
   "drafts": [
     {
       "draft": {
@@ -4237,7 +4237,7 @@
       "traded_picks": []
     }
   ],
-  "generated_at": "2026-10-16T13:58:48.455Z",
+  "generated_at": "2026-10-16T17:51:12.599Z",
   "league": {
     "avatar": null,
     "bracket_id": null,
@@ -16770,7 +16770,7 @@
       ],
       "first_name": "Darren",
       "full_name": "Darren Waller",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Waller",
       "number": 88,
       "player_id": "2505",
@@ -17042,7 +17042,7 @@
       ],
       "first_name": "Baker",
       "full_name": "Baker Mayfield",
-      "injury_status": "Doubtful",
+      "injury_status": "Out",
       "last_name": "Mayfield",
       "number": 6,
       "player_id": "4892",
@@ -18098,7 +18098,7 @@
       ],
       "first_name": "Breece",
       "full_name": "Breece Hall",
-      "injury_status": "Doubtful",
+      "injury_status": "Out",
       "last_name": "Hall",
       "number": 20,
       "player_id": "8155",
@@ -18914,7 +18914,7 @@
       ],
       "first_name": "Adonai",
       "full_name": "Adonai Mitchell",
-      "injury_status": "Doubtful",
+      "injury_status": "Out",
       "last_name": "Mitchell",
       "number": 15,
       "player_id": "11625",
