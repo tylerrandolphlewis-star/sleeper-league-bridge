@@ -1,5 +1,5 @@
 {
-  "content_hash": "fb724ae8cfa4cc964f825447ee69dcd48fb24f923e9a342e329729d88ff791b6",
+  "content_hash": "6b466a97b448c4aede237fb2c33bed3bf22ce3c44864295cbe26be066ec0f7d7",
   "drafts": [
     {
       "draft": {
@@ -4237,7 +4237,7 @@
       "traded_picks": []
     }
   ],
-  "generated_at": "2026-10-16T20:36:41.052Z",
+  "generated_at": "2026-10-16T23:02:07.119Z",
   "league": {
     "avatar": null,
     "bracket_id": null,
@@ -17954,7 +17954,7 @@
       ],
       "first_name": "Rachaad",
       "full_name": "Rachaad White",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "White",
       "number": 1,
       "player_id": "8136",
@@ -18130,7 +18130,7 @@
       ],
       "first_name": "Jalen",
       "full_name": "Jalen Nailor",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Nailor",
       "number": 9,
       "player_id": "8180",
@@ -18338,7 +18338,7 @@
       ],
       "first_name": "Dontayvion",
       "full_name": "Dontayvion Wicks",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Wicks",
       "number": 13,
       "player_id": "9486",
@@ -18791,7 +18791,7 @@
       "number": 28,
       "player_id": "11577",
       "position": "RB",
-      "status": "Active",
+      "status": "Inactive",
       "team": "PHI",
       "years_exp": 2
     },
