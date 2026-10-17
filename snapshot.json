@@ -1,5 +1,5 @@
 {
-  "content_hash": "e91f71256c537dba1d926826acb1978411a7f36c8faaff9cde2feb86c9afdffb",
+  "content_hash": "1fd36e5446aea83e8cccb0144c72cfddfca82049c6f48ac21150118093a8df9f",
   "drafts": [
     {
       "draft": {
@@ -4237,7 +4237,7 @@
       "traded_picks": []
     }
   ],
-  "generated_at": "2026-10-17T18:43:14.774Z",
+  "generated_at": "2026-10-17T20:59:13.268Z",
   "league": {
     "avatar": null,
     "bracket_id": null,
@@ -17218,7 +17218,7 @@
       ],
       "first_name": "A.J.",
       "full_name": "A.J. Brown",
-      "injury_status": "IR",
+      "injury_status": "Questionable",
       "last_name": "Brown",
       "number": 1,
       "player_id": "5859",
@@ -17266,7 +17266,7 @@
       ],
       "first_name": "Terry",
       "full_name": "Terry McLaurin",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "McLaurin",
       "number": 17,
       "player_id": "5927",
@@ -17506,12 +17506,12 @@
       ],
       "first_name": "Jalen",
       "full_name": "Jalen Hurts",
-      "injury_status": "Out",
+      "injury_status": "IR",
       "last_name": "Hurts",
       "number": 1,
       "player_id": "6904",
       "position": "QB",
-      "status": "Active",
+      "status": "Inactive",
       "team": "PHI",
       "years_exp": 6
     },
@@ -17954,7 +17954,7 @@
       ],
       "first_name": "Rachaad",
       "full_name": "Rachaad White",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "White",
       "number": 1,
       "player_id": "8136",
@@ -18946,12 +18946,12 @@
       ],
       "first_name": "Roman",
       "full_name": "Roman Wilson",
-      "injury_status": "Out",
+      "injury_status": "IR",
       "last_name": "Wilson",
       "number": 14,
       "player_id": "11630",
       "position": "WR",
-      "status": "Active",
+      "status": "Inactive",
       "team": "PIT",
       "years_exp": 2
     },
@@ -19587,12 +19587,12 @@
       ],
       "first_name": "Ja'Kobi",
       "full_name": "Ja'Kobi Lane",
-      "injury_status": "IR",
+      "injury_status": "Questionable",
       "last_name": "Lane",
       "number": 6,
       "player_id": "13293",
       "position": "WR",
-      "status": "Inactive",
+      "status": "Active",
       "team": "BAL",
       "years_exp": 0
     },
