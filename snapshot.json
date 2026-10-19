@@ -1,5 +1,5 @@
 {
-  "content_hash": "755c95e9acd3c813a629a1e894281ee5a7d506dacba43b6f096ba3c944f14762",
+  "content_hash": "15d0a075cd7d5a19aa1bd960bfab2b08c4c70c0f22548d316288dde8d361d8a8",
   "drafts": [
     {
       "draft": {
@@ -4237,7 +4237,7 @@
       "traded_picks": []
     }
   ],
-  "generated_at": "2026-10-19T20:05:53.959Z",
+  "generated_at": "2026-10-19T23:42:56.370Z",
   "league": {
     "avatar": null,
     "bracket_id": null,
@@ -16682,7 +16682,7 @@
       ],
       "first_name": "Davante",
       "full_name": "Davante Adams",
-      "injury_status": null,
+      "injury_status": "Out",
       "last_name": "Adams",
       "number": 17,
       "player_id": "2133",
@@ -16698,7 +16698,7 @@
       ],
       "first_name": "Mike",
       "full_name": "Mike Evans",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Evans",
       "number": 5,
       "player_id": "2216",
@@ -16730,7 +16730,7 @@
       ],
       "first_name": "Stefon",
       "full_name": "Stefon Diggs",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Diggs",
       "number": 3,
       "player_id": "2449",
@@ -17818,12 +17818,12 @@
       ],
       "first_name": "Romeo",
       "full_name": "Romeo Doubs",
-      "injury_status": "Out",
+      "injury_status": "IR",
       "last_name": "Doubs",
       "number": 87,
       "player_id": "8121",
       "position": "WR",
-      "status": "Active",
+      "status": "Inactive",
       "team": "NE",
       "years_exp": 4
     },
@@ -19435,12 +19435,12 @@
       ],
       "first_name": "Jacory",
       "full_name": "Jacory Croskey-Merritt",
-      "injury_status": "Out",
+      "injury_status": "IR",
       "last_name": "Croskey-Merritt",
       "number": 22,
       "player_id": "12533",
       "position": "RB",
-      "status": "Active",
+      "status": "Inactive",
       "team": "WAS",
       "years_exp": 1
     },
