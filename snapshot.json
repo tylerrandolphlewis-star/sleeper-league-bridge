@@ -1,5 +1,5 @@
 {
-  "content_hash": "5c524f6581ff2397566e045518f99bc41b942e5959d11742b02cc090cfd9370d",
+  "content_hash": "326d459b583eb195db10a9f829a81cc699a36da758da3eda7ea665568e483920",
   "drafts": [
     {
       "draft": {
@@ -4237,7 +4237,7 @@
       "traded_picks": []
     }
   ],
-  "generated_at": "2026-10-20T21:20:28.459Z",
+  "generated_at": "2026-10-21T00:01:52.942Z",
   "league": {
     "avatar": null,
     "bracket_id": null,
@@ -16638,12 +16638,12 @@
       ],
       "first_name": "Davante",
       "full_name": "Davante Adams",
-      "injury_status": "Out",
+      "injury_status": "IR",
       "last_name": "Adams",
       "number": 17,
       "player_id": "2133",
       "position": "WR",
-      "status": "Active",
+      "status": "Inactive",
       "team": "LAR",
       "years_exp": 12
     },
