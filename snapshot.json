@@ -1,5 +1,5 @@
 {
-  "content_hash": "3c4708cf44faa94ff60de8ca425f3452bcb1ed5ee06734457bc14b122aad315b",
+  "content_hash": "78fbea37b22a81132ed85559ab218318d3737bce230b74bb5d3294c5a81d895b",
   "drafts": [
     {
       "draft": {
@@ -4237,7 +4237,7 @@
       "traded_picks": []
     }
   ],
-  "generated_at": "2026-10-21T18:57:04.501Z",
+  "generated_at": "2026-10-21T22:09:40.855Z",
   "league": {
     "avatar": null,
     "bracket_id": null,
@@ -4250,9 +4250,9 @@
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
-    "last_message_id": "1418623935431352320",
+    "last_message_id": "1418730580161368064",
     "last_message_text_map": null,
-    "last_message_time": 1792588812266,
+    "last_message_time": 1792614238351,
     "last_pinned_message_id": null,
     "last_read_id": null,
     "league_id": "1389357903374188544",
@@ -8966,6 +8966,7 @@
         "custom_points": null,
         "matchup_id": 2,
         "players": [
+          "10213",
           "11435",
           "12489",
           "12519",
@@ -8993,6 +8994,7 @@
           "7553": 0,
           "7588": 0,
           "8183": 0,
+          "10213": 0,
           "11435": 0,
           "12489": 0,
           "12519": 0,
@@ -9004,14 +9006,14 @@
         "points": 0,
         "roster_id": 8,
         "starters": [
-          "4984",
-          "11435",
+          "8183",
           "7588",
+          "12489",
           "6786",
           "12519",
           "3214",
           "13279",
-          "2133",
+          "10213",
           "2747",
           "PHI"
         ],
@@ -9638,6 +9640,7 @@
         "custom_points": null,
         "matchup_id": 3,
         "players": [
+          "10213",
           "11435",
           "12489",
           "12519",
@@ -9665,6 +9668,7 @@
           "7553": 0,
           "7588": 0,
           "8183": 0,
+          "10213": 0,
           "11435": 0,
           "12489": 0,
           "12519": 0,
@@ -9676,14 +9680,14 @@
         "points": 0,
         "roster_id": 8,
         "starters": [
-          "4984",
-          "11435",
+          "8183",
           "7588",
+          "12489",
           "6786",
           "12519",
           "3214",
           "13279",
-          "2133",
+          "10213",
           "2747",
           "PHI"
         ],
@@ -10310,6 +10314,7 @@
         "custom_points": null,
         "matchup_id": 4,
         "players": [
+          "10213",
           "11435",
           "12489",
           "12519",
@@ -10337,6 +10342,7 @@
           "7553": 0,
           "7588": 0,
           "8183": 0,
+          "10213": 0,
           "11435": 0,
           "12489": 0,
           "12519": 0,
@@ -10348,14 +10354,14 @@
         "points": 0,
         "roster_id": 8,
         "starters": [
-          "4984",
-          "11435",
+          "8183",
           "7588",
+          "12489",
           "6786",
           "12519",
           "3214",
           "13279",
-          "2133",
+          "10213",
           "2747",
           "PHI"
         ],
@@ -10982,6 +10988,7 @@
         "custom_points": null,
         "matchup_id": 5,
         "players": [
+          "10213",
           "11435",
           "12489",
           "12519",
@@ -11009,6 +11016,7 @@
           "7553": 0,
           "7588": 0,
           "8183": 0,
+          "10213": 0,
           "11435": 0,
           "12489": 0,
           "12519": 0,
@@ -11020,14 +11028,14 @@
         "points": 0,
         "roster_id": 8,
         "starters": [
-          "4984",
-          "11435",
+          "8183",
           "7588",
+          "12489",
           "6786",
           "12519",
           "3214",
           "13279",
-          "2133",
+          "10213",
           "2747",
           "PHI"
         ],
@@ -11654,6 +11662,7 @@
         "custom_points": null,
         "matchup_id": 5,
         "players": [
+          "10213",
           "11435",
           "12489",
           "12519",
@@ -11681,6 +11690,7 @@
           "7553": 0,
           "7588": 0,
           "8183": 0,
+          "10213": 0,
           "11435": 0,
           "12489": 0,
           "12519": 0,
@@ -11692,14 +11702,14 @@
         "points": 0,
         "roster_id": 8,
         "starters": [
-          "4984",
-          "11435",
+          "8183",
           "7588",
+          "12489",
           "6786",
           "12519",
           "3214",
           "13279",
-          "2133",
+          "10213",
           "2747",
           "PHI"
         ],
@@ -12326,6 +12336,7 @@
         "custom_points": null,
         "matchup_id": 4,
         "players": [
+          "10213",
           "11435",
           "12489",
           "12519",
@@ -12353,6 +12364,7 @@
           "7553": 0,
           "7588": 0,
           "8183": 0,
+          "10213": 0,
           "11435": 0,
           "12489": 0,
           "12519": 0,
@@ -12364,14 +12376,14 @@
         "points": 0,
         "roster_id": 8,
         "starters": [
-          "4984",
-          "11435",
+          "8183",
           "7588",
+          "12489",
           "6786",
           "12519",
           "3214",
           "13279",
-          "2133",
+          "10213",
           "2747",
           "PHI"
         ],
@@ -12998,6 +13010,7 @@
         "custom_points": null,
         "matchup_id": 3,
         "players": [
+          "10213",
           "11435",
           "12489",
           "12519",
@@ -13025,6 +13038,7 @@
           "7553": 0,
           "7588": 0,
           "8183": 0,
+          "10213": 0,
           "11435": 0,
           "12489": 0,
           "12519": 0,
@@ -13036,14 +13050,14 @@
         "points": 0,
         "roster_id": 8,
         "starters": [
-          "4984",
-          "11435",
+          "8183",
           "7588",
+          "12489",
           "6786",
           "12519",
           "3214",
           "13279",
-          "2133",
+          "10213",
           "2747",
           "PHI"
         ],
@@ -13670,6 +13684,7 @@
         "custom_points": null,
         "matchup_id": 2,
         "players": [
+          "10213",
           "11435",
           "12489",
           "12519",
@@ -13697,6 +13712,7 @@
           "7553": 0,
           "7588": 0,
           "8183": 0,
+          "10213": 0,
           "11435": 0,
           "12489": 0,
           "12519": 0,
@@ -13708,14 +13724,14 @@
         "points": 0,
         "roster_id": 8,
         "starters": [
-          "4984",
-          "11435",
+          "8183",
           "7588",
+          "12489",
           "6786",
           "12519",
           "3214",
           "13279",
-          "2133",
+          "10213",
           "2747",
           "PHI"
         ],
@@ -14342,6 +14358,7 @@
         "custom_points": null,
         "matchup_id": 1,
         "players": [
+          "10213",
           "11435",
           "12489",
           "12519",
@@ -14369,6 +14386,7 @@
           "7553": 0,
           "7588": 0,
           "8183": 0,
+          "10213": 0,
           "11435": 0,
           "12489": 0,
           "12519": 0,
@@ -14380,14 +14398,14 @@
         "points": 0,
         "roster_id": 8,
         "starters": [
-          "4984",
-          "11435",
+          "8183",
           "7588",
+          "12489",
           "6786",
           "12519",
           "3214",
           "13279",
-          "2133",
+          "10213",
           "2747",
           "PHI"
         ],
@@ -15014,6 +15032,7 @@
         "custom_points": null,
         "matchup_id": 2,
         "players": [
+          "10213",
           "11435",
           "12489",
           "12519",
@@ -15041,6 +15060,7 @@
           "7553": 0,
           "7588": 0,
           "8183": 0,
+          "10213": 0,
           "11435": 0,
           "12489": 0,
           "12519": 0,
@@ -15052,14 +15072,14 @@
         "points": 0,
         "roster_id": 8,
         "starters": [
-          "4984",
-          "11435",
+          "8183",
           "7588",
+          "12489",
           "6786",
           "12519",
           "3214",
           "13279",
-          "2133",
+          "10213",
           "2747",
           "PHI"
         ],
@@ -15686,6 +15706,7 @@
         "custom_points": null,
         "matchup_id": 3,
         "players": [
+          "10213",
           "11435",
           "12489",
           "12519",
@@ -15713,6 +15734,7 @@
           "7553": 0,
           "7588": 0,
           "8183": 0,
+          "10213": 0,
           "11435": 0,
           "12489": 0,
           "12519": 0,
@@ -15724,14 +15746,14 @@
         "points": 0,
         "roster_id": 8,
         "starters": [
-          "4984",
-          "11435",
+          "8183",
           "7588",
+          "12489",
           "6786",
           "12519",
           "3214",
           "13279",
-          "2133",
+          "10213",
           "2747",
           "PHI"
         ],
@@ -16358,6 +16380,7 @@
         "custom_points": null,
         "matchup_id": 4,
         "players": [
+          "10213",
           "11435",
           "12489",
           "12519",
@@ -16385,6 +16408,7 @@
           "7553": 0,
           "7588": 0,
           "8183": 0,
+          "10213": 0,
           "11435": 0,
           "12489": 0,
           "12519": 0,
@@ -16396,14 +16420,14 @@
         "points": 0,
         "roster_id": 8,
         "starters": [
-          "4984",
-          "11435",
+          "8183",
           "7588",
+          "12489",
           "6786",
           "12519",
           "3214",
           "13279",
-          "2133",
+          "10213",
           "2747",
           "PHI"
         ],
@@ -16886,7 +16910,7 @@
       ],
       "first_name": "Alvin",
       "full_name": "Alvin Kamara",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "Kamara",
       "number": 41,
       "player_id": "4035",
@@ -16901,9 +16925,9 @@
         "WR"
       ],
       "first_name": "Chris",
-      "full_name": "Chris Godwin",
+      "full_name": "Chris Godwin Jr.",
       "injury_status": null,
-      "last_name": "Godwin",
+      "last_name": "Godwin Jr.",
       "number": 14,
       "player_id": "4037",
       "position": "WR",
@@ -16933,9 +16957,9 @@
         "RB"
       ],
       "first_name": "Aaron",
-      "full_name": "Aaron Jones",
+      "full_name": "Aaron Jones Sr.",
       "injury_status": null,
-      "last_name": "Jones",
+      "last_name": "Jones Sr.",
       "number": 33,
       "player_id": "4199",
       "position": "RB",
@@ -17062,7 +17086,7 @@
       ],
       "first_name": "Dalton",
       "full_name": "Dalton Schultz",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "Schultz",
       "number": 86,
       "player_id": "5001",
@@ -17190,7 +17214,7 @@
       ],
       "first_name": "A.J.",
       "full_name": "A.J. Brown",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Brown",
       "number": 1,
       "player_id": "5859",
@@ -17205,9 +17229,9 @@
         "WR"
       ],
       "first_name": "Deebo",
-      "full_name": "Deebo Samuel",
+      "full_name": "Deebo Samuel Sr.",
       "injury_status": "Out",
-      "last_name": "Samuel",
+      "last_name": "Samuel Sr.",
       "number": 19,
       "player_id": "5872",
       "position": "WR",
@@ -17366,7 +17390,7 @@
       ],
       "first_name": "Justin",
       "full_name": "Justin Jefferson",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "Jefferson",
       "number": 18,
       "player_id": "6794",
@@ -17414,7 +17438,7 @@
       ],
       "first_name": "Jordan",
       "full_name": "Jordan Love",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "Love",
       "number": 10,
       "player_id": "6804",
@@ -17461,9 +17485,9 @@
         "WR"
       ],
       "first_name": "Michael",
-      "full_name": "Michael Pittman",
+      "full_name": "Michael Pittman Jr.",
       "injury_status": "IR",
-      "last_name": "Pittman",
+      "last_name": "Pittman Jr.",
       "number": 11,
       "player_id": "6819",
       "position": "WR",
@@ -17510,7 +17534,7 @@
       ],
       "first_name": "Rico",
       "full_name": "Rico Dowdle",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "Dowdle",
       "number": 13,
       "player_id": "7021",
@@ -17621,9 +17645,9 @@
         "RB"
       ],
       "first_name": "Travis",
-      "full_name": "Travis Etienne",
+      "full_name": "Travis Etienne Jr.",
       "injury_status": "IR",
-      "last_name": "Etienne",
+      "last_name": "Etienne Jr.",
       "number": 3,
       "player_id": "7543",
       "position": "RB",
@@ -17653,9 +17677,9 @@
         "TE"
       ],
       "first_name": "Kyle",
-      "full_name": "Kyle Pitts",
+      "full_name": "Kyle Pitts Sr.",
       "injury_status": null,
-      "last_name": "Pitts",
+      "last_name": "Pitts Sr.",
       "number": 8,
       "player_id": "7553",
       "position": "TE",
@@ -17973,9 +17997,9 @@
         "RB"
       ],
       "first_name": "James",
-      "full_name": "James Cook",
+      "full_name": "James Cook III",
       "injury_status": null,
-      "last_name": "Cook",
+      "last_name": "Cook III",
       "number": 4,
       "player_id": "8138",
       "position": "RB",
@@ -18069,9 +18093,9 @@
         "RB"
       ],
       "first_name": "Kenneth",
-      "full_name": "Kenneth Walker",
+      "full_name": "Kenneth Walker III",
       "injury_status": null,
-      "last_name": "Walker",
+      "last_name": "Walker III",
       "number": 9,
       "player_id": "8151",
       "position": "RB",
@@ -18102,7 +18126,7 @@
       ],
       "first_name": "Christian",
       "full_name": "Christian Watson",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "Watson",
       "number": 9,
       "player_id": "8167",
@@ -18470,7 +18494,7 @@
       ],
       "first_name": "Jordan",
       "full_name": "Jordan Addison",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Addison",
       "number": 3,
       "player_id": "9756",
@@ -18533,9 +18557,9 @@
         "RB"
       ],
       "first_name": "Chris",
-      "full_name": "Chris Rodriguez",
+      "full_name": "Chris Rodriguez Jr.",
       "injury_status": null,
-      "last_name": "Rodriguez",
+      "last_name": "Rodriguez Jr.",
       "number": 24,
       "player_id": "10219",
       "position": "RB",
@@ -18838,7 +18862,7 @@
       ],
       "first_name": "Bucky",
       "full_name": "Bucky Irving",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "Irving",
       "number": 7,
       "player_id": "11584",
@@ -18933,9 +18957,9 @@
         "WR"
       ],
       "first_name": "Marvin",
-      "full_name": "Marvin Harrison",
+      "full_name": "Marvin Harrison Jr.",
       "injury_status": null,
-      "last_name": "Harrison",
+      "last_name": "Harrison Jr.",
       "number": 18,
       "player_id": "11628",
       "position": "WR",
@@ -18965,9 +18989,9 @@
         "WR"
       ],
       "first_name": "Brian",
-      "full_name": "Brian Thomas",
+      "full_name": "Brian Thomas Jr.",
       "injury_status": null,
-      "last_name": "Thomas",
+      "last_name": "Thomas Jr.",
       "number": 7,
       "player_id": "11631",
       "position": "WR",
@@ -19030,7 +19054,7 @@
       ],
       "first_name": "Jaylen",
       "full_name": "Jaylen Wright",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "Wright",
       "number": 5,
       "player_id": "11643",
@@ -19237,9 +19261,9 @@
         "RB"
       ],
       "first_name": "Ollie",
-      "full_name": "Ollie Gordon",
+      "full_name": "Ollie Gordon II",
       "injury_status": null,
-      "last_name": "Gordon",
+      "last_name": "Gordon II",
       "number": 0,
       "player_id": "12495",
       "position": "RB",
@@ -19254,7 +19278,7 @@
       ],
       "first_name": "Matthew",
       "full_name": "Matthew Golden",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "Golden",
       "number": 0,
       "player_id": "12501",
@@ -19269,9 +19293,9 @@
         "TE"
       ],
       "first_name": "Harold",
-      "full_name": "Harold Fannin",
+      "full_name": "Harold Fannin Jr.",
       "injury_status": null,
-      "last_name": "Fannin",
+      "last_name": "Fannin Jr.",
       "number": 44,
       "player_id": "12506",
       "position": "TE",
@@ -19334,7 +19358,7 @@
       ],
       "first_name": "Emeka",
       "full_name": "Emeka Egbuka",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "Egbuka",
       "number": 2,
       "player_id": "12514",
@@ -19381,9 +19405,9 @@
         "WR"
       ],
       "first_name": "Luther",
-      "full_name": "Luther Burden",
+      "full_name": "Luther Burden III",
       "injury_status": null,
-      "last_name": "Burden",
+      "last_name": "Burden III",
       "number": 10,
       "player_id": "12519",
       "position": "WR",
@@ -19479,7 +19503,7 @@
       ],
       "first_name": "Kyle",
       "full_name": "Kyle Monangai",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "last_name": "Monangai",
       "number": 25,
       "player_id": "12534",
@@ -19542,9 +19566,9 @@
         "WR"
       ],
       "first_name": "Omar",
-      "full_name": "Omar Cooper",
+      "full_name": "Omar Cooper Jr.",
       "injury_status": null,
-      "last_name": "Cooper",
+      "last_name": "Cooper Jr.",
       "number": 11,
       "player_id": "13276",
       "position": "WR",
@@ -19654,9 +19678,9 @@
         "WR"
       ],
       "first_name": "KC",
-      "full_name": "KC Concepcion",
-      "injury_status": null,
-      "last_name": "Concepcion",
+      "full_name": "KC Concepcion Jr.",
+      "injury_status": "Questionable",
+      "last_name": "Concepcion Jr.",
       "number": 1,
       "player_id": "13298",
       "position": "WR",
@@ -19686,9 +19710,9 @@
         "RB"
       ],
       "first_name": "Mike",
-      "full_name": "Mike Washington",
+      "full_name": "Mike Washington Jr.",
       "injury_status": null,
-      "last_name": "Washington",
+      "last_name": "Washington Jr.",
       "number": 4,
       "player_id": "13305",
       "position": "RB",
@@ -19751,7 +19775,7 @@
       ],
       "first_name": "Denzel",
       "full_name": "Denzel Boston",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "Boston",
       "number": 12,
       "player_id": "13346",
@@ -20528,6 +20552,7 @@
       "owner_id": "1001539774517235712",
       "player_map": null,
       "players": [
+        "10213",
         "11435",
         "12489",
         "12519",
@@ -20545,7 +20570,9 @@
         "8183",
         "PHI"
       ],
-      "reserve": null,
+      "reserve": [
+        "2133"
+      ],
       "roster_id": 8,
       "settings": {
         "fpts": 819,
@@ -20562,14 +20589,14 @@
         "wins": 4
       },
       "starters": [
-        "4984",
-        "11435",
+        "8183",
         "7588",
+        "12489",
         "6786",
         "12519",
         "3214",
         "13279",
-        "2133",
+        "10213",
         "2747",
         "PHI"
       ],
@@ -21104,6 +21131,7 @@
       "owner_id": "1001539774517235712",
       "owner_username": null,
       "player_ids": [
+        "10213",
         "11435",
         "12489",
         "12519",
@@ -21121,7 +21149,9 @@
         "8183",
         "PHI"
       ],
-      "reserve_ids": [],
+      "reserve_ids": [
+        "2133"
+      ],
       "roster_id": 8,
       "settings": {
         "fpts": 819,
@@ -21138,14 +21168,14 @@
         "wins": 4
       },
       "starter_ids": [
-        "4984",
-        "11435",
+        "8183",
         "7588",
+        "12489",
         "6786",
         "12519",
         "3214",
         "13279",
-        "2133",
+        "10213",
         "2747",
         "PHI"
       ],
@@ -21306,6 +21336,29 @@
     }
   ],
   "transactions": [
+    {
+      "adds": {
+        "10213": 8
+      },
+      "consenter_ids": [
+        8
+      ],
+      "created": 1792614238322,
+      "creator": "1001539774517235712",
+      "draft_picks": [],
+      "drops": null,
+      "leg": 7,
+      "metadata": null,
+      "roster_ids": [
+        8
+      ],
+      "settings": null,
+      "status": "complete",
+      "status_updated": 1792614238322,
+      "transaction_id": "1418730580035612672",
+      "type": "free_agent",
+      "waiver_budget": []
+    },
     {
       "adds": {
         "CLE": 2
@@ -27067,6 +27120,29 @@
       }
     ],
     "7": [
+      {
+        "adds": {
+          "10213": 8
+        },
+        "consenter_ids": [
+          8
+        ],
+        "created": 1792614238322,
+        "creator": "1001539774517235712",
+        "draft_picks": [],
+        "drops": null,
+        "leg": 7,
+        "metadata": null,
+        "roster_ids": [
+          8
+        ],
+        "settings": null,
+        "status": "complete",
+        "status_updated": 1792614238322,
+        "transaction_id": "1418730580035612672",
+        "type": "free_agent",
+        "waiver_budget": []
+      },
       {
         "adds": {
           "CLE": 2
