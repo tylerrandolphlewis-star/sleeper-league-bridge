@@ -1,5 +1,5 @@
 {
-  "content_hash": "78fbea37b22a81132ed85559ab218318d3737bce230b74bb5d3294c5a81d895b",
+  "content_hash": "0d9d861972d2568e4be6e7cc3b636565423006a1afcf4bc48214dd0c9f94377f",
   "drafts": [
     {
       "draft": {
@@ -4237,7 +4237,7 @@
       "traded_picks": []
     }
   ],
-  "generated_at": "2026-10-21T22:09:40.855Z",
+  "generated_at": "2026-10-22T00:41:30.482Z",
   "league": {
     "avatar": null,
     "bracket_id": null,
@@ -16670,7 +16670,7 @@
       ],
       "first_name": "Travis",
       "full_name": "Travis Kelce",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "Kelce",
       "number": 87,
       "player_id": "1466",
@@ -17614,7 +17614,7 @@
       ],
       "first_name": "Jaylen",
       "full_name": "Jaylen Waddle",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "Waddle",
       "number": 17,
       "player_id": "7526",
@@ -18222,7 +18222,7 @@
       ],
       "first_name": "Rashid",
       "full_name": "Rashid Shaheed",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "Shaheed",
       "number": 22,
       "player_id": "8676",
@@ -18894,7 +18894,7 @@
       ],
       "first_name": "Brock",
       "full_name": "Brock Bowers",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "Bowers",
       "number": 89,
       "player_id": "11604",
@@ -19448,7 +19448,7 @@
       "years_exp": 1
     },
     "12529": {
-      "age": 23,
+      "age": 24,
       "fantasy_positions": [
         "RB"
       ],
@@ -19711,7 +19711,7 @@
       ],
       "first_name": "Mike",
       "full_name": "Mike Washington Jr.",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "Washington Jr.",
       "number": 4,
       "player_id": "13305",
