@@ -1,5 +1,5 @@
 {
-  "content_hash": "9a04eef4dc9daa1b84b0b13e1d980810c60ac574081b973e3d58ad739466bf0e",
+  "content_hash": "827c2019d3bf2b5bf575dd82fa12cac190364ea138408b664654d7c62a766e28",
   "drafts": [
     {
       "draft": {
@@ -4237,7 +4237,7 @@
       "traded_picks": []
     }
   ],
-  "generated_at": "2026-10-22T15:29:10.609Z",
+  "generated_at": "2026-10-22T19:22:08.178Z",
   "league": {
     "avatar": null,
     "bracket_id": null,
@@ -18458,12 +18458,12 @@
       ],
       "first_name": "Zach",
       "full_name": "Zach Charbonnet",
-      "injury_status": "PUP",
+      "injury_status": "Questionable",
       "last_name": "Charbonnet",
       "number": 26,
       "player_id": "9753",
       "position": "RB",
-      "status": "Inactive",
+      "status": "Active",
       "team": "SEA",
       "years_exp": 3
     },
