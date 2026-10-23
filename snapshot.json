@@ -1,5 +1,5 @@
 {
-  "content_hash": "c526e52ca31cbf094f648a8bce361664c685fd1fa4f2f6c15b2bb89f549431cd",
+  "content_hash": "f104548c18f0b5f13b53c0d1b535f495acb0ecf33a7b65e47f97605ccc22a5bd",
   "drafts": [
     {
       "draft": {
@@ -4237,7 +4237,7 @@
       "traded_picks": []
     }
   ],
-  "generated_at": "2026-10-23T15:28:50.485Z",
+  "generated_at": "2026-10-23T19:28:36.015Z",
   "league": {
     "avatar": null,
     "bracket_id": null,
@@ -8541,9 +8541,9 @@
           "8150",
           "9493",
           "9500",
-          "12518",
-          "10229",
+          "8110",
           "12495",
+          "10229",
           "6650",
           "HOU"
         ],
@@ -9215,9 +9215,9 @@
           "8150",
           "9493",
           "9500",
-          "12518",
-          "10229",
+          "8110",
           "12495",
+          "10229",
           "6650",
           "HOU"
         ],
@@ -9889,9 +9889,9 @@
           "8150",
           "9493",
           "9500",
-          "12518",
-          "10229",
+          "8110",
           "12495",
+          "10229",
           "6650",
           "HOU"
         ],
@@ -10563,9 +10563,9 @@
           "8150",
           "9493",
           "9500",
-          "12518",
-          "10229",
+          "8110",
           "12495",
+          "10229",
           "6650",
           "HOU"
         ],
@@ -11237,9 +11237,9 @@
           "8150",
           "9493",
           "9500",
-          "12518",
-          "10229",
+          "8110",
           "12495",
+          "10229",
           "6650",
           "HOU"
         ],
@@ -11911,9 +11911,9 @@
           "8150",
           "9493",
           "9500",
-          "12518",
-          "10229",
+          "8110",
           "12495",
+          "10229",
           "6650",
           "HOU"
         ],
@@ -12585,9 +12585,9 @@
           "8150",
           "9493",
           "9500",
-          "12518",
-          "10229",
+          "8110",
           "12495",
+          "10229",
           "6650",
           "HOU"
         ],
@@ -13259,9 +13259,9 @@
           "8150",
           "9493",
           "9500",
-          "12518",
-          "10229",
+          "8110",
           "12495",
+          "10229",
           "6650",
           "HOU"
         ],
@@ -13933,9 +13933,9 @@
           "8150",
           "9493",
           "9500",
-          "12518",
-          "10229",
+          "8110",
           "12495",
+          "10229",
           "6650",
           "HOU"
         ],
@@ -14607,9 +14607,9 @@
           "8150",
           "9493",
           "9500",
-          "12518",
-          "10229",
+          "8110",
           "12495",
+          "10229",
           "6650",
           "HOU"
         ],
@@ -15281,9 +15281,9 @@
           "8150",
           "9493",
           "9500",
-          "12518",
-          "10229",
+          "8110",
           "12495",
+          "10229",
           "6650",
           "HOU"
         ],
@@ -15955,9 +15955,9 @@
           "8150",
           "9493",
           "9500",
-          "12518",
-          "10229",
+          "8110",
           "12495",
+          "10229",
           "6650",
           "HOU"
         ],
@@ -18431,7 +18431,7 @@
       "number": 1,
       "player_id": "9502",
       "position": "WR",
-      "status": "Active",
+      "status": "Inactive",
       "team": "HOU",
       "years_exp": 3
     },
@@ -18602,7 +18602,7 @@
       ],
       "first_name": "Rashee",
       "full_name": "Rashee Rice",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "last_name": "Rice",
       "number": 4,
       "player_id": "10229",
@@ -18874,7 +18874,7 @@
       ],
       "first_name": "Bucky",
       "full_name": "Bucky Irving",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Irving",
       "number": 7,
       "player_id": "11584",
@@ -19354,7 +19354,7 @@
       ],
       "first_name": "Quinshon",
       "full_name": "Quinshon Judkins",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Judkins",
       "number": 10,
       "player_id": "12512",
@@ -19370,7 +19370,7 @@
       ],
       "first_name": "Emeka",
       "full_name": "Emeka Egbuka",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "last_name": "Egbuka",
       "number": 2,
       "player_id": "12514",
@@ -19402,7 +19402,7 @@
       ],
       "first_name": "Tyler",
       "full_name": "Tyler Warren",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "last_name": "Warren",
       "number": 84,
       "player_id": "12518",
@@ -19643,7 +19643,7 @@
       ],
       "first_name": "Jeremiyah",
       "full_name": "Jeremiyah Love",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "last_name": "Love",
       "number": 4,
       "player_id": "13287",
@@ -19691,7 +19691,7 @@
       ],
       "first_name": "KC",
       "full_name": "KC Concepcion Jr.",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Concepcion Jr.",
       "number": 1,
       "player_id": "13298",
@@ -19787,7 +19787,7 @@
       ],
       "first_name": "Denzel",
       "full_name": "Denzel Boston",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Boston",
       "number": 12,
       "player_id": "13346",
@@ -20162,7 +20162,9 @@
         "9758",
         "HOU"
       ],
-      "reserve": null,
+      "reserve": [
+        "12518"
+      ],
       "roster_id": 1,
       "settings": {
         "fpts": 866,
@@ -20184,9 +20186,9 @@
         "8150",
         "9493",
         "9500",
-        "12518",
-        "10229",
+        "8110",
         "12495",
+        "10229",
         "6650",
         "HOU"
       ],
@@ -20780,7 +20782,9 @@
         "9758",
         "HOU"
       ],
-      "reserve_ids": [],
+      "reserve_ids": [
+        "12518"
+      ],
       "roster_id": 1,
       "settings": {
         "fpts": 866,
@@ -20802,9 +20806,9 @@
         "8150",
         "9493",
         "9500",
-        "12518",
-        "10229",
+        "8110",
         "12495",
+        "10229",
         "6650",
         "HOU"
       ],
