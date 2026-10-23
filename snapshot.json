@@ -1,5 +1,5 @@
 {
-  "content_hash": "995d6c80bbb42cfdfdb4b274ce5db245e573c927380e628270c4b1b73a1270e6",
+  "content_hash": "c526e52ca31cbf094f648a8bce361664c685fd1fa4f2f6c15b2bb89f549431cd",
   "drafts": [
     {
       "draft": {
@@ -4237,7 +4237,7 @@
       "traded_picks": []
     }
   ],
-  "generated_at": "2026-10-23T05:48:04.390Z",
+  "generated_at": "2026-10-23T15:28:50.485Z",
   "league": {
     "avatar": null,
     "bracket_id": null,
@@ -16906,7 +16906,7 @@
       ],
       "first_name": "Alvin",
       "full_name": "Alvin Kamara",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Kamara",
       "number": 41,
       "player_id": "4035",
