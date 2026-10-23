@@ -1,5 +1,5 @@
 {
-  "content_hash": "f104548c18f0b5f13b53c0d1b535f495acb0ecf33a7b65e47f97605ccc22a5bd",
+  "content_hash": "c242fa21cc459e10eabe000db3000344c00297328c26426bf0a42505a7e2dec1",
   "drafts": [
     {
       "draft": {
@@ -4237,7 +4237,7 @@
       "traded_picks": []
     }
   ],
-  "generated_at": "2026-10-23T19:28:36.015Z",
+  "generated_at": "2026-10-23T22:30:41.243Z",
   "league": {
     "avatar": null,
     "bracket_id": null,
@@ -8938,7 +8938,7 @@
         "points": 0,
         "roster_id": 7,
         "starters": [
-          "6804",
+          "96",
           "4034",
           "12474",
           "11632",
@@ -9080,7 +9080,7 @@
           "9488",
           "8112",
           "8130",
-          "9753",
+          "12481",
           "6806",
           "1945",
           "LAR"
@@ -9612,7 +9612,7 @@
         "points": 0,
         "roster_id": 7,
         "starters": [
-          "6804",
+          "96",
           "4034",
           "12474",
           "11632",
@@ -9754,7 +9754,7 @@
           "9488",
           "8112",
           "8130",
-          "9753",
+          "12481",
           "6806",
           "1945",
           "LAR"
@@ -10286,7 +10286,7 @@
         "points": 0,
         "roster_id": 7,
         "starters": [
-          "6804",
+          "96",
           "4034",
           "12474",
           "11632",
@@ -10428,7 +10428,7 @@
           "9488",
           "8112",
           "8130",
-          "9753",
+          "12481",
           "6806",
           "1945",
           "LAR"
@@ -10960,7 +10960,7 @@
         "points": 0,
         "roster_id": 7,
         "starters": [
-          "6804",
+          "96",
           "4034",
           "12474",
           "11632",
@@ -11102,7 +11102,7 @@
           "9488",
           "8112",
           "8130",
-          "9753",
+          "12481",
           "6806",
           "1945",
           "LAR"
@@ -11634,7 +11634,7 @@
         "points": 0,
         "roster_id": 7,
         "starters": [
-          "6804",
+          "96",
           "4034",
           "12474",
           "11632",
@@ -11776,7 +11776,7 @@
           "9488",
           "8112",
           "8130",
-          "9753",
+          "12481",
           "6806",
           "1945",
           "LAR"
@@ -12308,7 +12308,7 @@
         "points": 0,
         "roster_id": 7,
         "starters": [
-          "6804",
+          "96",
           "4034",
           "12474",
           "11632",
@@ -12450,7 +12450,7 @@
           "9488",
           "8112",
           "8130",
-          "9753",
+          "12481",
           "6806",
           "1945",
           "LAR"
@@ -12982,7 +12982,7 @@
         "points": 0,
         "roster_id": 7,
         "starters": [
-          "6804",
+          "96",
           "4034",
           "12474",
           "11632",
@@ -13124,7 +13124,7 @@
           "9488",
           "8112",
           "8130",
-          "9753",
+          "12481",
           "6806",
           "1945",
           "LAR"
@@ -13656,7 +13656,7 @@
         "points": 0,
         "roster_id": 7,
         "starters": [
-          "6804",
+          "96",
           "4034",
           "12474",
           "11632",
@@ -13798,7 +13798,7 @@
           "9488",
           "8112",
           "8130",
-          "9753",
+          "12481",
           "6806",
           "1945",
           "LAR"
@@ -14330,7 +14330,7 @@
         "points": 0,
         "roster_id": 7,
         "starters": [
-          "6804",
+          "96",
           "4034",
           "12474",
           "11632",
@@ -14472,7 +14472,7 @@
           "9488",
           "8112",
           "8130",
-          "9753",
+          "12481",
           "6806",
           "1945",
           "LAR"
@@ -15004,7 +15004,7 @@
         "points": 0,
         "roster_id": 7,
         "starters": [
-          "6804",
+          "96",
           "4034",
           "12474",
           "11632",
@@ -15146,7 +15146,7 @@
           "9488",
           "8112",
           "8130",
-          "9753",
+          "12481",
           "6806",
           "1945",
           "LAR"
@@ -15678,7 +15678,7 @@
         "points": 0,
         "roster_id": 7,
         "starters": [
-          "6804",
+          "96",
           "4034",
           "12474",
           "11632",
@@ -15820,7 +15820,7 @@
           "9488",
           "8112",
           "8130",
-          "9753",
+          "12481",
           "6806",
           "1945",
           "LAR"
@@ -16352,7 +16352,7 @@
         "points": 0,
         "roster_id": 7,
         "starters": [
-          "6804",
+          "96",
           "4034",
           "12474",
           "11632",
@@ -16494,7 +16494,7 @@
           "9488",
           "8112",
           "8130",
-          "9753",
+          "12481",
           "6806",
           "1945",
           "LAR"
@@ -16666,7 +16666,7 @@
       ],
       "first_name": "Travis",
       "full_name": "Travis Kelce",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Kelce",
       "number": 87,
       "player_id": "1466",
@@ -16714,7 +16714,7 @@
       ],
       "first_name": "Mike",
       "full_name": "Mike Evans",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "last_name": "Evans",
       "number": 5,
       "player_id": "2216",
@@ -17082,7 +17082,7 @@
       ],
       "first_name": "Dalton",
       "full_name": "Dalton Schultz",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Schultz",
       "number": 86,
       "player_id": "5001",
@@ -17146,7 +17146,7 @@
       ],
       "first_name": "T.J.",
       "full_name": "T.J. Hockenson",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Hockenson",
       "number": 87,
       "player_id": "5844",
@@ -17242,7 +17242,7 @@
       ],
       "first_name": "David",
       "full_name": "David Montgomery",
-      "injury_status": "Doubtful",
+      "injury_status": "Out",
       "last_name": "Montgomery",
       "number": 32,
       "player_id": "5892",
@@ -17610,7 +17610,7 @@
       ],
       "first_name": "Jaylen",
       "full_name": "Jaylen Waddle",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Waddle",
       "number": 17,
       "player_id": "7526",
@@ -17978,7 +17978,7 @@
       ],
       "first_name": "George",
       "full_name": "George Pickens",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Pickens",
       "number": 3,
       "player_id": "8137",
@@ -18122,7 +18122,7 @@
       ],
       "first_name": "Christian",
       "full_name": "Christian Watson",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Watson",
       "number": 9,
       "player_id": "8167",
@@ -18458,7 +18458,7 @@
       ],
       "first_name": "Zach",
       "full_name": "Zach Charbonnet",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "last_name": "Charbonnet",
       "number": 26,
       "player_id": "9753",
@@ -18954,7 +18954,7 @@
       ],
       "first_name": "Adonai",
       "full_name": "Adonai Mitchell",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Mitchell",
       "number": 15,
       "player_id": "11625",
@@ -19066,7 +19066,7 @@
       ],
       "first_name": "Jaylen",
       "full_name": "Jaylen Wright",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Wright",
       "number": 5,
       "player_id": "11643",
@@ -19290,7 +19290,7 @@
       ],
       "first_name": "Matthew",
       "full_name": "Matthew Golden",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Golden",
       "number": 0,
       "player_id": "12501",
@@ -20542,7 +20542,7 @@
         "wins": 3
       },
       "starters": [
-        "6804",
+        "96",
         "4034",
         "12474",
         "11632",
@@ -20679,7 +20679,7 @@
         "9488",
         "8112",
         "8130",
-        "9753",
+        "12481",
         "6806",
         "1945",
         "LAR"
@@ -21128,7 +21128,7 @@
         "wins": 3
       },
       "starter_ids": [
-        "6804",
+        "96",
         "4034",
         "12474",
         "11632",
@@ -21246,7 +21246,7 @@
         "9488",
         "8112",
         "8130",
-        "9753",
+        "12481",
         "6806",
         "1945",
         "LAR"
