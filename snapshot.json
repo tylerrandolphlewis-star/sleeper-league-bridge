@@ -1,5 +1,5 @@
 {
-  "content_hash": "35447a9cd25a913b5f7660071905267ab53ecff834d88a640b16f5fca4c2376d",
+  "content_hash": "e175fdeab319687fdb7bc8d8aa7dc9581e46ea4e39ad0a777b67bfdd1d3c6cd4",
   "drafts": [
     {
       "draft": {
@@ -4237,7 +4237,7 @@
       "traded_picks": []
     }
   ],
-  "generated_at": "2026-10-26T21:02:27.724Z",
+  "generated_at": "2026-10-27T00:20:52.955Z",
   "league": {
     "avatar": null,
     "bracket_id": null,
@@ -8720,7 +8720,7 @@
         ],
         "players_points": {
           "3198": 5.9,
-          "3294": 0,
+          "3294": 0.2,
           "4035": 13.2,
           "4217": 14.8,
           "4950": 0,
@@ -8737,7 +8737,7 @@
           "13424": 5.8,
           "MIN": 11
         },
-        "points": 127.5,
+        "points": 127.7,
         "roster_id": 4,
         "starters": [
           "3294",
@@ -8752,7 +8752,7 @@
           "MIN"
         ],
         "starters_points": [
-          0,
+          0.2,
           19,
           5.9,
           26.8,
@@ -8996,7 +8996,7 @@
           "6786": 0,
           "7021": 14.6,
           "7553": 13.2,
-          "7588": 0,
+          "7588": 2.1,
           "8183": 12.02,
           "10213": 21.3,
           "11435": 18.5,
@@ -9005,9 +9005,9 @@
           "12534": 0,
           "13279": 9.9,
           "13337": 3.7,
-          "PHI": 0
+          "PHI": 10
         },
-        "points": 102.12,
+        "points": 114.22,
         "roster_id": 8,
         "starters": [
           "8183",
@@ -9023,7 +9023,7 @@
         ],
         "starters_points": [
           12.02,
-          0,
+          2.1,
           14,
           0,
           23.7,
@@ -9031,7 +9031,7 @@
           9.9,
           21.3,
           8,
-          0
+          10
         ]
       },
       {
@@ -17066,7 +17066,7 @@
       ],
       "first_name": "Saquon",
       "full_name": "Saquon Barkley",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Barkley",
       "number": 26,
       "player_id": "4866",
@@ -19178,7 +19178,7 @@
       ],
       "first_name": "Jalen",
       "full_name": "Jalen Coker",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "Coker",
       "number": 18,
       "player_id": "11646",
@@ -19402,7 +19402,7 @@
       ],
       "first_name": "Matthew",
       "full_name": "Matthew Golden",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "Golden",
       "number": 0,
       "player_id": "12501",
