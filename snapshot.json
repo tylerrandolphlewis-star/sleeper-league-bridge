@@ -1,5 +1,5 @@
 {
-  "content_hash": "3e53586f4003eb2244c54c4360ac8cf8883ad52af60cac6b3b3fb3cd30fcb43c",
+  "content_hash": "e47badbaebe4ae8233e7f0f1dbd1f9ce87b9e6f5114796469e8419b005dd2fb9",
   "drafts": [
     {
       "draft": {
@@ -4237,7 +4237,7 @@
       "traded_picks": []
     }
   ],
-  "generated_at": "2026-10-28T17:17:10.854Z",
+  "generated_at": "2026-10-28T21:42:45.341Z",
   "league": {
     "avatar": null,
     "bracket_id": null,
@@ -4250,9 +4250,9 @@
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
-    "last_message_id": "1421201340922613760",
+    "last_message_id": "1421263369268162560",
     "last_message_text_map": null,
-    "last_message_time": 1793203313622,
+    "last_message_time": 1793218102332,
     "last_pinned_message_id": null,
     "last_read_id": null,
     "league_id": "1389357903374188544",
@@ -9654,7 +9654,7 @@
           "12519",
           "12534",
           "13279",
-          "13337",
+          "13414",
           "2133",
           "2747",
           "3214",
@@ -9682,13 +9682,13 @@
           "12519": 0,
           "12534": 0,
           "13279": 0,
-          "13337": 0,
+          "13414": 0,
           "PHI": 0
         },
         "points": 0,
         "roster_id": 8,
         "starters": [
-          "8183",
+          "4984",
           "7588",
           "12489",
           "6786",
@@ -10330,7 +10330,7 @@
           "12519",
           "12534",
           "13279",
-          "13337",
+          "13414",
           "2133",
           "2747",
           "3214",
@@ -10358,13 +10358,13 @@
           "12519": 0,
           "12534": 0,
           "13279": 0,
-          "13337": 0,
+          "13414": 0,
           "PHI": 0
         },
         "points": 0,
         "roster_id": 8,
         "starters": [
-          "8183",
+          "4984",
           "7588",
           "12489",
           "6786",
@@ -11006,7 +11006,7 @@
           "12519",
           "12534",
           "13279",
-          "13337",
+          "13414",
           "2133",
           "2747",
           "3214",
@@ -11034,13 +11034,13 @@
           "12519": 0,
           "12534": 0,
           "13279": 0,
-          "13337": 0,
+          "13414": 0,
           "PHI": 0
         },
         "points": 0,
         "roster_id": 8,
         "starters": [
-          "8183",
+          "4984",
           "7588",
           "12489",
           "6786",
@@ -11682,7 +11682,7 @@
           "12519",
           "12534",
           "13279",
-          "13337",
+          "13414",
           "2133",
           "2747",
           "3214",
@@ -11710,13 +11710,13 @@
           "12519": 0,
           "12534": 0,
           "13279": 0,
-          "13337": 0,
+          "13414": 0,
           "PHI": 0
         },
         "points": 0,
         "roster_id": 8,
         "starters": [
-          "8183",
+          "4984",
           "7588",
           "12489",
           "6786",
@@ -12358,7 +12358,7 @@
           "12519",
           "12534",
           "13279",
-          "13337",
+          "13414",
           "2133",
           "2747",
           "3214",
@@ -12386,13 +12386,13 @@
           "12519": 0,
           "12534": 0,
           "13279": 0,
-          "13337": 0,
+          "13414": 0,
           "PHI": 0
         },
         "points": 0,
         "roster_id": 8,
         "starters": [
-          "8183",
+          "4984",
           "7588",
           "12489",
           "6786",
@@ -13034,7 +13034,7 @@
           "12519",
           "12534",
           "13279",
-          "13337",
+          "13414",
           "2133",
           "2747",
           "3214",
@@ -13062,13 +13062,13 @@
           "12519": 0,
           "12534": 0,
           "13279": 0,
-          "13337": 0,
+          "13414": 0,
           "PHI": 0
         },
         "points": 0,
         "roster_id": 8,
         "starters": [
-          "8183",
+          "4984",
           "7588",
           "12489",
           "6786",
@@ -13710,7 +13710,7 @@
           "12519",
           "12534",
           "13279",
-          "13337",
+          "13414",
           "2133",
           "2747",
           "3214",
@@ -13738,13 +13738,13 @@
           "12519": 0,
           "12534": 0,
           "13279": 0,
-          "13337": 0,
+          "13414": 0,
           "PHI": 0
         },
         "points": 0,
         "roster_id": 8,
         "starters": [
-          "8183",
+          "4984",
           "7588",
           "12489",
           "6786",
@@ -14386,7 +14386,7 @@
           "12519",
           "12534",
           "13279",
-          "13337",
+          "13414",
           "2133",
           "2747",
           "3214",
@@ -14414,13 +14414,13 @@
           "12519": 0,
           "12534": 0,
           "13279": 0,
-          "13337": 0,
+          "13414": 0,
           "PHI": 0
         },
         "points": 0,
         "roster_id": 8,
         "starters": [
-          "8183",
+          "4984",
           "7588",
           "12489",
           "6786",
@@ -15062,7 +15062,7 @@
           "12519",
           "12534",
           "13279",
-          "13337",
+          "13414",
           "2133",
           "2747",
           "3214",
@@ -15090,13 +15090,13 @@
           "12519": 0,
           "12534": 0,
           "13279": 0,
-          "13337": 0,
+          "13414": 0,
           "PHI": 0
         },
         "points": 0,
         "roster_id": 8,
         "starters": [
-          "8183",
+          "4984",
           "7588",
           "12489",
           "6786",
@@ -15738,7 +15738,7 @@
           "12519",
           "12534",
           "13279",
-          "13337",
+          "13414",
           "2133",
           "2747",
           "3214",
@@ -15766,13 +15766,13 @@
           "12519": 0,
           "12534": 0,
           "13279": 0,
-          "13337": 0,
+          "13414": 0,
           "PHI": 0
         },
         "points": 0,
         "roster_id": 8,
         "starters": [
-          "8183",
+          "4984",
           "7588",
           "12489",
           "6786",
@@ -16414,7 +16414,7 @@
           "12519",
           "12534",
           "13279",
-          "13337",
+          "13414",
           "2133",
           "2747",
           "3214",
@@ -16442,13 +16442,13 @@
           "12519": 0,
           "12534": 0,
           "13279": 0,
-          "13337": 0,
+          "13414": 0,
           "PHI": 0
         },
         "points": 0,
         "roster_id": 8,
         "starters": [
-          "8183",
+          "4984",
           "7588",
           "12489",
           "6786",
@@ -17286,7 +17286,7 @@
       ],
       "first_name": "A.J.",
       "full_name": "A.J. Brown",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "Brown",
       "number": 1,
       "player_id": "5859",
@@ -17350,7 +17350,7 @@
       ],
       "first_name": "Jakobi",
       "full_name": "Jakobi Meyers",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "Meyers",
       "number": 3,
       "player_id": "5947",
@@ -17766,7 +17766,7 @@
       ],
       "first_name": "Ja'Marr",
       "full_name": "Ja'Marr Chase",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "Chase",
       "number": 1,
       "player_id": "7564",
@@ -17782,7 +17782,7 @@
       ],
       "first_name": "Kenny",
       "full_name": "Kenny Gainwell",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "Gainwell",
       "number": 1,
       "player_id": "7567",
@@ -17974,12 +17974,12 @@
       ],
       "first_name": "Dameon",
       "full_name": "Dameon Pierce",
-      "injury_status": "Questionable",
+      "injury_status": "IR",
       "last_name": "Pierce",
       "number": 39,
       "player_id": "8129",
       "position": "RB",
-      "status": "Active",
+      "status": "Inactive",
       "team": "PHI",
       "years_exp": 4
     },
@@ -18326,7 +18326,7 @@
       ],
       "first_name": "Jahmyr",
       "full_name": "Jahmyr Gibbs",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "Gibbs",
       "number": 0,
       "player_id": "9221",
@@ -18726,7 +18726,7 @@
       ],
       "first_name": "Dalton",
       "full_name": "Dalton Kincaid",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "Kincaid",
       "number": 86,
       "player_id": "10236",
@@ -18998,7 +18998,7 @@
       ],
       "first_name": "Brock",
       "full_name": "Brock Bowers",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "Bowers",
       "number": 89,
       "player_id": "11604",
@@ -19158,7 +19158,7 @@
       ],
       "first_name": "Jaylen",
       "full_name": "Jaylen Wright",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Wright",
       "number": 5,
       "player_id": "11643",
@@ -20713,7 +20713,7 @@
         "12519",
         "12534",
         "13279",
-        "13337",
+        "13414",
         "2133",
         "2747",
         "3214",
@@ -20744,7 +20744,7 @@
         "wins": 5
       },
       "starters": [
-        "8183",
+        "4984",
         "7588",
         "12489",
         "6786",
@@ -21295,7 +21295,7 @@
         "12519",
         "12534",
         "13279",
-        "13337",
+        "13414",
         "2133",
         "2747",
         "3214",
@@ -21326,7 +21326,7 @@
         "wins": 5
       },
       "starter_ids": [
-        "8183",
+        "4984",
         "7588",
         "12489",
         "6786",
@@ -21494,6 +21494,31 @@
     }
   ],
   "transactions": [
+    {
+      "adds": {
+        "13414": 8
+      },
+      "consenter_ids": [
+        8
+      ],
+      "created": 1793218102307,
+      "creator": "1001539774517235712",
+      "draft_picks": [],
+      "drops": {
+        "13337": 8
+      },
+      "leg": 8,
+      "metadata": null,
+      "roster_ids": [
+        8
+      ],
+      "settings": null,
+      "status": "complete",
+      "status_updated": 1793218102307,
+      "transaction_id": "1421263369163321344",
+      "type": "free_agent",
+      "waiver_budget": []
+    },
     {
       "adds": null,
       "consenter_ids": [
@@ -28298,6 +28323,31 @@
       }
     ],
     "8": [
+      {
+        "adds": {
+          "13414": 8
+        },
+        "consenter_ids": [
+          8
+        ],
+        "created": 1793218102307,
+        "creator": "1001539774517235712",
+        "draft_picks": [],
+        "drops": {
+          "13337": 8
+        },
+        "leg": 8,
+        "metadata": null,
+        "roster_ids": [
+          8
+        ],
+        "settings": null,
+        "status": "complete",
+        "status_updated": 1793218102307,
+        "transaction_id": "1421263369163321344",
+        "type": "free_agent",
+        "waiver_budget": []
+      },
       {
         "adds": null,
         "consenter_ids": [
