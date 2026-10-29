@@ -1,5 +1,5 @@
 {
-  "content_hash": "e47badbaebe4ae8233e7f0f1dbd1f9ce87b9e6f5114796469e8419b005dd2fb9",
+  "content_hash": "429e3444f3824bfd477339c6d8f898e0d4df5afde2baae0d79e77acffbde5c9e",
   "drafts": [
     {
       "draft": {
@@ -4237,7 +4237,7 @@
       "traded_picks": []
     }
   ],
-  "generated_at": "2026-10-28T21:42:45.341Z",
+  "generated_at": "2026-10-29T01:14:58.584Z",
   "league": {
     "avatar": null,
     "bracket_id": null,
@@ -8871,9 +8871,9 @@
           "11628": 7.6,
           "13281": 0,
           "13298": 23.2,
-          "SF": 1
+          "SF": 2
         },
-        "points": 82.3,
+        "points": 83.3,
         "roster_id": 6,
         "starters": [
           "4046",
@@ -8897,7 +8897,7 @@
           7.9,
           7.8,
           8,
-          1
+          2
         ]
       },
       {
@@ -16758,7 +16758,7 @@
       ],
       "first_name": "Marcus",
       "full_name": "Marcus Mariota",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Mariota",
       "number": 8,
       "player_id": "2307",
@@ -16774,7 +16774,7 @@
       ],
       "first_name": "Stefon",
       "full_name": "Stefon Diggs",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "Diggs",
       "number": 3,
       "player_id": "2449",
@@ -18022,7 +18022,7 @@
       ],
       "first_name": "Tyler",
       "full_name": "Tyler Allgeier",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "Allgeier",
       "number": 22,
       "player_id": "8132",
@@ -18070,7 +18070,7 @@
       ],
       "first_name": "George",
       "full_name": "George Pickens",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "Pickens",
       "number": 3,
       "player_id": "8137",
@@ -18512,7 +18512,7 @@
       "years_exp": 3
     },
     "9502": {
-      "age": 26,
+      "age": 27,
       "fantasy_positions": [
         "WR"
       ],
@@ -18710,7 +18710,7 @@
       ],
       "first_name": "Michael",
       "full_name": "Michael Wilson",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "Wilson",
       "number": 14,
       "player_id": "10232",
@@ -19456,7 +19456,7 @@
       "years_exp": 1
     },
     "12512": {
-      "age": 22,
+      "age": 23,
       "fantasy_positions": [
         "RB"
       ],
