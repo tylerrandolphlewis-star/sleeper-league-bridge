@@ -1,5 +1,5 @@
 {
-  "content_hash": "017d89b43d39aef5f3754c1f4d1580d96c0bc0fd45ce61dbb79f1f980141d5bf",
+  "content_hash": "3ae2d23dc6752056130e99c0c1f200f7a38cabbf6e3f163267a6581a8464f06c",
   "drafts": [
     {
       "draft": {
@@ -4237,7 +4237,7 @@
       "traded_picks": []
     }
   ],
-  "generated_at": "2026-10-31T06:08:27.761Z",
+  "generated_at": "2026-10-31T17:20:19.009Z",
   "league": {
     "avatar": null,
     "bracket_id": null,
@@ -4245,14 +4245,14 @@
     "company_id": null,
     "draft_id": "1389357903374188545",
     "group_id": null,
-    "last_author_avatar": null,
-    "last_author_display_name": "sys",
-    "last_author_id": "166666666666666666",
-    "last_author_is_bot": true,
+    "last_author_avatar": "51385ba57cd089261f6de9ce483b8716",
+    "last_author_display_name": "whichamacallit",
+    "last_author_id": "1263208624084226048",
+    "last_author_is_bot": false,
     "last_message_attachment": null,
-    "last_message_id": "1421710993888722944",
+    "last_message_id": "1422285341942951936",
     "last_message_text_map": null,
-    "last_message_time": 1793324824359,
+    "last_message_time": 1793461759606,
     "last_pinned_message_id": null,
     "last_read_id": null,
     "league_id": "1389357903374188544",
@@ -9423,7 +9423,7 @@
           "10232",
           "11604",
           "13276",
-          "8148",
+          "13424",
           "11533",
           "MIN"
         ],
@@ -10097,7 +10097,7 @@
           "10232",
           "11604",
           "13276",
-          "8148",
+          "13424",
           "11533",
           "MIN"
         ],
@@ -10771,7 +10771,7 @@
           "10232",
           "11604",
           "13276",
-          "8148",
+          "13424",
           "11533",
           "MIN"
         ],
@@ -11445,7 +11445,7 @@
           "10232",
           "11604",
           "13276",
-          "8148",
+          "13424",
           "11533",
           "MIN"
         ],
@@ -12119,7 +12119,7 @@
           "10232",
           "11604",
           "13276",
-          "8148",
+          "13424",
           "11533",
           "MIN"
         ],
@@ -12793,7 +12793,7 @@
           "10232",
           "11604",
           "13276",
-          "8148",
+          "13424",
           "11533",
           "MIN"
         ],
@@ -13467,7 +13467,7 @@
           "10232",
           "11604",
           "13276",
-          "8148",
+          "13424",
           "11533",
           "MIN"
         ],
@@ -14141,7 +14141,7 @@
           "10232",
           "11604",
           "13276",
-          "8148",
+          "13424",
           "11533",
           "MIN"
         ],
@@ -14815,7 +14815,7 @@
           "10232",
           "11604",
           "13276",
-          "8148",
+          "13424",
           "11533",
           "MIN"
         ],
@@ -15489,7 +15489,7 @@
           "10232",
           "11604",
           "13276",
-          "8148",
+          "13424",
           "11533",
           "MIN"
         ],
@@ -16163,7 +16163,7 @@
           "10232",
           "11604",
           "13276",
-          "8148",
+          "13424",
           "11533",
           "MIN"
         ],
@@ -17264,7 +17264,7 @@
       ],
       "first_name": "A.J.",
       "full_name": "A.J. Brown",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "last_name": "Brown",
       "number": 1,
       "player_id": "5859",
@@ -19552,7 +19552,7 @@
       ],
       "first_name": "TreVeyon",
       "full_name": "TreVeyon Henderson",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "last_name": "Henderson",
       "number": 32,
       "player_id": "12529",
@@ -19601,7 +19601,7 @@
       ],
       "first_name": "Kyle",
       "full_name": "Kyle Monangai",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "last_name": "Monangai",
       "number": 25,
       "player_id": "12534",
@@ -20485,7 +20485,7 @@
         "10232",
         "11604",
         "13276",
-        "8148",
+        "13424",
         "11533",
         "MIN"
       ],
@@ -21084,7 +21084,7 @@
         "10232",
         "11604",
         "13276",
-        "8148",
+        "13424",
         "11533",
         "MIN"
       ],
