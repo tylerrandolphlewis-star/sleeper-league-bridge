@@ -1,5 +1,5 @@
 {
-  "content_hash": "3ae2d23dc6752056130e99c0c1f200f7a38cabbf6e3f163267a6581a8464f06c",
+  "content_hash": "ebcc0e10f91c6e94f5e460376393ab824da63a51c1ae1f90bc06c76dd2ec0475",
   "drafts": [
     {
       "draft": {
@@ -4237,7 +4237,7 @@
       "traded_picks": []
     }
   ],
-  "generated_at": "2026-10-31T17:20:19.009Z",
+  "generated_at": "2026-10-31T20:36:38.405Z",
   "league": {
     "avatar": null,
     "bracket_id": null,
@@ -19296,7 +19296,7 @@
       ],
       "first_name": "RJ",
       "full_name": "RJ Harvey",
-      "injury_status": "Out",
+      "injury_status": "IR",
       "last_name": "Harvey",
       "number": 12,
       "player_id": "12489",
@@ -19472,7 +19472,7 @@
       ],
       "first_name": "Colston",
       "full_name": "Colston Loveland",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Loveland",
       "number": 84,
       "player_id": "12517",
