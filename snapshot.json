@@ -1,5 +1,5 @@
 {
-  "content_hash": "ed0849f75c6c837e1f45ef86001abfdbfce613925e05da6deb0f79ba7d31ecde",
+  "content_hash": "3300a28a3fcf77dd2da9448dcc32f847b8d86b12bf46d078ae69b5f9072f4c15",
   "drafts": [
     {
       "draft": {
@@ -4237,7 +4237,7 @@
       "traded_picks": []
     }
   ],
-  "generated_at": "2026-10-30T20:49:39.585Z",
+  "generated_at": "2026-10-31T00:28:58.400Z",
   "league": {
     "avatar": null,
     "bracket_id": null,
@@ -18000,7 +18000,7 @@
       ],
       "first_name": "Tyler",
       "full_name": "Tyler Allgeier",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Allgeier",
       "number": 22,
       "player_id": "8132",
@@ -18688,7 +18688,7 @@
       ],
       "first_name": "Michael",
       "full_name": "Michael Wilson",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Wilson",
       "number": 14,
       "player_id": "10232",
@@ -19296,7 +19296,7 @@
       ],
       "first_name": "RJ",
       "full_name": "RJ Harvey",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "last_name": "Harvey",
       "number": 12,
       "player_id": "12489",
@@ -19729,7 +19729,7 @@
       ],
       "first_name": "Jeremiyah",
       "full_name": "Jeremiyah Love",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Love",
       "number": 4,
       "player_id": "13287",
