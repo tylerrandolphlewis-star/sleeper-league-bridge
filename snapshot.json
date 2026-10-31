@@ -1,5 +1,5 @@
 {
-  "content_hash": "ebcc0e10f91c6e94f5e460376393ab824da63a51c1ae1f90bc06c76dd2ec0475",
+  "content_hash": "ffd4d3faca3f076c50b97809dbbd3f6c7658dae74f47d05db381ed1cbc4a625e",
   "drafts": [
     {
       "draft": {
@@ -4237,7 +4237,7 @@
       "traded_picks": []
     }
   ],
-  "generated_at": "2026-10-31T20:36:38.405Z",
+  "generated_at": "2026-10-31T23:46:06.551Z",
   "league": {
     "avatar": null,
     "bracket_id": null,
@@ -18288,7 +18288,7 @@
       ],
       "first_name": "Rashid",
       "full_name": "Rashid Shaheed",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "last_name": "Shaheed",
       "number": 22,
       "player_id": "8676",
@@ -18528,7 +18528,7 @@
       ],
       "first_name": "Zach",
       "full_name": "Zach Charbonnet",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Charbonnet",
       "number": 26,
       "player_id": "9753",
@@ -19301,7 +19301,7 @@
       "number": 12,
       "player_id": "12489",
       "position": "RB",
-      "status": "Active",
+      "status": "Inactive",
       "team": "DEN",
       "years_exp": 1
     },
