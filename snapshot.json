@@ -1,5 +1,5 @@
 {
-  "content_hash": "ba7995baf17922053c39aa7a094b24fd60f5199079e58b3f182f7a78a2f66c64",
+  "content_hash": "7f8826e4887ff25365b7db037b3b75580de40d65f9976bcca3185baf54933999",
   "drafts": [
     {
       "draft": {
@@ -4237,7 +4237,7 @@
       "traded_picks": []
     }
   ],
-  "generated_at": "2026-11-02T04:52:01.771Z",
+  "generated_at": "2026-11-02T22:19:23.517Z",
   "league": {
     "avatar": null,
     "bracket_id": null,
@@ -9894,9 +9894,9 @@
           "8138",
           "8150",
           "9493",
-          "10229",
+          "7569",
           "12518",
-          "11586",
+          "10229",
           "12495",
           "6650",
           "CIN"
@@ -19717,12 +19717,12 @@
       ],
       "first_name": "Jadarian",
       "full_name": "Jadarian Price",
-      "injury_status": "IR",
+      "injury_status": null,
       "last_name": "Price",
       "number": 8,
       "player_id": "13286",
       "position": "RB",
-      "status": "Inactive",
+      "status": "Active",
       "team": "SEA",
       "years_exp": 0
     },
