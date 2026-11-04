@@ -1,5 +1,5 @@
 {
-  "content_hash": "2d333dd8890e5b5a1fc3968398ceb98149ac16a17baf868e984d62ff2a48841a",
+  "content_hash": "3ccc0cbd0e8e92d28c24f18858ee2064e21d386e2e12adcef838ae8808fb1d65",
   "drafts": [
     {
       "draft": {
@@ -4237,7 +4237,7 @@
       "traded_picks": []
     }
   ],
-  "generated_at": "2026-11-04T11:24:57.375Z",
+  "generated_at": "2026-11-04T18:45:39.958Z",
   "league": {
     "avatar": null,
     "bracket_id": null,
@@ -10437,7 +10437,7 @@
           "9487",
           "6806",
           "1945",
-          "LAR"
+          "JAX"
         ],
         "starters_points": [
           0,
@@ -11109,7 +11109,7 @@
           "9487",
           "6806",
           "1945",
-          "LAR"
+          "JAX"
         ],
         "starters_points": [
           0,
@@ -11781,7 +11781,7 @@
           "9487",
           "6806",
           "1945",
-          "LAR"
+          "JAX"
         ],
         "starters_points": [
           0,
@@ -12453,7 +12453,7 @@
           "9487",
           "6806",
           "1945",
-          "LAR"
+          "JAX"
         ],
         "starters_points": [
           0,
@@ -13125,7 +13125,7 @@
           "9487",
           "6806",
           "1945",
-          "LAR"
+          "JAX"
         ],
         "starters_points": [
           0,
@@ -13797,7 +13797,7 @@
           "9487",
           "6806",
           "1945",
-          "LAR"
+          "JAX"
         ],
         "starters_points": [
           0,
@@ -14469,7 +14469,7 @@
           "9487",
           "6806",
           "1945",
-          "LAR"
+          "JAX"
         ],
         "starters_points": [
           0,
@@ -15141,7 +15141,7 @@
           "9487",
           "6806",
           "1945",
-          "LAR"
+          "JAX"
         ],
         "starters_points": [
           0,
@@ -15813,7 +15813,7 @@
           "9487",
           "6806",
           "1945",
-          "LAR"
+          "JAX"
         ],
         "starters_points": [
           0,
@@ -16485,7 +16485,7 @@
           "9487",
           "6806",
           "1945",
-          "LAR"
+          "JAX"
         ],
         "starters_points": [
           0,
@@ -18098,7 +18098,7 @@
       ],
       "first_name": "Garrett",
       "full_name": "Garrett Wilson",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "Wilson",
       "number": 5,
       "player_id": "8146",
@@ -20831,7 +20831,7 @@
         "9487",
         "6806",
         "1945",
-        "LAR"
+        "JAX"
       ],
       "taxi": null
     },
@@ -21395,7 +21395,7 @@
         "9487",
         "6806",
         "1945",
-        "LAR"
+        "JAX"
       ],
       "taxi_ids": [],
       "team_name": "The Baklava Bombers"
