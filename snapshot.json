@@ -1,5 +1,5 @@
 {
-  "content_hash": "bd9d03c09b038ee0bd8e177c9ec557d7fa24c086fc82364b3aeb7ecb49832503",
+  "content_hash": "16cbabac7bbdc44c9c2a4bb1529b88caaf0d24bd79662d4777cdec65d3ad534d",
   "drafts": [
     {
       "draft": {
@@ -4237,7 +4237,7 @@
       "traded_picks": []
     }
   ],
-  "generated_at": "2026-11-05T13:29:47.640Z",
+  "generated_at": "2026-11-05T20:46:19.882Z",
   "league": {
     "avatar": null,
     "bracket_id": null,
@@ -19090,7 +19090,7 @@
       ],
       "first_name": "Malik",
       "full_name": "Malik Nabers",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "Nabers",
       "number": 1,
       "player_id": "11632",
