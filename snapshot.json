@@ -1,5 +1,5 @@
 {
-  "content_hash": "37b707ebf1ba43980c0b5c1460220f710b6850d02eb5beff877d68ddd5256845",
+  "content_hash": "935839a1582c3ba4915ae16f78cc6e2d365a4fba76d9e35e98a54842301baa7f",
   "drafts": [
     {
       "draft": {
@@ -4237,7 +4237,7 @@
       "traded_picks": []
     }
   ],
-  "generated_at": "2026-11-06T07:55:53.389Z",
+  "generated_at": "2026-11-06T15:43:53.315Z",
   "league": {
     "avatar": null,
     "bracket_id": null,
@@ -20383,9 +20383,7 @@
         "9758",
         "HOU"
       ],
-      "reserve": [
-        "8110"
-      ],
+      "reserve": null,
       "roster_id": 1,
       "settings": {
         "fpts": 1115,
@@ -21001,9 +20999,7 @@
         "9758",
         "HOU"
       ],
-      "reserve_ids": [
-        "8110"
-      ],
+      "reserve_ids": [],
       "roster_id": 1,
       "settings": {
         "fpts": 1115,
