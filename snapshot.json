@@ -1,5 +1,5 @@
 {
-  "content_hash": "2bcc0782f0b0e2f4bd12333ee07b4ef344a096337e6956a067dd7e6494ccef8a",
+  "content_hash": "b3557b66ac03cddea60733905b073d550278b4fad7aef0d0610d3476c7e322d3",
   "drafts": [
     {
       "draft": {
@@ -4237,7 +4237,7 @@
       "traded_picks": []
     }
   ],
-  "generated_at": "2026-11-07T13:46:31.462Z",
+  "generated_at": "2026-11-07T18:20:38.365Z",
   "league": {
     "avatar": null,
     "bracket_id": null,
@@ -18008,7 +18008,7 @@
       "player_id": "8129",
       "position": "RB",
       "status": "Inactive",
-      "team": "PHI",
+      "team": null,
       "years_exp": 4
     },
     "8130": {
