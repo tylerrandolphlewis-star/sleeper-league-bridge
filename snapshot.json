@@ -1,5 +1,5 @@
 {
-  "content_hash": "b3557b66ac03cddea60733905b073d550278b4fad7aef0d0610d3476c7e322d3",
+  "content_hash": "c33258b12dbe9fc98471f611c6b12c98563a7aed21d3444c8e780dd06152310c",
   "drafts": [
     {
       "draft": {
@@ -4237,7 +4237,7 @@
       "traded_picks": []
     }
   ],
-  "generated_at": "2026-11-07T18:20:38.365Z",
+  "generated_at": "2026-11-07T22:11:26.749Z",
   "league": {
     "avatar": null,
     "bracket_id": null,
@@ -17106,12 +17106,12 @@
       ],
       "first_name": "Christian",
       "full_name": "Christian Kirk",
-      "injury_status": "Out",
+      "injury_status": "IR",
       "last_name": "Kirk",
       "number": 3,
       "player_id": "4950",
       "position": "WR",
-      "status": "Active",
+      "status": "Inactive",
       "team": "SF",
       "years_exp": 8
     },
@@ -17122,7 +17122,7 @@
       ],
       "first_name": "DJ",
       "full_name": "DJ Moore",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Moore",
       "number": 2,
       "player_id": "4983",
@@ -17266,7 +17266,7 @@
       ],
       "first_name": "Kyler",
       "full_name": "Kyler Murray",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "last_name": "Murray",
       "number": 1,
       "player_id": "5849",
@@ -17666,7 +17666,7 @@
       ],
       "first_name": "Jauan",
       "full_name": "Jauan Jennings",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "last_name": "Jennings",
       "number": 14,
       "player_id": "7049",
@@ -19186,7 +19186,7 @@
       ],
       "first_name": "Keon",
       "full_name": "Keon Coleman",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Coleman",
       "number": 0,
       "player_id": "11637",
@@ -19410,12 +19410,12 @@
       ],
       "first_name": "Pat",
       "full_name": "Pat Bryant",
-      "injury_status": "IR",
+      "injury_status": "Questionable",
       "last_name": "Bryant",
       "number": 13,
       "player_id": "12492",
       "position": "WR",
-      "status": "Inactive",
+      "status": "Active",
       "team": "DEN",
       "years_exp": 1
     },
@@ -19779,12 +19779,12 @@
       ],
       "first_name": "Jordyn",
       "full_name": "Jordyn Tyson",
-      "injury_status": "IR",
+      "injury_status": "Questionable",
       "last_name": "Tyson",
       "number": 0,
       "player_id": "13281",
       "position": "WR",
-      "status": "Inactive",
+      "status": "Active",
       "team": "NO",
       "years_exp": 0
     },
