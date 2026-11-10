@@ -1,5 +1,5 @@
 {
-  "content_hash": "5273be06cd9783a432498439e40c608a6f7b608e20f9578f43b8a763899cd5c5",
+  "content_hash": "3f1b8f5135a58fb919ae1ebb8a922736a8535c1b42cb11bc4407d844f2496147",
   "drafts": [
     {
       "draft": {
@@ -4237,7 +4237,7 @@
       "traded_picks": []
     }
   ],
-  "generated_at": "2026-11-10T10:27:50.720Z",
+  "generated_at": "2026-11-10T18:05:31.845Z",
   "league": {
     "avatar": null,
     "bracket_id": null,
@@ -4250,9 +4250,9 @@
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
-    "last_message_id": "1424691642744471552",
+    "last_message_id": "1425920015491670016",
     "last_message_text_map": null,
-    "last_message_time": 1794035466422,
+    "last_message_time": 1794328333308,
     "last_pinned_message_id": null,
     "last_read_id": null,
     "league_id": "1389357903374188544",
@@ -4428,7 +4428,7 @@
       "disable_adds": 0,
       "disable_trades": 0,
       "draft_rounds": 3,
-      "last_report": 8,
+      "last_report": 9,
       "last_scored_leg": 9,
       "league_average_match": 0,
       "leg": 9,
@@ -16632,7 +16632,7 @@
       "player_id": "650",
       "position": "K",
       "status": "Active",
-      "team": "ATL",
+      "team": null,
       "years_exp": 19
     },
     "1166": {
