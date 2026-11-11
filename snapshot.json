@@ -1,5 +1,5 @@
 {
-  "content_hash": "fed55a3844c88ed765bf4061ddfe01a91b0a67fb29b4cf2b7a32635848544c86",
+  "content_hash": "cec907399cabb35c47c319d801f1c00cfb2df22da6ccef69968e35effdc303f1",
   "drafts": [
     {
       "draft": {
@@ -4237,7 +4237,7 @@
       "traded_picks": []
     }
   ],
-  "generated_at": "2026-11-11T02:55:24.574Z",
+  "generated_at": "2026-11-11T10:26:44.286Z",
   "league": {
     "avatar": null,
     "bracket_id": null,
@@ -4250,9 +4250,9 @@
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
-    "last_message_id": "1425920015491670016",
+    "last_message_id": "1426154789896482816",
     "last_message_text_map": null,
-    "last_message_time": 1794328333308,
+    "last_message_time": 1794384307887,
     "last_pinned_message_id": null,
     "last_read_id": null,
     "league_id": "1389357903374188544",
@@ -4431,7 +4431,7 @@
       "last_report": 9,
       "last_scored_leg": 9,
       "league_average_match": 0,
-      "leg": 9,
+      "leg": 10,
       "max_keepers": 1,
       "num_teams": 10,
       "offseason_adds": 0,
@@ -10663,7 +10663,6 @@
           "11560",
           "11635",
           "11792",
-          "11834",
           "12490",
           "12501",
           "13274",
@@ -10675,6 +10674,7 @@
           "8131",
           "8228",
           "9224",
+          "9228",
           "SEA"
         ],
         "players_points": {
@@ -10685,10 +10685,10 @@
           "8131": 0,
           "8228": 0,
           "9224": 0,
+          "9228": 0,
           "11560": 0,
           "11635": 0,
           "11792": 0,
-          "11834": 0,
           "12490": 0,
           "12501": 0,
           "13274": 0,
@@ -11335,7 +11335,6 @@
           "11560",
           "11635",
           "11792",
-          "11834",
           "12490",
           "12501",
           "13274",
@@ -11347,6 +11346,7 @@
           "8131",
           "8228",
           "9224",
+          "9228",
           "SEA"
         ],
         "players_points": {
@@ -11357,10 +11357,10 @@
           "8131": 0,
           "8228": 0,
           "9224": 0,
+          "9228": 0,
           "11560": 0,
           "11635": 0,
           "11792": 0,
-          "11834": 0,
           "12490": 0,
           "12501": 0,
           "13274": 0,
@@ -12007,7 +12007,6 @@
           "11560",
           "11635",
           "11792",
-          "11834",
           "12490",
           "12501",
           "13274",
@@ -12019,6 +12018,7 @@
           "8131",
           "8228",
           "9224",
+          "9228",
           "SEA"
         ],
         "players_points": {
@@ -12029,10 +12029,10 @@
           "8131": 0,
           "8228": 0,
           "9224": 0,
+          "9228": 0,
           "11560": 0,
           "11635": 0,
           "11792": 0,
-          "11834": 0,
           "12490": 0,
           "12501": 0,
           "13274": 0,
@@ -12679,7 +12679,6 @@
           "11560",
           "11635",
           "11792",
-          "11834",
           "12490",
           "12501",
           "13274",
@@ -12691,6 +12690,7 @@
           "8131",
           "8228",
           "9224",
+          "9228",
           "SEA"
         ],
         "players_points": {
@@ -12701,10 +12701,10 @@
           "8131": 0,
           "8228": 0,
           "9224": 0,
+          "9228": 0,
           "11560": 0,
           "11635": 0,
           "11792": 0,
-          "11834": 0,
           "12490": 0,
           "12501": 0,
           "13274": 0,
@@ -13351,7 +13351,6 @@
           "11560",
           "11635",
           "11792",
-          "11834",
           "12490",
           "12501",
           "13274",
@@ -13363,6 +13362,7 @@
           "8131",
           "8228",
           "9224",
+          "9228",
           "SEA"
         ],
         "players_points": {
@@ -13373,10 +13373,10 @@
           "8131": 0,
           "8228": 0,
           "9224": 0,
+          "9228": 0,
           "11560": 0,
           "11635": 0,
           "11792": 0,
-          "11834": 0,
           "12490": 0,
           "12501": 0,
           "13274": 0,
@@ -14023,7 +14023,6 @@
           "11560",
           "11635",
           "11792",
-          "11834",
           "12490",
           "12501",
           "13274",
@@ -14035,6 +14034,7 @@
           "8131",
           "8228",
           "9224",
+          "9228",
           "SEA"
         ],
         "players_points": {
@@ -14045,10 +14045,10 @@
           "8131": 0,
           "8228": 0,
           "9224": 0,
+          "9228": 0,
           "11560": 0,
           "11635": 0,
           "11792": 0,
-          "11834": 0,
           "12490": 0,
           "12501": 0,
           "13274": 0,
@@ -14695,7 +14695,6 @@
           "11560",
           "11635",
           "11792",
-          "11834",
           "12490",
           "12501",
           "13274",
@@ -14707,6 +14706,7 @@
           "8131",
           "8228",
           "9224",
+          "9228",
           "SEA"
         ],
         "players_points": {
@@ -14717,10 +14717,10 @@
           "8131": 0,
           "8228": 0,
           "9224": 0,
+          "9228": 0,
           "11560": 0,
           "11635": 0,
           "11792": 0,
-          "11834": 0,
           "12490": 0,
           "12501": 0,
           "13274": 0,
@@ -15367,7 +15367,6 @@
           "11560",
           "11635",
           "11792",
-          "11834",
           "12490",
           "12501",
           "13274",
@@ -15379,6 +15378,7 @@
           "8131",
           "8228",
           "9224",
+          "9228",
           "SEA"
         ],
         "players_points": {
@@ -15389,10 +15389,10 @@
           "8131": 0,
           "8228": 0,
           "9224": 0,
+          "9228": 0,
           "11560": 0,
           "11635": 0,
           "11792": 0,
-          "11834": 0,
           "12490": 0,
           "12501": 0,
           "13274": 0,
@@ -16039,7 +16039,6 @@
           "11560",
           "11635",
           "11792",
-          "11834",
           "12490",
           "12501",
           "13274",
@@ -16051,6 +16050,7 @@
           "8131",
           "8228",
           "9224",
+          "9228",
           "SEA"
         ],
         "players_points": {
@@ -16061,10 +16061,10 @@
           "8131": 0,
           "8228": 0,
           "9224": 0,
+          "9228": 0,
           "11560": 0,
           "11635": 0,
           "11792": 0,
-          "11834": 0,
           "12490": 0,
           "12501": 0,
           "13274": 0,
@@ -16571,7 +16571,7 @@
     ]
   },
   "nfl_state": {
-    "display_week": 9,
+    "display_week": 10,
     "league_create_season": "2026",
     "league_season": "2026",
     "leg": 10,
@@ -16738,7 +16738,7 @@
       ],
       "first_name": "Mike",
       "full_name": "Mike Evans",
-      "injury_status": "Out",
+      "injury_status": "Questionable",
       "last_name": "Evans",
       "number": 5,
       "player_id": "2216",
@@ -17266,7 +17266,7 @@
       ],
       "first_name": "Kyler",
       "full_name": "Kyler Murray",
-      "injury_status": "Out",
+      "injury_status": "Doubtful",
       "last_name": "Murray",
       "number": 1,
       "player_id": "5849",
@@ -17298,7 +17298,7 @@
       ],
       "first_name": "A.J.",
       "full_name": "A.J. Brown",
-      "injury_status": "Out",
+      "injury_status": "Questionable",
       "last_name": "Brown",
       "number": 1,
       "player_id": "5859",
@@ -17314,7 +17314,7 @@
       ],
       "first_name": "Deebo",
       "full_name": "Deebo Samuel Sr.",
-      "injury_status": "Out",
+      "injury_status": "Questionable",
       "last_name": "Samuel Sr.",
       "number": 19,
       "player_id": "5872",
@@ -17330,7 +17330,7 @@
       ],
       "first_name": "David",
       "full_name": "David Montgomery",
-      "injury_status": "Out",
+      "injury_status": "Questionable",
       "last_name": "Montgomery",
       "number": 32,
       "player_id": "5892",
@@ -17666,7 +17666,7 @@
       ],
       "first_name": "Jauan",
       "full_name": "Jauan Jennings",
-      "injury_status": "Out",
+      "injury_status": "Questionable",
       "last_name": "Jennings",
       "number": 14,
       "player_id": "7049",
@@ -17890,7 +17890,7 @@
       ],
       "first_name": "Rhamondre",
       "full_name": "Rhamondre Stevenson",
-      "injury_status": "Out",
+      "injury_status": "Doubtful",
       "last_name": "Stevenson",
       "number": 38,
       "player_id": "7611",
@@ -17970,7 +17970,7 @@
       ],
       "first_name": "Zonovan",
       "full_name": "Zonovan Knight",
-      "injury_status": "Out",
+      "injury_status": "Questionable",
       "last_name": "Knight",
       "number": 20,
       "player_id": "8122",
@@ -18098,7 +18098,7 @@
       ],
       "first_name": "George",
       "full_name": "George Pickens",
-      "injury_status": "Out",
+      "injury_status": "Questionable",
       "last_name": "Pickens",
       "number": 3,
       "player_id": "8137",
@@ -18162,7 +18162,7 @@
       ],
       "first_name": "Garrett",
       "full_name": "Garrett Wilson",
-      "injury_status": "Out",
+      "injury_status": "Questionable",
       "last_name": "Wilson",
       "number": 5,
       "player_id": "8146",
@@ -18338,7 +18338,7 @@
       ],
       "first_name": "Rashid",
       "full_name": "Rashid Shaheed",
-      "injury_status": "Out",
+      "injury_status": "Questionable",
       "last_name": "Shaheed",
       "number": 22,
       "player_id": "8676",
@@ -18514,7 +18514,7 @@
       ],
       "first_name": "Puka",
       "full_name": "Puka Nacua",
-      "injury_status": "Questionable",
+      "injury_status": "Doubtful",
       "last_name": "Nacua",
       "number": 12,
       "player_id": "9493",
@@ -18962,7 +18962,7 @@
       ],
       "first_name": "MarShawn",
       "full_name": "MarShawn Lloyd",
-      "injury_status": "Out",
+      "injury_status": "Questionable",
       "last_name": "Lloyd",
       "number": 32,
       "player_id": "11581",
@@ -19074,7 +19074,7 @@
       ],
       "first_name": "Xavier",
       "full_name": "Xavier Worthy",
-      "injury_status": "Out",
+      "injury_status": "Questionable",
       "last_name": "Worthy",
       "number": 1,
       "player_id": "11624",
@@ -19202,7 +19202,7 @@
       ],
       "first_name": "Jaylen",
       "full_name": "Jaylen Wright",
-      "injury_status": "Out",
+      "injury_status": "Questionable",
       "last_name": "Wright",
       "number": 5,
       "player_id": "11643",
@@ -19362,7 +19362,7 @@
       ],
       "first_name": "Cam",
       "full_name": "Cam Skattebo",
-      "injury_status": "Out",
+      "injury_status": null,
       "last_name": "Skattebo",
       "number": 44,
       "player_id": "12481",
@@ -19634,7 +19634,7 @@
       ],
       "first_name": "TreVeyon",
       "full_name": "TreVeyon Henderson",
-      "injury_status": "Out",
+      "injury_status": "Questionable",
       "last_name": "Henderson",
       "number": 32,
       "player_id": "12529",
@@ -19763,7 +19763,7 @@
       ],
       "first_name": "Carnell",
       "full_name": "Carnell Tate",
-      "injury_status": "Out",
+      "injury_status": "Questionable",
       "last_name": "Tate",
       "number": 14,
       "player_id": "13279",
@@ -19875,7 +19875,7 @@
       ],
       "first_name": "KC",
       "full_name": "KC Concepcion Jr.",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Concepcion Jr.",
       "number": 1,
       "player_id": "13298",
@@ -20407,7 +20407,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 0,
-        "waiver_position": 10,
+        "waiver_position": 9,
         "wins": 6
       },
       "starters": [
@@ -20503,7 +20503,6 @@
         "11560",
         "11635",
         "11792",
-        "11834",
         "12490",
         "12501",
         "13274",
@@ -20515,6 +20514,7 @@
         "8131",
         "8228",
         "9224",
+        "9228",
         "SEA"
       ],
       "reserve": null,
@@ -20530,7 +20530,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 0,
-        "waiver_position": 9,
+        "waiver_position": 10,
         "wins": 6
       },
       "starters": [
@@ -21022,7 +21022,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 0,
-        "waiver_position": 10,
+        "waiver_position": 9,
         "wins": 6
       },
       "starter_ids": [
@@ -21104,7 +21104,6 @@
         "11560",
         "11635",
         "11792",
-        "11834",
         "12490",
         "12501",
         "13274",
@@ -21116,6 +21115,7 @@
         "8131",
         "8228",
         "9224",
+        "9228",
         "SEA"
       ],
       "reserve_ids": [],
@@ -21131,7 +21131,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 0,
-        "waiver_position": 9,
+        "waiver_position": 10,
         "wins": 6
       },
       "starter_ids": [
@@ -21636,6 +21636,35 @@
     }
   ],
   "transactions": [
+    {
+      "adds": {
+        "9228": 3
+      },
+      "consenter_ids": [
+        3
+      ],
+      "created": 1794277511962,
+      "creator": "997591442300157952",
+      "draft_picks": [],
+      "drops": {
+        "11834": 3
+      },
+      "leg": 9,
+      "metadata": {
+        "notes": "Your waiver claim was processed successfully!"
+      },
+      "roster_ids": [
+        3
+      ],
+      "settings": {
+        "seq": 0
+      },
+      "status": "complete",
+      "status_updated": 1794384307851,
+      "transaction_id": "1425706855321067520",
+      "type": "waiver",
+      "waiver_budget": []
+    },
     {
       "adds": {
         "5967": 1,
@@ -29364,6 +29393,35 @@
       }
     ],
     "9": [
+      {
+        "adds": {
+          "9228": 3
+        },
+        "consenter_ids": [
+          3
+        ],
+        "created": 1794277511962,
+        "creator": "997591442300157952",
+        "draft_picks": [],
+        "drops": {
+          "11834": 3
+        },
+        "leg": 9,
+        "metadata": {
+          "notes": "Your waiver claim was processed successfully!"
+        },
+        "roster_ids": [
+          3
+        ],
+        "settings": {
+          "seq": 0
+        },
+        "status": "complete",
+        "status_updated": 1794384307851,
+        "transaction_id": "1425706855321067520",
+        "type": "waiver",
+        "waiver_budget": []
+      },
       {
         "adds": {
           "6130": 9
