@@ -1,5 +1,5 @@
 {
-  "content_hash": "4db98880bfa7972aa8e40de02a2ab6e81997ec77484b68ebbb2229c30dd84c5a",
+  "content_hash": "99f65441cc83a6668dfef096233854f3e03c85e4e397851d2ada03c136ae342a",
   "drafts": [
     {
       "draft": {
@@ -4237,7 +4237,7 @@
       "traded_picks": []
     }
   ],
-  "generated_at": "2026-11-14T20:51:58.626Z",
+  "generated_at": "2026-11-15T00:49:24.672Z",
   "league": {
     "avatar": null,
     "bracket_id": null,
@@ -17780,7 +17780,7 @@
       ],
       "first_name": "Travis",
       "full_name": "Travis Etienne Jr.",
-      "injury_status": "IR",
+      "injury_status": "Questionable",
       "last_name": "Etienne Jr.",
       "number": 3,
       "player_id": "7543",
@@ -19684,12 +19684,12 @@
       ],
       "first_name": "TreVeyon",
       "full_name": "TreVeyon Henderson",
-      "injury_status": "Out",
+      "injury_status": "IR",
       "last_name": "Henderson",
       "number": 32,
       "player_id": "12529",
       "position": "RB",
-      "status": "Active",
+      "status": "Inactive",
       "team": "NE",
       "years_exp": 1
     },
