@@ -1,5 +1,5 @@
 {
-  "content_hash": "1ee3ed0451375bc4275de6b045760eef0ba34449a15c3568f75fb86f5870de1e",
+  "content_hash": "936c592b22893bb5f686128538a6b5507143a5425284dfdce269a141328e947e",
   "drafts": [
     {
       "draft": {
@@ -4237,7 +4237,7 @@
       "traded_picks": []
     }
   ],
-  "generated_at": "2026-11-19T02:19:16.073Z",
+  "generated_at": "2026-11-19T10:38:00.721Z",
   "league": {
     "avatar": null,
     "bracket_id": null,
@@ -16696,7 +16696,7 @@
       "full_name": "Keenan Allen",
       "injury_status": null,
       "last_name": "Allen",
-      "number": 10,
+      "number": 3,
       "player_id": "1479",
       "position": "WR",
       "status": "Active",
