@@ -1,5 +1,5 @@
 {
-  "content_hash": "070e8ae12214e1c9c5cf50b7101a6cf7cdadb93e290c87b3665f0d5c17a7f848",
+  "content_hash": "e26cefa9804e520ea3306b015c8237a9b6926eefb59eb098d46b9abde81cbd90",
   "drafts": [
     {
       "draft": {
@@ -4237,7 +4237,7 @@
       "traded_picks": []
     }
   ],
-  "generated_at": "2026-11-20T08:37:56.169Z",
+  "generated_at": "2026-11-20T17:18:22.009Z",
   "league": {
     "avatar": null,
     "bracket_id": null,
@@ -19863,7 +19863,7 @@
       ],
       "first_name": "Omar",
       "full_name": "Omar Cooper Jr.",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "last_name": "Cooper Jr.",
       "number": 11,
       "player_id": "13276",
