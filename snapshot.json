@@ -1,5 +1,5 @@
 {
-  "content_hash": "6ad4ff070db3bcee4f42ba3658bbb1a220836e5718b0027eb7435218d86e0074",
+  "content_hash": "246fe91993b15c425bd0ab4ac5e5b1d3b3f2b1fbcb7c46b95d03ac6345ec67c0",
   "drafts": [
     {
       "draft": {
@@ -4237,7 +4237,7 @@
       "traded_picks": []
     }
   ],
-  "generated_at": "2026-11-20T23:16:03.681Z",
+  "generated_at": "2026-11-21T23:56:06.784Z",
   "league": {
     "avatar": null,
     "bracket_id": null,
@@ -18230,7 +18230,7 @@
       ],
       "first_name": "Kyren",
       "full_name": "Kyren Williams",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "Williams",
       "number": 23,
       "player_id": "8150",
@@ -18534,12 +18534,12 @@
       ],
       "first_name": "Dontayvion",
       "full_name": "Dontayvion Wicks",
-      "injury_status": "Out",
+      "injury_status": "IR",
       "last_name": "Wicks",
       "number": 13,
       "player_id": "9486",
       "position": "WR",
-      "status": "Active",
+      "status": "Inactive",
       "team": "PHI",
       "years_exp": 3
     },
@@ -18696,7 +18696,7 @@
       "full_name": "Kendre Miller",
       "injury_status": null,
       "last_name": "Miller",
-      "number": 5,
+      "number": 31,
       "player_id": "9757",
       "position": "RB",
       "status": "Active",
@@ -19014,12 +19014,12 @@
       ],
       "first_name": "Will",
       "full_name": "Will Shipley",
-      "injury_status": "IR",
+      "injury_status": "Questionable",
       "last_name": "Shipley",
       "number": 28,
       "player_id": "11577",
       "position": "RB",
-      "status": "Inactive",
+      "status": "Active",
       "team": "PHI",
       "years_exp": 2
     },
@@ -19190,12 +19190,12 @@
       ],
       "first_name": "Roman",
       "full_name": "Roman Wilson",
-      "injury_status": "IR",
+      "injury_status": "Questionable",
       "last_name": "Wilson",
       "number": 14,
       "player_id": "11630",
       "position": "WR",
-      "status": "Inactive",
+      "status": "Active",
       "team": "PIT",
       "years_exp": 2
     },
