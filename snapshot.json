@@ -1,5 +1,5 @@
 {
-  "content_hash": "246fe91993b15c425bd0ab4ac5e5b1d3b3f2b1fbcb7c46b95d03ac6345ec67c0",
+  "content_hash": "7df107ffb4863766b851a29a08559a91db845383eb115fcb6f01f5da0576309d",
   "drafts": [
     {
       "draft": {
@@ -4237,7 +4237,7 @@
       "traded_picks": []
     }
   ],
-  "generated_at": "2026-11-21T23:56:06.784Z",
+  "generated_at": "2026-11-22T05:32:07.136Z",
   "league": {
     "avatar": null,
     "bracket_id": null,
@@ -18048,7 +18048,7 @@
       "years_exp": 4
     },
     "8130": {
-      "age": 26,
+      "age": 27,
       "fantasy_positions": [
         "TE"
       ],
@@ -18587,7 +18587,7 @@
       "number": 12,
       "player_id": "9493",
       "position": "WR",
-      "status": "Active",
+      "status": "Inactive",
       "team": "LAR",
       "years_exp": 3
     },
