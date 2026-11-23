@@ -1,5 +1,5 @@
 {
-  "content_hash": "ba75a24aa5d12310bd936f349ff33b9b98153d22a35e0d1b7ffb79029fc7641b",
+  "content_hash": "eab6cfa9453820b1e67c0eec6e7e78d31c821f3d386419dc9627e20943f05d9f",
   "drafts": [
     {
       "draft": {
@@ -4237,7 +4237,7 @@
       "traded_picks": []
     }
   ],
-  "generated_at": "2026-11-23T09:06:43.119Z",
+  "generated_at": "2026-11-23T21:26:13.339Z",
   "league": {
     "avatar": null,
     "bracket_id": null,
@@ -19334,7 +19334,7 @@
       ],
       "first_name": "Cam",
       "full_name": "Cam Little",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "Little",
       "number": 39,
       "player_id": "11786",
@@ -19478,7 +19478,7 @@
       ],
       "first_name": "Bhayshul",
       "full_name": "Bhayshul Tuten",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "Tuten",
       "number": 33,
       "player_id": "12490",
@@ -19767,7 +19767,7 @@
       ],
       "first_name": "Jacory",
       "full_name": "Jacory Croskey-Merritt",
-      "injury_status": "IR",
+      "injury_status": null,
       "last_name": "Croskey-Merritt",
       "number": 22,
       "player_id": "12533",
