@@ -1,5 +1,5 @@
 {
-  "content_hash": "eab6cfa9453820b1e67c0eec6e7e78d31c821f3d386419dc9627e20943f05d9f",
+  "content_hash": "a0c2d7bb537fd44b3234a393bd1c2dc2e32152dc722d88cff6f8d617cef50ff1",
   "drafts": [
     {
       "draft": {
@@ -4237,7 +4237,7 @@
       "traded_picks": []
     }
   ],
-  "generated_at": "2026-11-23T21:26:13.339Z",
+  "generated_at": "2026-11-24T05:26:37.780Z",
   "league": {
     "avatar": null,
     "bracket_id": null,
@@ -11222,7 +11222,7 @@
         ],
         "players_points": {
           "4037": 4.3,
-          "4993": 0,
+          "4993": 12.7,
           "5967": 11,
           "6650": 3,
           "7523": 12.74,
@@ -11295,7 +11295,7 @@
           "4881": 0,
           "5022": 4.8,
           "7525": 9.1,
-          "7564": 0,
+          "7564": 8.1,
           "8136": 0,
           "9758": 20.46,
           "11646": 8.7,
@@ -11307,7 +11307,7 @@
           "CAR": 5,
           "CLE": 0
         },
-        "points": 120.56,
+        "points": 128.66,
         "roster_id": 2,
         "starters": [
           "9758",
@@ -11326,7 +11326,7 @@
           27.9,
           10.3,
           19.1,
-          0,
+          8.1,
           4.8,
           22.9,
           9.1,
@@ -11356,13 +11356,13 @@
           "SEA"
         ],
         "players_points": {
-          "2449": 0,
+          "2449": 8.5,
           "4983": 23.1,
           "5844": 11.5,
           "7547": 14.7,
           "8131": 4.5,
           "8228": 4.9,
-          "9224": 0,
+          "9224": 8.6,
           "9228": 15.96,
           "11560": 14.34,
           "11792": 3,
@@ -11373,7 +11373,7 @@
           "CHI": 16,
           "SEA": 0
         },
-        "points": 100.64,
+        "points": 117.74,
         "roster_id": 3,
         "starters": [
           "11560",
@@ -11390,9 +11390,9 @@
         "starters_points": [
           14.34,
           8.3,
-          0,
+          8.6,
           14.7,
-          0,
+          8.5,
           4.5,
           34.9,
           4.9,
@@ -11429,7 +11429,7 @@
           "4217": 18.4,
           "5045": 0,
           "5850": 0,
-          "6801": 0,
+          "6801": 12.3,
           "6813": 6.7,
           "8148": 19.3,
           "10232": 0,
@@ -11441,7 +11441,7 @@
           "13424": 1.8,
           "MIN": 0
         },
-        "points": 133.7,
+        "points": 146,
         "roster_id": 4,
         "starters": [
           "3294",
@@ -11459,7 +11459,7 @@
           35.9,
           19.1,
           6.7,
-          0,
+          12.3,
           19.3,
           18.4,
           0,
@@ -11499,7 +11499,7 @@
           "8137": 23.8,
           "8408": 4.7,
           "9221": 27.8,
-          "11566": 0,
+          "11566": 17.06,
           "11584": 19,
           "12506": 0,
           "12514": 3.8,
@@ -11507,7 +11507,7 @@
           "BUF": 10,
           "DEN": 13
         },
-        "points": 144.5,
+        "points": 161.56,
         "roster_id": 5,
         "starters": [
           "11566",
@@ -11522,7 +11522,7 @@
           "BUF"
         ],
         "starters_points": [
-          0,
+          17.06,
           26,
           27.8,
           23.8,
@@ -11629,7 +11629,7 @@
           "5846": 1.2,
           "6804": 0,
           "7526": 9.1,
-          "7839": 0,
+          "7839": 10,
           "9484": 0,
           "9756": 0,
           "11620": 8.5,
@@ -11639,7 +11639,7 @@
           "KC": 9,
           "PIT": 9
         },
-        "points": 119.76,
+        "points": 129.76,
         "roster_id": 7,
         "starters": [
           "3163",
@@ -11662,7 +11662,7 @@
           25.4,
           9.1,
           18.5,
-          0,
+          10,
           9
         ]
       },
@@ -11771,11 +11771,11 @@
           "9753": 0,
           "11539": 8,
           "12481": 5.8,
-          "12533": 0,
+          "12533": 15.7,
           "JAX": 6,
           "LAR": 0
         },
-        "points": 103.78,
+        "points": 119.48,
         "roster_id": 9,
         "starters": [
           "96",
@@ -11797,7 +11797,7 @@
           7.7,
           14.8,
           18.3,
-          0,
+          15.7,
           8,
           6
         ]
@@ -11827,7 +11827,7 @@
         "players_points": {
           "3451": 6,
           "4199": 11.3,
-          "6770": 0,
+          "6770": 19.9,
           "6794": 13.7,
           "7567": 9.9,
           "7600": 9,
@@ -11843,7 +11843,7 @@
           "12512": 0,
           "DET": 7
         },
-        "points": 103.3,
+        "points": 123.2,
         "roster_id": 10,
         "starters": [
           "6770",
@@ -11858,7 +11858,7 @@
           "DET"
         ],
         "starters_points": [
-          0,
+          19.9,
           0,
           11.3,
           13.7,
@@ -16594,13 +16594,13 @@
     "display_week": 11,
     "league_create_season": "2026",
     "league_season": "2026",
-    "leg": 11,
+    "leg": 12,
     "previous_season": "2025",
     "season": "2026",
     "season_has_scores": true,
     "season_start_date": "2026-09-09",
     "season_type": "regular",
-    "week": 11
+    "week": 12
   },
   "players": {
     "0": {
@@ -17222,7 +17222,7 @@
       ],
       "first_name": "Dallas",
       "full_name": "Dallas Goedert",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "Goedert",
       "number": 88,
       "player_id": "5022",
@@ -18118,7 +18118,7 @@
       ],
       "first_name": "Rachaad",
       "full_name": "Rachaad White",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "White",
       "number": 1,
       "player_id": "8136",
@@ -18838,7 +18838,7 @@
       ],
       "first_name": "Sam",
       "full_name": "Sam LaPorta",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "LaPorta",
       "number": 87,
       "player_id": "10859",
@@ -19014,7 +19014,7 @@
       ],
       "first_name": "Will",
       "full_name": "Will Shipley",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "Shipley",
       "number": 28,
       "player_id": "11577",
@@ -19772,7 +19772,7 @@
       "number": 22,
       "player_id": "12533",
       "position": "RB",
-      "status": "Inactive",
+      "status": "Active",
       "team": "WAS",
       "years_exp": 1
     },
