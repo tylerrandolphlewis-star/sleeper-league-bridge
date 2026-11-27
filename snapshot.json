@@ -1,5 +1,5 @@
 {
-  "content_hash": "6279f66b13295beb4ebe49b8c935e8ac4f37e2efc0cd071244c486da4b15a8e8",
+  "content_hash": "adf920bf37c14c6f4c4c37392c9cfbf21aca90e168a8b059bdc6a1cc732c9aa6",
   "drafts": [
     {
       "draft": {
@@ -4237,7 +4237,7 @@
       "traded_picks": []
     }
   ],
-  "generated_at": "2026-11-27T11:26:31.155Z",
+  "generated_at": "2026-11-27T20:10:01.747Z",
   "league": {
     "avatar": null,
     "bracket_id": null,
@@ -12033,7 +12033,7 @@
           "5844": 0,
           "7547": 21.6,
           "8131": 0,
-          "8228": 0,
+          "8228": 2.5,
           "9224": 0,
           "10219": 0,
           "11560": 25.3,
@@ -12045,7 +12045,7 @@
           "SEA": 0,
           "WAS": 0
         },
-        "points": 50.4,
+        "points": 52.9,
         "roster_id": 3,
         "starters": [
           "11560",
@@ -12067,7 +12067,7 @@
           3.5,
           0,
           0,
-          0,
+          2.5,
           0,
           0
         ]
@@ -12177,9 +12177,9 @@
           "12514": 0,
           "13287": 0,
           "BUF": 6,
-          "DEN": 0
+          "DEN": 10
         },
-        "points": 70.9,
+        "points": 80.9,
         "roster_id": 5,
         "starters": [
           "11566",
@@ -12203,7 +12203,7 @@
           0,
           0,
           11,
-          0
+          10
         ]
       },
       {
@@ -12298,7 +12298,7 @@
           "3163": 15.82,
           "4034": 0,
           "4866": 0.7,
-          "5846": 0,
+          "5846": 1.5,
           "5892": 0,
           "6804": 8.62,
           "7526": 0,
@@ -12309,9 +12309,9 @@
           "11632": 0,
           "12474": 0,
           "13286": 0,
-          "PIT": 0
+          "PIT": 10
         },
-        "points": 57.72,
+        "points": 67.72,
         "roster_id": 7,
         "starters": [
           "3163",
@@ -12335,7 +12335,7 @@
           0,
           11.1,
           0,
-          0
+          10
         ]
       },
       {
@@ -12365,7 +12365,7 @@
           "2133": 0,
           "4984": 3.54,
           "6786": 20.4,
-          "7021": 0,
+          "7021": 1.1,
           "7553": 0,
           "7588": 33.3,
           "8183": 0,
@@ -17290,7 +17290,7 @@
       ],
       "first_name": "A.J.",
       "full_name": "A.J. Brown",
-      "injury_status": "Doubtful",
+      "injury_status": "Out",
       "last_name": "Brown",
       "number": 1,
       "player_id": "5859",
@@ -17626,7 +17626,7 @@
       ],
       "first_name": "Juwan",
       "full_name": "Juwan Johnson",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "last_name": "Johnson",
       "number": 83,
       "player_id": "7002",
@@ -18522,7 +18522,7 @@
       ],
       "first_name": "Parker",
       "full_name": "Parker Washington",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "last_name": "Washington",
       "number": 11,
       "player_id": "9487",
@@ -18650,7 +18650,7 @@
       ],
       "first_name": "Jordan",
       "full_name": "Jordan Addison",
-      "injury_status": "Doubtful",
+      "injury_status": "Out",
       "last_name": "Addison",
       "number": 3,
       "player_id": "9756",
@@ -19851,7 +19851,7 @@
       ],
       "first_name": "Omar",
       "full_name": "Omar Cooper Jr.",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "last_name": "Cooper Jr.",
       "number": 11,
       "player_id": "13276",
