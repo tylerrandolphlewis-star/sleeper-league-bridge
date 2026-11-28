@@ -1,5 +1,5 @@
 {
-  "content_hash": "adf920bf37c14c6f4c4c37392c9cfbf21aca90e168a8b059bdc6a1cc732c9aa6",
+  "content_hash": "ef3944e746cbb74ac9a31d5985f85990bcc4931d56e5fad8d80180c16a7994d9",
   "drafts": [
     {
       "draft": {
@@ -4237,7 +4237,7 @@
       "traded_picks": []
     }
   ],
-  "generated_at": "2026-11-27T20:10:01.747Z",
+  "generated_at": "2026-11-28T02:41:24.748Z",
   "league": {
     "avatar": null,
     "bracket_id": null,
@@ -12033,19 +12033,19 @@
           "5844": 0,
           "7547": 21.6,
           "8131": 0,
-          "8228": 2.5,
+          "8228": 5.6,
           "9224": 0,
           "10219": 0,
           "11560": 25.3,
           "11792": 0,
           "12490": 0,
           "12501": 4.9,
-          "13274": 0,
-          "13345": 0,
+          "13274": 6.8,
+          "13345": 15.2,
           "SEA": 0,
           "WAS": 0
         },
-        "points": 52.9,
+        "points": 71.2,
         "roster_id": 3,
         "starters": [
           "11560",
@@ -12061,13 +12061,13 @@
         ],
         "starters_points": [
           25.3,
-          0,
+          15.2,
           0,
           21.6,
           3.5,
           0,
           0,
-          2.5,
+          5.6,
           0,
           0
         ]
@@ -12177,9 +12177,9 @@
           "12514": 0,
           "13287": 0,
           "BUF": 6,
-          "DEN": 10
+          "DEN": 9
         },
-        "points": 80.9,
+        "points": 79.9,
         "roster_id": 5,
         "starters": [
           "11566",
@@ -12203,7 +12203,7 @@
           0,
           0,
           11,
-          10
+          9
         ]
       },
       {
@@ -12298,10 +12298,10 @@
           "3163": 15.82,
           "4034": 0,
           "4866": 0.7,
-          "5846": 1.5,
+          "5846": 12.6,
           "5892": 0,
           "6804": 8.62,
-          "7526": 0,
+          "7526": 10.3,
           "7839": 0,
           "9484": 3.4,
           "9756": 0,
@@ -12309,9 +12309,9 @@
           "11632": 0,
           "12474": 0,
           "13286": 0,
-          "PIT": 10
+          "PIT": 27
         },
-        "points": 67.72,
+        "points": 95.02,
         "roster_id": 7,
         "starters": [
           "3163",
@@ -12330,12 +12330,12 @@
           0,
           0.7,
           26.7,
-          0,
+          10.3,
           3.4,
           0,
           11.1,
           0,
-          10
+          27
         ]
       },
       {
@@ -12361,11 +12361,11 @@
           "TB"
         ],
         "players_points": {
-          "1945": 0,
+          "1945": 10,
           "2133": 0,
           "4984": 3.54,
           "6786": 20.4,
-          "7021": 1.1,
+          "7021": 6.4,
           "7553": 0,
           "7588": 33.3,
           "8183": 0,
@@ -12379,7 +12379,7 @@
           "13414": 0,
           "TB": 0
         },
-        "points": 80.64,
+        "points": 90.64,
         "roster_id": 8,
         "starters": [
           "4984",
@@ -12402,7 +12402,7 @@
           0,
           7.5,
           0,
-          0,
+          10,
           0
         ]
       },
@@ -12501,13 +12501,13 @@
           "6770": 0,
           "6794": 0,
           "7567": 0,
-          "7600": 0,
+          "7600": 1.1,
           "8144": 0,
           "8151": 0,
           "8167": 16.5,
           "9997": 0,
           "10236": 3.3,
-          "11563": 0,
+          "11563": 1.46,
           "11624": 0,
           "11635": 0,
           "12512": 0,
@@ -16826,7 +16826,7 @@
       ],
       "first_name": "Derrick",
       "full_name": "Derrick Henry",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Henry",
       "number": 22,
       "player_id": "3198",
@@ -17162,7 +17162,7 @@
       ],
       "first_name": "Dalton",
       "full_name": "Dalton Schultz",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Schultz",
       "number": 86,
       "player_id": "5001",
@@ -17258,7 +17258,7 @@
       ],
       "first_name": "Kyler",
       "full_name": "Kyler Murray",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Murray",
       "number": 1,
       "player_id": "5849",
@@ -17354,7 +17354,7 @@
       ],
       "first_name": "Jakobi",
       "full_name": "Jakobi Meyers",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Meyers",
       "number": 3,
       "player_id": "5947",
@@ -17514,7 +17514,7 @@
       ],
       "first_name": "Justin",
       "full_name": "Justin Herbert",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "last_name": "Herbert",
       "number": 10,
       "player_id": "6797",
@@ -17530,7 +17530,7 @@
       ],
       "first_name": "Tee",
       "full_name": "Tee Higgins",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "Higgins",
       "number": 5,
       "player_id": "6801",
@@ -18042,7 +18042,7 @@
       ],
       "first_name": "Isaiah",
       "full_name": "Isaiah Likely",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Likely",
       "number": 9,
       "player_id": "8131",
@@ -18282,7 +18282,7 @@
       ],
       "first_name": "Brock",
       "full_name": "Brock Purdy",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "last_name": "Purdy",
       "number": 13,
       "player_id": "8183",
@@ -18538,7 +18538,7 @@
       ],
       "first_name": "Jaxon",
       "full_name": "Jaxon Smith-Njigba",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Smith-Njigba",
       "number": 11,
       "player_id": "9488",
@@ -19402,7 +19402,7 @@
       ],
       "first_name": "Woody",
       "full_name": "Woody Marks",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Marks",
       "number": 4,
       "player_id": "12474",
@@ -19450,7 +19450,7 @@
       ],
       "first_name": "Bhayshul",
       "full_name": "Bhayshul Tuten",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "last_name": "Tuten",
       "number": 33,
       "player_id": "12490",
